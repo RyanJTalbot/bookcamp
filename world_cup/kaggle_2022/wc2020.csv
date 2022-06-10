@@ -1,53 +1,38 @@
 ﻿Team,Group,"Previous 
-appearances","Previous 
 titles","Previous
- finals","Previous
- semifinals","Current 
-FIFA rank","First match 
-against",Match index,"history with 
-first opponent
- W-L","history with
- first opponent
- goals","Second match
- against",Match index,"history with
- second opponent
- W-L","history with
- second opponent
- goals","Third match
- against",Match index,"history with
- third opponent
- W-L","history with
- third opponent
- goals"
-Qatar,A,,,,,,Ecuador,,,,Senegal,,,,Netherlands,,,
-Ecuador,A,,,,,,Qatar,,,,Netherlands,,,,Senegal,,,
-Senegal,A,,,,,,Netherlands,,,,Qatar,,,,Ecuador,,,
-Netherlands,A,,,,,,Senegal,,,,Ecuador,,,,Qatar,,,
-England,B,,,,,,Iran,,,,USA,,,,Wales,,,
-Iran,B,,,,,,England,,,,Wales,,,,USA,,,
-USA,B,,,,,,Wales,,,,England,,,,Iran,,,
-Wales,B,,,,,,USA,,,,Iran,,,,England,,,
-Argentina,C,,,,,,Saudi Arabia,,,,Mexico,,,,Poland,,,
-Saudi Arabia,C,,,,,,Argentina,,,,Poland,,,,Mexico,,,
-Mexico,C,,,,,,Poland,,,,Argentina,,,,Saudi Arabia,,,
-Poland,C,,,,,,Mexico,,,,Saudi Arabia,,,,Argentina,,,
-France,D,,,,,,Peru,,,,Denmark,,,,Tunisia,,,
-Denmark,D,,,,,,Tunisia,,,,France,,,,Peru,,,
-Tunisia,D,,,,,,Denmark,,,,Peru,,,,France,,,
-Peru,D,,,,,,France,,,,Tunisia,,,,Denmark,,,
-Spain,E,,,,,,Costa Rica,,,,Germany,,,,Japan,,,
-Germany,E,,,,,,Japan,,,,Spain,,,,Costa Rica,,,
-Japan,E,,,,,,Germany,,,,Costa Rica,,,,Spain,,,
-Costa Rica,E,,,,,,Spain,,,,Japan,,,,Germany,,,
-Belgium,F,,,,,,Canada,,,,Morocco,,,,Croatia,,,
-Canada,F,,,,,,Belgium,,,,Croatia,,,,Morocco,,,
-Morocco,F,,,,,,Croatia,,,,Belgium,,,,Canada,,,
-Croatia,F,,,,,,Morocco,,,,Canada,,,,Belgium,,,
-Brazil,G,,,,,,Serbia,,,,Switzerland,,,,Cameroon,,,
-Serbia,G,,,,,,Brazil,,,,Cameroon,,,,Switzerland,,,
-Switzerland,G,,,,,,Cameroon,,,,Brazil,,,,Serbia,,,
-Cameroon,G,,,,,,Switzerland,,,,Serbia,,,,Brazil,,,
-Portugal,H,,,,,,Ghana,,,,Uruguay,,,,South Korea,,,
-Ghana,H,,,,,,Portugal,,,,South Korea,,,,Uruguay,,,
-Uruguay,H,,,,,,South Korea,,,,Portugal,,,,Ghana,,,
-South Korea ,H,,,,,,Uruguay,,,,Ghana,,,,Portufal,,,
+ finals",Current FIFA Rank,"First match 
+against","Second match
+ against","Third match
+ against"
+Ecuador,A,0,0,46,Qatar,Netherlands,Senegal
+Netherlands,A,0,3,10,Senegal,Ecuador,Qatar
+Qatar,A,0,0,51,Ecuador,Senegal,Netherlands
+Senegal,A,0,0,20,Netherlands,Qatar,Ecuador
+England,B,1,1,5,Iran,USA,Wales
+Iran,B,0,0,21,England,Wales,USA
+USA,B,0,0,15,Wales,England,Iran
+Wales,B,0,0,18,USA,Iran,England
+Argentina,C,2,5,4,Saudi Arabia,Mexico,Poland
+Mexico,C,0,0,9,Poland,Argentina,Saudi Arabia
+Poland,C,0,0,26,Mexico,Saudi Arabia,Argentina
+Saudi Arabia,C,0,0,49,Argentina,Poland,Mexico
+Denmark,D,0,0,11,Tunisia,France,Peru
+France,D,2,3,3,Peru,Denmark,Tunisia
+Peru,D,0,0,22,France,Tunisia,Denmark
+Tunisia,D,0,0,35,Denmark,Peru,France
+Costa Rica,E,0,0,31,Spain,Japan,Germany
+Germany,E,4,8,12,Japan,Spain,Costa Rica
+Japan,E,0,0,23,Germany,Costa Rica,Spain
+Spain,E,1,1,7,Costa Rica,Germany,Japan
+Belgium,F,0,0,2,Canada,Morocco,Croatia
+Canada,F,0,0,38,Belgium,Croatia,Morocco
+Croatia,F,0,1,16,Morocco,Canada,Belgium
+Morocco,F,0,0,24,Croatia,Belgium,Canada
+Brazil,G,5,7,1,Serbia,Switzerland,Cameroon
+Cameroon,G,0,0,37,Switzerland,Serbia,Brazil
+Serbia,G,0,0,25,Brazil,Cameroon,Switzerland
+Switzerland,G,0,0,14,Cameroon,Brazil,Serbia
+Ghana,H,0,0,60,Portugal,South Korea,Uruguay
+Portugal,H,0,0,8,Ghana,Uruguay,South Korea
+South Korea ,H,0,0,29,Uruguay,Ghana,Portufal
+Uruguay,H,2,2,13,South Korea,Portugal,Ghana
