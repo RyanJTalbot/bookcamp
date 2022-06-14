@@ -16,10 +16,10 @@ Argentina,C,2,5,5,4,Saudi Arabia,5,2,Mexico,21,2,Poland,37,3
 Mexico,C,0,0,0,9,Poland,6,0,Argentina,21,-2,Saudi Arabia,38,4
 Poland,C,0,0,2,26,Mexico,6,0,Saudi Arabia,22,4,Argentina,37,-3
 Saudi Arabia,C,0,0,0,49,Argentina,5,-2,Poland,22,-4,Mexico,38,-4
-Denmark,D,0,0,0,11,Tunisia,7,1,France,23,-3,Peru,39,1
-France,D,2,3,6,3,Peru,8,0,Denmark,23,3,Tunisia,40,1
-Peru,D,0,0,0,22,France,8,0,Tunisia,24,0,Denmark,39,-1
-Tunisia,D,0,0,0,35,Denmark,7,-1,Peru,24,0,France,40,-1
+Denmark,D,0,0,0,11,Tunisia,7,1,France,23,-3,Australia,39,0
+France,D,2,3,6,3,Australia,8,1,Denmark,23,3,Tunisia,40,1
+Australia,D,0,0,0,22,France,8,-1,Tunisia,24,n/a,Denmark,39,0
+Tunisia,D,0,0,0,35,Denmark,7,-1,Australia,24,n/a,France,40,-1
 Costa Rica,E,0,0,0,31,Spain,9,-2,Japan,25,-4,Germany,41,-1
 Germany,E,4,8,13,12,Japan,10,1,Spain,26,1,Costa Rica,41,1
 Japan,E,0,0,0,23,Germany,10,-1,Costa Rica,25,4,Spain,42,-1

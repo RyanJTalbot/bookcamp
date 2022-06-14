@@ -1,4 +1,4 @@
-date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,home-away,home wins
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,home-away,home_wins
 1872-11-30,Scotland,England,0,0,Friendly,Glasgow,Scotland,FALSE,0,T
 1873-03-08,England,Scotland,4,2,Friendly,London,England,FALSE,2,W
 1874-03-07,Scotland,England,2,1,Friendly,Glasgow,Scotland,FALSE,1,W
