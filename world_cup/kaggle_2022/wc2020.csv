@@ -1,9 +1,6 @@
 ﻿Team,Group,"Previous 
 titles","Previous
- finals",Previous semifinals,Current FIFA Rank,"First match 
-against",Match index,History with first Opponent,"Second match
- against",match index.2,History with second Opponent,"Third match
- against",match index.3,History with third Opponent
+ finals",Previous semifinals,Current FIFA Rank,first match,Match index,History with first Opponent,second match,match index.2,History with second Opponent,third match,match index.3,History with third Opponent
 Ecuador,A,0,0,0,46,Qatar,1,0,Netherlands,17,-1,Senegal,33,-1
 Netherlands,A,0,3,5,10,Senegal,2,n/a,Ecuador,17,1,Qatar,34,n/a
 Qatar,A,0,0,0,51,Ecuador,1,0,Senegal,18,n/a,Netherlands,34,n/a
