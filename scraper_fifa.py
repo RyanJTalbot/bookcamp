@@ -1,77 +1,271 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 11 10:47:43 2018
 
-import datetime
-import hashlib
-import os
-import time
+@author: mrthl
+"""
 
-import pandas as pd
 from bs4 import BeautifulSoup
-from selenium import webdriver
+import requests
+import pandas as pd
+import sys
+from bs4 import UnicodeDammit
+from unidecode import unidecode
 
-if __name__ == '__main__':
-    if not os.path.exists('.cache'):
-        os.makedirs('.cache')
 
-    first_rank, last_rank = 2, 287
-    fifa_url = 'https://www.fifa.com/fifa-world-ranking/ranking-table/men/rank={}/index.html'
+def retrieve_info(url, test=False):
+    r = requests.get(url)
+#    status = r.status_code
+    html_doc = r.text
+    soup = BeautifulSoup(html_doc, "lxml")
 
-    full_results = []
-    driver = webdriver.Chrome()
-    try:
-        for i in range(first_rank, last_rank+1):
-            retr_url = fifa_url.format(i)
-            cache_path = os.path.join('.cache', hashlib.md5(
-                retr_url.encode('utf-8')).hexdigest() + '.html')
-            if not os.path.exists(cache_path):
-                print('Cache miss! Retrieving {}'.format(retr_url))
-                driver.get(retr_url)
-                time.sleep(2)
-                # Expand all teams.
-                driver.find_element_by_link_text('201-211').click()
+    labels = ['Nation']
+    team_info = []
 
-                with open(cache_path, 'w') as cache_file:
-                    cache_file.write(driver.page_source)
+    nation_name = soup.find('h1', class_="media-heading").get_text()
+    nation_name = unidecode(nation_name)
 
-                soup = BeautifulSoup(driver.page_source, 'html.parser')
-            else:
-                print('Cache hit! {}'.format(retr_url))
-                with open(cache_path, 'r') as cached_file:
-                    soup = BeautifulSoup(cached_file, 'html.parser')
+    team_info.append(nation_name)
 
-            # Date
-            rank_date = soup.find(
-                'div', {'class': ['slider-wrap']}).find('li').text.strip()
-            rank_date = datetime.datetime.strptime(rank_date, '%d %B %Y')
+    tables = soup.findAll('div', class_="panel panel-info")
+    # We dont need the second and the last table so delete them
+    _ = tables.pop(1)
+    _ = tables.pop(-1)
 
-            # Ranking Table
-            table_classes = {
-                'class': ['table', 'tbl-ranking', 'table-striped']}
-            tr_classes = {'class': ['anchor', 'expanded']}
-            td_skip = [0, 3, 8, 17, 18]
-            for table in soup.find_all('table', table_classes):
-                for tr in table.find_all('tr', tr_classes):
-                    try:
-                        res = [td.text.strip() for i, td in enumerate(
-                            tr.find_all('td')) if i not in td_skip]
-                        res += [rank_date]
-                        full_results.append(res)
-                    except TypeError:
-                        pass
-    finally:
-        driver.quit()
+    # for i in range(len(tables)):
+    #    print(tables[i].find('h3').get_text())
 
-    col_names = ['rank', 'country_full', 'country_abrv', 'total_points', 'previous_points', 'rank_change',
-                 'cur_year_avg', 'cur_year_avg_weighted', 'last_year_avg', 'last_year_avg_weighted', 'two_year_ago_avg',
-                 'two_year_ago_weighted', 'three_year_ago_avg', 'three_year_ago_weighted', 'confederation', 'rank_date']
+    table_idx = 0
+    for table in tables:
+        suffix = table.find('h3').get_text().strip().replace(' ', '')
+        suffix += '_'
 
-    fifa_rank_df = pd.DataFrame(full_results, columns=col_names)
-    fifa_rank_df['total_points'] = fifa_rank_df['total_points'].apply(
-        lambda x: float(x.split('(')[1][:-1]))
-    num_cols = ['rank', 'total_points', 'previous_points', 'rank_change', 'cur_year_avg', 'cur_year_avg_weighted',
-                'last_year_avg', 'last_year_avg_weighted', 'two_year_ago_avg', 'two_year_ago_weighted',
-                'three_year_ago_avg', 'three_year_ago_weighted']
+        print(suffix)
 
-    for nc in num_cols:
-        fifa_rank_df[nc] = pd.to_numeric(fifa_rank_df[nc], errors='coerce')
+        rows = table.findAll(['li', 'p'])
 
-    fifa_rank_df.to_csv('fifa_ranking.csv', index=False, encoding='utf-8')
+        if table_idx == 0:
+            attr_name = rows[0].contents[0].strip().replace(' ', '')
+            attr_value = rows[0].contents[1].get_text()
+            attr_value = unidecode(attr_value)
+
+            labels.append(suffix+attr_name)
+            team_info.append(attr_value)
+
+            print(attr_name, "-", attr_value)
+            for row in rows[1:-1]:
+                attr_name = row.contents[2].strip()
+                attr_value = row.contents[1].get_text()
+                attr_value = unidecode(attr_value)
+
+                labels.append(suffix+attr_name)
+                team_info.append(attr_value)
+
+                print(attr_name, "-", attr_value)
+        else:
+            for row in rows:
+                attr_name = row.contents[0].strip().replace(' ', '')
+                attr_value = row.contents[1].get_text()
+                attr_value = unidecode(attr_value)
+
+                if (test == False):
+                    labels.append(suffix+attr_name)
+                    team_info.append(attr_value)
+                elif (attr_name != 'Dribbling'):
+                    labels.append(suffix+attr_name)
+                    team_info.append(attr_value)
+
+#                labels.append(suffix+attr_name)
+#                team_info.append(attr_value)
+
+                print(attr_name, "-", attr_value)
+
+        table_idx += 1
+
+    return [labels, team_info]
+
+#url_home = 'https://www.fifaindex.com'
+# versions = ['fifa05_1','fifa06_2','fifa07_3','fifa08_4','fifa09_5','fifa10_6',
+# 'fifa11_7','fifa12_9','fifa13_11','fifa14_13','fifa15_14','fifa16_73','fifa17_173','']
+
+
+#url = "https://www.fifaindex.com/team/1337/germany/fifa11_7/"
+
+# https://www.fifaindex.com/team/1330/czech-republic
+# https://www.fifaindex.com/team/1331/denmark/
+
+
+# ===================================================================
+# WC 10
+    # Nigeria, Algeria,Ghana,Serbia,Japan,Slovakia,North Korea,Honduras
+#version = 'fifa11_7'
+# list_nation = ["https://www.fifaindex.com/team/1335/france/",
+#        "https://www.fifaindex.com/team/1386/mexico/",
+#        "https://www.fifaindex.com/team/111099/south-africa/",
+#        "https://www.fifaindex.com/team/1377/uruguay/",
+#        "https://www.fifaindex.com/team/1369/argentina/",
+#        "https://www.fifaindex.com/team/1338/greece/",
+#        "https://www.fifaindex.com/team/974/korea-republic/",
+#        "https://www.fifaindex.com/team/1318/england/",
+#        "https://www.fifaindex.com/team/1361/slovenia/",
+#        "https://www.fifaindex.com/team/1387/united-states/",
+#        "https://www.fifaindex.com/team/1415/australia/",
+#        "https://www.fifaindex.com/team/1337/germany/",
+#        "https://www.fifaindex.com/team/1395/cameroon/",
+#        "https://www.fifaindex.com/team/1331/denmark/",
+#        "https://www.fifaindex.com/team/105035/netherlands/",
+#        "https://www.fifaindex.com/team/1343/italy/",
+#        "https://www.fifaindex.com/team/111473/new-zealand/",
+#        "https://www.fifaindex.com/team/1375/paraguay/",
+#        "https://www.fifaindex.com/team/1370/brazil/",
+#        "https://www.fifaindex.com/team/111112/c%C3%B4te-divoire/",
+#        "https://www.fifaindex.com/team/1354/portugal/",
+#        "https://www.fifaindex.com/team/111459/chile/",
+#        "https://www.fifaindex.com/team/1362/spain/",
+#        "https://www.fifaindex.com/team/1364/switzerland/"]
+# ========================================================================
+
+# Croatia, Japan, Costa Rica, Honduras.Bosnia and Herzegovina, Iran,Nigeria,
+# Ghana
+# list_nation = ["https://www.fifaindex.com/team/1370/brazil/",
+#               "https://www.fifaindex.com/team/1395/cameroon/",
+#               "https://www.fifaindex.com/team/1386/mexico/",
+#               "https://www.fifaindex.com/team/1415/australia/",
+#               "https://www.fifaindex.com/team/111459/chile/",
+#               "https://www.fifaindex.com/team/105035/netherlands/",
+#               "https://www.fifaindex.com/team/1362/spain/",
+#               "https://www.fifaindex.com/team/111109/colombia/",
+#               "https://www.fifaindex.com/team/1338/greece/",
+#               "https://www.fifaindex.com/team/111112/c%C3%B4te-divoire/",
+#               "https://www.fifaindex.com/team/1318/england/",
+#               "https://www.fifaindex.com/team/1343/italy/",
+#               "https://www.fifaindex.com/team/1377/uruguay/",
+#               "https://www.fifaindex.com/team/111465/ecuador/",
+#               "https://www.fifaindex.com/team/1335/france/",
+#               "https://www.fifaindex.com/team/1364/switzerland/",
+#               "https://www.fifaindex.com/team/1369/argentina/",
+#               "https://www.fifaindex.com/team/1337/germany/",
+#               "https://www.fifaindex.com/team/1354/portugal/",
+#               "https://www.fifaindex.com/team/1387/united-states/",
+#               "https://www.fifaindex.com/team/1325/belgium/",
+#               "https://www.fifaindex.com/team/1357/russia/",
+#               "https://www.fifaindex.com/team/974/korea-republic/"]
+
+#version = 'fifa14_13'
+# =======================================================================
+nation_code = {'brazil': 1370, 'cameroon': 1395, 'mexico': 1386, 'australia': 1415,
+               'chile': 111459, 'netherlands': 105035, 'spain': 1362, 'colombia': 111109,
+               'greece': 1338, 'c%C3%B4te-divoire': 111112, 'england': 1318, 'italy': 1343,
+               'uruguay': 1377, 'ecuador': 111465, 'france': 1335, 'switzerland': 1364,
+               'argentina': 1369, 'germany': 1337, 'portugal': 1354, 'united-states': 1387,
+               'belgium': 1325, 'russia': 1357, 'korea-republic': 974, 'poland': 1353,
+               'czech-republic': 1330, 'denmark': 1331, 'ireland': 1355, 'sweden': 1363, 'wales': 1367,
+               'northern-ireland': 110081, 'turkey': 1365, 'iceland': 1341, 'austria': 1322, 'hungary': 1886,
+               'romania': 1356, 'egypt': 111130, 'south-korea': 974, 'saudi-arabia': 111114, 'peru': 111108,
+               'croatia': 1328, 'nigeria': 1393, 'costa-rica': 1383, 'serbia': 110082, 'tunisia': 1391}
+
+#version = 'fifa14_13'
+#version = 'fifa16_59'
+version = 'fifa18wc_248'
+# squad_file = pd.read_csv("2018_FIFA_World_Cup_squads.csv")
+# nation_list = squad_file['Country'].unique()
+
+nation_list = ['Qatar',
+               'Netherlands',
+               'Ecuador',
+               'Iran',
+               'England',
+               'USA',
+               'Wales',
+               'Argentina',
+               'Saudi Arabia',
+               'Mexico',
+               'Poland',
+               'Denmark',
+               'Tunisia',
+               'France',
+               'Australia',
+               'Germany',
+               'Japan',
+               'Spain',
+               'Costa Rica',
+               'Morocco',
+               'Croatia',
+               'Belgium',
+               'Canada',
+               'Switzerland', 'Serbia',
+               'Uruguay',
+               'South Korea',
+               'Portugal',
+               'Ghana']
+
+# nation_list = ['France','Romania','Albania','Switzerland','	England','Russia','Wales',
+#               'Slovakia','Germany','Ukraine','Poland','Northern Ireland','Spain','Czech Republic',
+#               'Turkey','Croatia','Belgium','Italy','Republic of Ireland','Sweden','Portugal','Iceland',
+#               'Austria','Hungary']
+
+
+nation_list = [st.lower().replace(' ', '-') for st in nation_list]
+
+# Check with countries not in FIFA Games
+for n in nation_list:
+    num = nation_code.get(n)
+    if num == None:
+        print(n)
+
+
+urls = []
+for nation in nation_list:
+    if nation in nation_code:
+        code = nation_code[nation]
+        print(code, ': ', nation)
+        url = "https://www.fifaindex.com/team/" + \
+            str(code)+'/'+nation+'/'+version
+        urls.append(url)
+    if nation == 'republic-of-ireland':
+        code = nation_code['ireland']
+        print(code, ': ireland')
+        url = "https://www.fifaindex.com/team/"+str(code)+'/ireland/'+version
+        urls.append(url)
+
+#urls = [n+version for n in list_nation]
+
+records = []
+labels = []
+i = 0
+for url in urls:
+    label, record = retrieve_info(url, test=True)
+    records.append(record)
+    if i == 0:
+        labels = label
+
+#    if labels != label:
+
+    print(label == labels)
+    i += 1
+
+
+df = pd.DataFrame.from_records(records, columns=labels)
+
+df.to_csv("2018_FIFA_World_Cup_squads_strength.csv", index=False)
+
+# ======================================================================
+
+# Get ID of each nations
+
+#i = 1330
+# for idx in range(100):
+#    num = str(idx+i)
+#    url = "https://www.fifaindex.com/team/"+ num +"/a"
+#    r = requests.get(url)
+#    status = r.status_code
+#    if (status != 404):
+#        html_doc = r.text
+#        soup = BeautifulSoup(html_doc,"lxml")
+#
+#        #labels = ['Nation']
+#        #team_info = []
+#
+#        nation_name = soup.find('h1',class_="media-heading").get_text()
+#        nation_name = unidecode(nation_name)
+#        print(num, ": ", nation_name)
