@@ -1,0 +1,22 @@
+﻿index,round number,date,location,home team,away team,group,result
+1,1,11/21/22,Doha,Netherlands,Senegal,A,NaN
+2,1,11/21/22,Ar-Rayyan,Iran,England,B,NaN
+3,1,11/21/22,Al Khor,Ecuador,Qatar,A,NaN
+4,1,11/21/22,Ar-Rayyan,Wales,USA,B,NaN
+5,1,11/22/22,Al Daayen,Saudi Arabia,Argentina,C,NaN
+6,1,11/22/22,Doha,Tunisia,Denmark,D,NaN
+7,1,11/22/22,Doha,Poland,Mexico,C,NaN
+8,1,11/22/22,Al Wakrah,Australia,France,D,NaN
+9,1,11/23/22,Al Khor,Croatia,Morocco,F,NaN
+10,1,11/23/22,Ar-Rayyan,Japan,Germany,E,NaN
+11,1,11/23/22,Doha,Costa Rica,Spain,E,NaN
+12,1,11/23/22,Ar-Rayyan,Canada,Belgium,F,NaN
+13,1,11/24/22,Al Wakrah,Cameroon,Switzerland,G,NaN
+14,1,11/24/22,Doha,South Korea,Uruguay,H,NaN
+15,1,11/24/22,Doha,Ghana,Portugal,H,NaN
+16,1,11/24/22,Al Daayen,Serbia,Brazil,G,NaN
+17,2,11/25/22,Ar-Rayyan,Iran,Wales,B,NaN
+18,2,11/25/22,Doha,Senegal,Qatar,A,NaN
+19,2,11/25/22,Ar-Rayyan,Ecuador,Netherlands,A,NaN
+20,2,11/25/22,Al Khor,USA,England,B,NaN
+,,,,,,,
