@@ -12,11 +12,38 @@
 11,1,11/23/22,Doha,Costa Rica,Spain,E,NaN
 12,1,11/23/22,Ar-Rayyan,Canada,Belgium,F,NaN
 13,1,11/24/22,Al Wakrah,Cameroon,Switzerland,G,NaN
-14,1,11/24/22,Doha,South Korea,Uruguay,H,NaN
+14,1,11/24/22,Doha,Korea Republic,Uruguay,H,NaN
 15,1,11/24/22,Doha,Ghana,Portugal,H,NaN
 16,1,11/24/22,Al Daayen,Serbia,Brazil,G,NaN
 17,2,11/25/22,Ar-Rayyan,Iran,Wales,B,NaN
 18,2,11/25/22,Doha,Senegal,Qatar,A,NaN
 19,2,11/25/22,Ar-Rayyan,Ecuador,Netherlands,A,NaN
 20,2,11/25/22,Al Khor,USA,England,B,NaN
-,,,,,,,
+21,2,11/26/22,Al Wakrah,Tunisia,Australia,D,NaN
+22,2,11/26/22,Doha,Poland,Saudi Arabia,C,NaN
+23,2,11/26/22,Doha,France,Denmark,D,NaN
+24,2,11/26/22,Al Daayen,Argentina,Mexico,C,NaN
+25,2,11/27/22,Ar-Rayyan,Japan,Costa Rica,E,NaN
+26,2,11/27/22,Doha,Belgium,Morocco,F,NaN
+27,2,11/27/22,Ar-Rayyan,Croatia,Canada,F,NaN
+28,2,11/27/22,Al Khor,Spain,Germany,E,NaN
+29,2,11/28/22,Al Wakrah,Cameroon,Serbia,G,NaN
+30,2,11/28/22,Doha,Korea Republic,Ghana,H,NaN
+31,2,11/28/22,Doha,Brazil,Switzerland,G,NaN
+32,2,11/28/22,Al Daayen,Portugal,Uruguay,H,NaN
+33,3,11/29/22,Al Khor,Netherlands,Qatar,A,NaN
+34,3,11/29/22,Ar-Rayyan,Ecuador,Senegal,A,NaN
+35,3,11/29/22,Ar-Rayyan,Wales,England,B,NaN
+36,3,11/29/22,Doha,Iran,USA,B,NaN
+37,3,11/30/22,Al Wakrah,Australia,Denmark,D,NaN
+38,3,11/30/22,Doha,Tunisia,France,D,NaN
+39,3,11/30/22,Doha,Poland,Argentina,C,NaN
+40,3,11/30/22,Al Daayen,Saudi Arabia,Mexico,C,NaN
+41,3,12/1/22,Ar-Rayyan,Croatia,Belgium,F,NaN
+42,3,12/1/22,Doha,Canada,Morocco,F,NaN
+43,3,12/1/22,Ar-Rayyan,Japan,Spain,E,NaN
+44,3,12/1/22,Al Khor,Costa Rica,Germany,E,NaN
+45,3,12/2/22,Al Wakrah,Ghana,Uruguay,H,NaN
+46,3,12/2/22,Doha,Korea Republic,Portugal,H,NaN
+47,3,12/2/22,Doha,Serbia,Switzerland,G,NaN
+48,3,12/2/22,Al Daayen,Cameroon,Brazil,G,NaN
