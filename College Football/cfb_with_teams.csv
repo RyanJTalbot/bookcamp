@@ -1,0 +1,486 @@
+Wk,Pts,Pts.1,home_results,loser_rank,winner_rank,winner,loser,date_time,win_new,lose_new
+1,43.0,13.0,0,99,99,Florida Atlantic,Charlotte,2022-08-27 19:00:00,61,62
+1,47.0,7.0,0,99,99,Florida State,Duquesne,2022-08-27 17:00:00,63,71
+1,38.0,6.0,0,99,99,Illinois,Wyoming,2022-08-27 16:00:00,72,222
+1,23.0,12.0,1,99,99,Nevada,New Mexico State,2022-08-27 10:00:00,103,141
+1,52.0,21.0,0,99,99,Nevada-Las Vegas,Idaho State,2022-08-27 15:30:00,104,96
+1,56.0,24.0,0,99,99,North Carolina,Florida A&M,2022-08-27 20:00:00,107,79
+1,31.0,13.0,1,99,99,North Texas,Texas-El Paso,2022-08-27 21:00:00,108,199
+1,31.0,28.0,3,99,99,Northwestern,Nebraska,2022-08-27 12:30:00,110,136
+1,31.0,20.0,0,99,99,Utah State,Connecticut,2022-08-27 16:00:00,150,69
+1,63.0,10.0,1,99,99,Vanderbilt,Hawaii,2022-08-27 10:30:00,151,91
+1,38.0,27.0,0,99,99,Western Kentucky,Austin Peay,2022-08-27 12:00:00,158,43
+2,30.0,23.0,0,99,99,Akron,St. Francis (PA),2022-09-01 18:00:00,30,185
+2,59.0,0.0,0,99,99,Alabama-Birmingham,Alabama A&M,2022-09-01 20:00:00,32,30
+2,40.0,3.0,0,99,99,Arizona State,Northern Arizona,2022-09-01 10:00:00,35,149
+2,56.0,10.0,0,99,99,Central Florida,South Carolina State,2022-09-01 19:00:00,46,174
+2,38.0,37.0,0,99,99,Florida International,Bryant,2022-09-01 19:00:00,62,51
+2,35.0,7.0,0,99,99,Fresno State,Cal Poly,2022-09-01 10:30:00,64,54
+2,38.0,0.0,0,99,99,Minnesota,New Mexico State,2022-09-01 21:00:00,97,141
+2,52.0,24.0,0,99,99,Missouri,Louisiana Tech,2022-09-01 20:00:00,100,114
+2,34.0,27.0,0,99,99,Northern Illinois,Eastern Illinois,2022-09-01 20:00:00,109,73
+2,58.0,44.0,0,99,12, Oklahoma State,Central Michigan,2022-09-01 19:00:00,14,60
+2,35.0,31.0,1,99,99,Penn State,Purdue,2022-09-01 20:00:00,119,162
+2,38.0,31.0,0,99,17, Pittsburgh,West Virginia,2022-09-01 19:00:00,17,215
+2,21.0,17.0,0,99,99,San Jose State,Portland State,2022-09-01 10:30:00,126,161
+2,59.0,10.0,0,99,99,Tennessee,Ball State,2022-09-01 19:00:00,137,44
+2,37.0,0.0,0,99,99,Toledo,Long Island,2022-09-01 19:00:00,145,111
+2,44.0,10.0,0,99,22, Wake Forest,Virginia Military Institute,2022-09-01 19:30:00,26,211
+2,30.0,0.0,0,99,99,Duke,Temple,2022-09-02 19:30:00,56,190
+2,42.0,34.0,0,99,99,Eastern Michigan,Eastern Kentucky,2022-09-02 19:00:00,59,74
+2,23.0,20.0,0,99,99,Indiana,Illinois,2022-09-02 20:00:00,74,97
+2,56.0,10.0,0,99,99,Kansas,Tennessee Tech,2022-09-02 20:00:00,78,192
+2,35.0,13.0,0,99,15, Michigan State,Western Michigan,2022-09-02 19:00:00,10,219
+2,20.0,17.0,0,99,99,Old Dominion,Virginia Tech,2022-09-02 19:00:00,116,212
+2,38.0,13.0,1,99,99,Texas Christian,Colorado,2022-09-02 10:00:00,140,67
+2,41.0,24.0,1,99,99,William & Mary,Charlotte,2022-09-02 19:00:00,160,62
+2,48.0,17.0,0,99,99,Air Force,Northern Iowa,2022-09-03 13:00:00,29,152
+2,55.0,0.0,0,99,1,Alabama,Utah State,2022-09-03 19:30:00,31,207
+2,38.0,20.0,1,99,99,Arizona,San Diego State,2022-09-03 15:30:00,34,170
+2,31.0,24.0,0,23,19, Arkansas, Cincinnati,2022-09-03 15:30:00,0,3
+2,58.0,3.0,0,99,99,Arkansas State,Grambling State,2022-09-03 19:00:00,37,90
+2,42.0,16.0,0,99,99,Auburn,Mercer,2022-09-03 19:00:00,39,123
+2,69.0,10.0,0,99,10, Baylor,Albany,2022-09-03 19:00:00,1,33
+2,50.0,21.0,1,99,25, Brigham Young,South Florida,2022-09-03 16:00:00,2,177
+2,34.0,13.0,0,99,99,California,California-Davis,2022-09-03 16:00:00,45,56
+2,38.0,28.0,0,99,99,Coastal Carolina,Army,2022-09-03 19:00:00,51,41
+2,28.0,3.0,0,99,99,Connecticut,Central Connecticut State,2022-09-03 12:00:00,54,58
+2,14.0,7.0,1,99,99,Delaware,Navy,2022-09-03 12:00:00,55,135
+2,29.0,26.0,0,7,99,Florida,Utah,2022-09-03 19:00:00,60,206
+2,49.0,3.0,3,11,3,Georgia, Oregon,2022-09-03 15:30:00,65,17
+2,59.0,7.0,0,99,99,Georgia Southern,Morgan State,2022-09-03 18:00:00,66,133
+2,37.0,35.0,1,99,24, Houston,Texas-San Antonio,2022-09-03 15:30:00,5,200
+2,7.0,3.0,0,99,99,Iowa,South Dakota State,2022-09-03 12:00:00,75,176
+2,42.0,10.0,0,99,99,Iowa State,Southeast Missouri State,2022-09-03 14:00:00,76,178
+2,44.0,7.0,0,99,99,James Madison,Middle Tennessee State,2022-09-03 18:00:00,77,127
+2,34.0,0.0,0,99,99,Kansas State,South Dakota,2022-09-03 19:00:00,79,175
+2,37.0,13.0,0,99,20, Kentucky,Miami (OH),2022-09-03 19:00:00,8,125
+2,29.0,27.0,1,99,99,Liberty,Southern Mississippi,2022-09-03 19:00:00,82,183
+2,24.0,7.0,0,99,99,Louisiana,Southeastern Louisiana,2022-09-03 19:00:00,83,179
+2,55.0,3.0,0,99,99,Marshall,Norfolk State,2022-09-03 15:30:00,88,143
+2,31.0,10.0,0,99,99,Maryland,Buffalo,2022-09-03 12:00:00,89,53
+2,70.0,13.0,0,99,16, Miami (FL),Bethune-Cookman,2022-09-03 15:30:00,9,46
+2,51.0,7.0,0,99,8,Michigan,Colorado State,2022-09-03 12:00:00,94,68
+2,28.0,10.0,0,99,21, Mississippi,Troy,2022-09-03 16:00:00,11,203
+2,49.0,23.0,0,99,99,Mississippi State,Memphis,2022-09-03 19:30:00,99,122
+2,38.0,17.0,0,99,99,Nebraska,North Dakota,2022-09-03 15:30:00,102,146
+2,38.0,14.0,0,99,99,Nevada,Texas State,2022-09-03 17:30:00,103,197
+2,41.0,0.0,0,99,99,New Mexico,Maine,2022-09-03 20:00:00,105,117
+2,63.0,61.0,1,99,99,North Carolina,Appalachian State,2022-09-03 12:00:00,107,35
+2,21.0,20.0,1,99,13, North Carolina State,East Carolina,2022-09-03 12:00:00,13,72
+2,41.0,38.0,0,99,99,Ohio,Florida Atlantic,2022-09-03 18:00:00,112,80
+2,21.0,10.0,0,5,2,Ohio State,Notre Dame,2022-09-03 19:30:00,113,155
+2,45.0,13.0,0,99,9,Oklahoma,Texas-El Paso,2022-09-03 15:30:00,114,199
+2,34.0,17.0,0,99,99,Oregon State,Boise State,2022-09-03 10:30:00,118,47
+2,22.0,21.0,1,99,99,Rutgers,Boston College,2022-09-03 12:00:00,123,48
+2,48.0,7.0,0,99,99,South Alabama,Nicholls State,2022-09-03 17:00:00,127,142
+2,35.0,14.0,0,99,99,South Carolina,Georgia State,2022-09-03 19:30:00,128,88
+2,66.0,14.0,0,99,14, Southern California,Rice,2022-09-03 18:00:00,18,164
+2,48.0,10.0,1,99,99,Southern Methodist,North Texas,2022-09-03 19:30:00,132,148
+2,41.0,10.0,0,99,99,Stanford,Colgate,2022-09-03 20:00:00,134,66
+2,31.0,7.0,0,99,99,Syracuse,Louisville,2022-09-03 20:00:00,135,116
+2,52.0,10.0,0,99,99,Texas,Louisiana-Monroe,2022-09-03 20:00:00,138,115
+2,31.0,0.0,0,99,6,Texas A&M,Sam Houston State,2022-09-03 12:00:00,139,168
+2,63.0,10.0,0,99,99,Texas Tech,Murray State,2022-09-03 20:00:00,142,134
+2,42.0,10.0,0,99,99,Tulane,Massachusetts,2022-09-03 19:00:00,147,120
+2,45.0,17.0,0,99,99,UCLA,Bowling Green,2022-09-03 14:30:00,149,49
+2,42.0,31.0,0,99,99,Vanderbilt,Elon,2022-09-03 19:00:00,151,77
+2,34.0,17.0,0,99,99,Virginia,Richmond,2022-09-03 12:30:00,152,165
+2,45.0,20.0,0,99,99,Washington,Kent State,2022-09-03 10:30:00,154,106
+2,24.0,17.0,0,99,99,Washington State,Idaho,2022-09-03 21:30:00,155,95
+2,38.0,0.0,0,99,18, Wisconsin,Illinois State,2022-09-03 19:00:00,28,98
+2,40.0,37.0,0,99,99,Wyoming,Tulsa,2022-09-03 15:30:00,162,205
+2,24.0,23.0,3,99,99,Florida State,Louisiana State,2022-09-04 19:30:00,63,113
+2,49.0,17.0,1,99,99,Western Kentucky,Hawaii,2022-09-04 12:00:00,158,91
+2,41.0,10.0,1,99,4,Clemson,Georgia Tech,2022-09-05 20:00:00,50,89
+3,31.0,14.0,1,99,99,Boise State,New Mexico,2022-09-09 21:00:00,41,140
+3,20.0,14.0,1,99,99,Louisville,Central Florida,2022-09-09 19:30:00,87,59
+3,41.0,10.0,0,99,99,Air Force,Colorado,2022-09-10 15:30:00,29,67
+3,20.0,19.0,1,99,1,Alabama,Texas,2022-09-10 12:00:00,31,194
+3,17.0,14.0,1,6,99,Appalachian State,Texas A&M,2022-09-10 15:30:00,33,195
+3,44.0,30.0,0,99,16, Arkansas,South Carolina,2022-09-10 12:00:00,0,173
+3,24.0,16.0,0,99,99,Auburn,San Jose State,2022-09-10 19:30:00,39,171
+3,26.0,20.0,0,9,21, Brigham Young,Baylor,2022-09-10 10:15:00,2,45
+3,20.0,14.0,0,99,99,California,Nevada-Las Vegas,2022-09-10 16:00:00,45,138
+3,63.0,10.0,0,99,99,Cincinnati,Kennesaw State,2022-09-10 15:30:00,49,105
+3,35.0,12.0,0,99,5,Clemson,Furman,2022-09-10 15:30:00,50,85
+3,31.0,27.0,0,99,99,Coastal Carolina,Gardner-Webb,2022-09-10 18:00:00,51,86
+3,31.0,23.0,1,99,99,Duke,Northwestern,2022-09-10 12:00:00,56,153
+3,39.0,21.0,0,99,99,East Carolina,Old Dominion,2022-09-10 18:00:00,57,159
+3,59.0,57.0,1,99,99,Eastern Kentucky,Bowling Green,2022-09-10 16:00:00,58,49
+3,42.0,9.0,0,99,99,Florida Atlantic,Southeastern Louisiana,2022-09-10 18:00:00,61,179
+3,33.0,0.0,0,99,2,Georgia,Samford,2022-09-10 16:00:00,65,169
+3,45.0,42.0,1,99,99,Georgia Southern,Nebraska,2022-09-10 19:30:00,66,136
+3,35.0,17.0,0,99,99,Georgia Tech,Western Carolina,2022-09-10 19:00:00,68,216
+3,37.0,31.0,1,99,99,Holy Cross,Buffalo,2022-09-10 18:00:00,70,53
+3,24.0,3.0,0,99,99,Illinois,Virginia,2022-09-10 16:00:00,72,210
+3,55.0,41.0,1,99,99,Incarnate Word,Nevada,2022-09-10 17:30:00,73,137
+3,35.0,22.0,0,99,99,Indiana,Idaho,2022-09-10 20:00:00,74,95
+3,10.0,7.0,1,99,99,Iowa State,Iowa,2022-09-10 16:00:00,76,101
+3,63.0,7.0,0,99,99,James Madison,Norfolk State,2022-09-10 16:00:00,77,143
+3,55.0,42.0,1,99,99,Kansas,West Virginia,2022-09-10 18:00:00,78,215
+3,40.0,12.0,0,99,99,Kansas State,Missouri,2022-09-10 12:00:00,79,130
+3,26.0,16.0,1,12,20, Kentucky, Florida,2022-09-10 19:00:00,8,4
+3,21.0,14.0,0,99,99,Liberty,Alabama-Birmingham,2022-09-10 18:00:00,82,32
+3,65.0,17.0,0,99,99,Louisiana State,Southern,2022-09-10 19:00:00,84,180
+3,52.0,17.0,0,99,99,Louisiana Tech,Stephen F. Austin,2022-09-10 20:00:00,85,187
+3,35.0,7.0,0,99,99,Louisiana-Monroe,Nicholls State,2022-09-10 14:30:00,86,142
+3,26.0,21.0,1,8,99,Marshall,Notre Dame,2022-09-10 15:30:00,88,155
+3,56.0,21.0,1,99,99,Maryland,Charlotte,2022-09-10 15:30:00,89,62
+3,37.0,13.0,1,99,99,Memphis,Navy,2022-09-10 12:00:00,91,135
+3,30.0,7.0,0,99,15, Miami (FL),Southern Mississippi,2022-09-10 18:00:00,9,183
+3,31.0,14.0,0,99,99,Miami (OH),Robert Morris,2022-09-10 20:00:00,93,166
+3,56.0,10.0,0,99,4,Michigan,Hawaii,2022-09-10 16:00:00,94,91
+3,52.0,0.0,0,99,14, Michigan State,Akron,2022-09-10 16:00:00,10,28
+3,34.0,19.0,1,99,99,Middle Tennessee State,Colorado State,2022-09-10 12:00:00,96,68
+3,62.0,10.0,0,99,99,Minnesota,Western Illinois,2022-09-10 11:00:00,97,217
+3,39.0,17.0,1,99,99,Mississippi State,Arizona,2022-09-10 12:30:00,99,36
+3,35.0,28.0,1,99,99,North Carolina,Georgia State,2022-09-10 19:30:00,107,88
+3,55.0,3.0,0,99,18, North Carolina State,Charleston Southern,2022-09-10 12:00:00,13,61
+3,59.0,27.0,0,99,99,North Texas,Texas Southern,2022-09-10 19:00:00,108,196
+3,45.0,12.0,0,99,3,Ohio State,Arkansas State,2022-09-10 19:30:00,113,39
+3,33.0,3.0,0,99,7,Oklahoma,Kent State,2022-09-10 20:30:00,114,106
+3,34.0,17.0,0,99,11, Oklahoma State,Arizona State,2022-09-10 10:30:00,14,37
+3,70.0,14.0,0,99,99,Oregon,Eastern Washington,2022-09-10 12:00:00,117,76
+3,35.0,32.0,1,99,99,Oregon State,Fresno State,2022-09-10 16:00:00,118,84
+3,46.0,10.0,0,99,99,Penn State,Ohio,2022-09-10 19:30:00,119,156
+3,56.0,0.0,0,99,99,Purdue,Indiana State,2022-09-10 16:00:00,121,100
+3,52.0,10.0,0,99,99,Rice,McNeese State,2022-09-10 20:00:00,122,121
+3,66.0,7.0,0,99,99,Rutgers,Wagner,2022-09-10 13:00:00,123,213
+3,38.0,7.0,0,99,99,San Diego State,Idaho State,2022-09-10 19:00:00,125,96
+3,38.0,24.0,1,99,99,South Alabama,Central Michigan,2022-09-10 19:30:00,127,60
+3,42.0,20.0,0,99,99,South Florida,Howard,2022-09-10 19:00:00,129,94
+3,41.0,28.0,1,99,10, Southern California,Stanford,2022-09-10 19:00:00,18,186
+3,45.0,16.0,0,99,99,Southern Methodist,Lamar,2022-09-10 14:00:00,132,109
+3,48.0,14.0,1,99,99,Syracuse,Connecticut,2022-09-10 15:30:00,135,69
+3,30.0,14.0,0,99,99,Temple,Lafayette,2022-09-10 20:00:00,136,108
+3,34.0,27.0,1,17,24, Tennessee, Pittsburgh,2022-09-10 19:00:00,20,19
+3,59.0,17.0,0,99,99,Texas Christian,Tarleton State,2022-09-10 16:00:00,140,189
+3,41.0,12.0,0,99,99,Texas State,Florida International,2022-09-10 21:00:00,141,81
+3,33.0,30.0,0,25,99,Texas Tech, Houston,2022-09-10 12:00:00,142,6
+3,20.0,13.0,0,99,99,Texas-El Paso,New Mexico State,2022-09-10 19:00:00,143,141
+3,41.0,38.0,1,99,99,Texas-San Antonio,Army,2022-09-10 20:00:00,144,41
+3,55.0,10.0,0,99,99,Toledo,Massachusetts,2022-09-10 19:00:00,145,120
+3,38.0,17.0,0,99,99,Troy,Alabama A&M,2022-09-10 19:00:00,146,30
+3,52.0,0.0,0,99,99,Tulane,Alcorn State,2022-09-10 17:00:00,147,34
+3,38.0,35.0,0,99,99,Tulsa,Northern Illinois,2022-09-10 13:30:00,148,151
+3,45.0,7.0,0,99,99,UCLA,Alabama State,2022-09-10 20:00:00,149,31
+3,73.0,7.0,0,99,13, Utah,Southern Utah,2022-09-10 12:00:00,25,184
+3,27.0,10.0,0,99,99,Virginia Tech,Boston College,2022-09-10 16:00:00,153,48
+3,45.0,25.0,1,99,23, Wake Forest,Vanderbilt,2022-09-10 15:30:00,26,208
+3,52.0,6.0,0,99,99,Washington,Portland State,2022-09-10 19:00:00,154,161
+3,17.0,14.0,1,19,99,Washington State, Wisconsin,2022-09-10 14:00:00,155,25
+3,35.0,7.0,1,99,99,Weber State,Utah State,2022-09-10 16:00:00,156,207
+3,37.0,30.0,1,99,99,Western Michigan,Ball State,2022-09-10 19:30:00,159,44
+3,33.0,10.0,0,99,99,Wyoming,Northern Colorado,2022-09-10 20:00:00,162,150
+4,35.0,31.0,1,99,99,Florida State,Louisville,2022-09-16 16:00:00,63,116
+4,17.0,14.0,0,99,99,Wyoming,Air Force,2022-09-16 15:30:00,162,27
+4,63.0,7.0,0,99,2,Alabama,Louisiana-Monroe,2022-09-17 15:30:00,31,115
+4,35.0,21.0,0,99,99,Alabama-Birmingham,Georgia Southern,2022-09-17 11:00:00,32,87
+4,32.0,28.0,0,99,99,Appalachian State,Troy,2022-09-17 19:00:00,33,203
+4,31.0,28.0,0,99,99,Arizona,North Dakota State,2022-09-17 12:00:00,34,147
+4,38.0,27.0,0,99,10, Arkansas,Missouri State,2022-09-17 14:00:00,0,131
+4,49.0,10.0,0,99,99,Army,Villanova,2022-09-17 12:00:00,38,209
+4,31.0,0.0,0,99,99,Ball State,Murray State,2022-09-17 16:00:00,40,134
+4,42.0,7.0,0,99,17, Baylor,Texas State,2022-09-17 19:30:00,1,197
+4,30.0,7.0,0,99,99,Boise State,Tennessee-Martin,2022-09-17 17:00:00,41,193
+4,38.0,17.0,0,99,99,Boston College,Maine,2022-09-17 19:30:00,42,117
+4,34.0,31.0,0,99,99,Bowling Green,Marshall,2022-09-17 13:00:00,43,118
+4,40.0,14.0,1,99,99,Central Florida,Florida Atlantic,2022-09-17 19:00:00,46,80
+4,41.0,0.0,0,99,99,Central Michigan,Bucknell,2022-09-17 12:00:00,47,52
+4,42.0,41.0,1,99,99,Charlotte,Georgia State,2022-09-17 20:00:00,48,88
+4,38.0,17.0,3,99,99,Cincinnati,Miami (OH),2022-09-17 13:00:00,49,125
+4,48.0,20.0,0,99,5,Clemson,Louisiana Tech,2022-09-17 18:00:00,50,114
+4,38.0,26.0,0,99,99,Coastal Carolina,Buffalo,2022-09-17 18:00:00,51,53
+4,49.0,20.0,0,99,99,Duke,North Carolina A&T,2022-09-17 11:00:00,56,145
+4,49.0,10.0,0,99,99,East Carolina,Campbell,2022-09-17 19:30:00,57,57
+4,30.0,21.0,1,99,99,Eastern Michigan,Arizona State,2022-09-17 12:00:00,59,37
+4,31.0,28.0,0,99,18, Florida,South Florida,2022-09-17 12:00:00,4,177
+4,48.0,7.0,1,99,1,Georgia,South Carolina,2022-09-17 19:30:00,65,173
+4,33.0,30.0,0,99,99,Indiana,Western Kentucky,2022-09-17 14:00:00,74,218
+4,27.0,0.0,0,99,99,Iowa,Nevada,2022-09-17 16:00:00,75,137
+4,43.0,10.0,0,99,99,Iowa State,Ohio,2022-09-17 12:00:00,76,156
+4,48.0,30.0,1,99,99,Kansas,Houston,2022-09-17 12:00:00,78,92
+4,63.0,10.0,0,99,99,Kent State,Long Island,2022-09-17 18:00:00,80,111
+4,31.0,0.0,0,99,9,Kentucky,Youngstown State,2022-09-17 19:30:00,81,223
+4,31.0,16.0,0,99,99,Louisiana State,Mississippi State,2022-09-17 15:30:00,84,129
+4,34.0,27.0,0,99,99,Maryland,Southern Methodist,2022-09-17 19:00:00,89,182
+4,20.0,3.0,0,99,99,Massachusetts,Stony Brook,2022-09-17 12:00:00,90,188
+4,44.0,32.0,0,99,99,Memphis,Arkansas State,2022-09-17 19:00:00,91,39
+4,59.0,0.0,0,99,4,Michigan,Connecticut,2022-09-17 15:30:00,94,69
+4,49.0,6.0,0,99,99,Middle Tennessee State,Tennessee State,2022-09-17 15:30:00,96,191
+4,49.0,7.0,0,99,99,Minnesota,Colorado,2022-09-17 12:00:00,97,67
+4,42.0,0.0,1,99,20, Mississippi,Georgia Tech,2022-09-17 15:00:00,11,89
+4,34.0,17.0,0,99,99,Missouri,Abilene Christian,2022-09-17 20:00:00,100,26
+4,58.0,27.0,0,99,99,Nevada-Las Vegas,North Texas,2022-09-17 19:00:00,104,148
+4,27.0,10.0,0,99,99,New Mexico,Texas-El Paso,2022-09-17 14:30:00,105,199
+4,27.0,14.0,0,99,16, North Carolina State,Texas Tech,2022-09-17 19:00:00,13,198
+4,24.0,17.0,0,99,99,Notre Dame,California,2022-09-17 12:00:00,111,55
+4,77.0,21.0,0,99,3,Ohio State,Toledo,2022-09-17 19:00:00,113,201
+4,49.0,14.0,1,99,6,Oklahoma,Nebraska,2022-09-17 15:30:00,114,136
+4,63.0,7.0,0,99,8,Oklahoma State,Arkansas-Pine Bluff,2022-09-17 20:00:00,115,40
+4,41.0,20.0,0,12,25, Oregon, Brigham Young,2022-09-17 15:30:00,15,2
+4,68.0,28.0,3,99,99,Oregon State,Montana State,2022-09-17 19:30:00,118,132
+4,41.0,12.0,1,99,22, Penn State,Auburn,2022-09-17 19:30:00,16,42
+4,34.0,13.0,1,99,23, Pittsburgh,Western Michigan,2022-09-17 14:00:00,17,219
+4,33.0,21.0,0,99,99,Rice,Louisiana,2022-09-17 10:30:00,122,112
+4,16.0,14.0,1,99,99,Rutgers,Temple,2022-09-17 12:00:00,123,190
+4,45.0,17.0,0,99,7,Southern California,Fresno State,2022-09-17 19:00:00,130,84
+4,31.0,24.0,1,99,99,Southern Illinois,Northwestern,2022-09-17 12:00:00,131,153
+4,64.0,10.0,0,99,99,Southern Mississippi,Northwestern State,2022-09-17 19:00:00,133,154
+4,32.0,29.0,0,99,99,Syracuse,Purdue,2022-09-17 20:00:00,135,162
+4,63.0,6.0,0,99,15, Tennessee,Akron,2022-09-17 21:00:00,20,28
+4,41.0,20.0,0,99,21, Texas,Texas-San Antonio,2022-09-17 15:00:00,21,200
+4,17.0,9.0,0,13,24, Texas A&M, Miami (FL),2022-09-17 19:00:00,22,11
+4,17.0,10.0,1,99,99,Tulane,Kansas State,2022-09-17 14:00:00,147,104
+4,54.0,17.0,0,99,99,Tulsa,Jacksonville State,2022-09-17 10:00:00,148,103
+4,32.0,31.0,0,99,99,UCLA,South Alabama,2022-09-17 15:30:00,149,172
+4,35.0,7.0,0,99,14, Utah,San Diego State,2022-09-17 14:00:00,25,170
+4,38.0,28.0,1,99,99,Vanderbilt,Northern Illinois,2022-09-17 11:00:00,151,151
+4,16.0,14.0,0,99,99,Virginia,Old Dominion,2022-09-17 17:00:00,152,159
+4,27.0,7.0,0,99,99,Virginia Tech,Wofford,2022-09-17 19:30:00,153,221
+4,37.0,36.0,0,99,19, Wake Forest,Liberty,2022-09-17 17:00:00,26,110
+4,39.0,28.0,0,11,99,Washington, Michigan State,2022-09-17 13:00:00,154,12
+4,38.0,7.0,0,99,99,Washington State,Colorado State,2022-09-17 15:30:00,155,68
+4,65.0,7.0,0,99,99,West Virginia,Towson,2022-09-17 12:00:00,157,202
+4,66.0,7.0,0,99,99,Wisconsin,New Mexico State,2022-09-17 19:30:00,161,141
+4,24.0,14.0,0,99,99,Hawaii,Duquesne,2022-09-18 20:30:00,69,71
+5,41.0,24.0,1,99,99,Coastal Carolina,Georgia State,2022-09-22 19:30:00,51,88
+5,31.0,0.0,0,99,99,Illinois,Chattanooga,2022-09-22 20:00:00,72,63
+5,33.0,10.0,1,99,99,West Virginia,Virginia Tech,2022-09-22 19:00:00,157,212
+5,48.0,20.0,0,99,99,Air Force,Nevada,2022-09-23 21:00:00,29,137
+5,22.0,20.0,0,99,99,Syracuse,Virginia,2022-09-23 19:30:00,135,210
+5,27.0,10.0,0,99,99,Texas-El Paso,Boise State,2022-09-23 12:00:00,143,47
+5,55.0,3.0,0,99,2,Alabama,Vanderbilt,2022-09-24 12:00:00,31,208
+5,17.0,14.0,0,99,99,Auburn,Missouri,2022-09-24 10:15:00,39,130
+5,31.0,24.0,1,99,17, Baylor,Iowa State,2022-09-24 12:00:00,1,102
+5,38.0,24.0,0,99,19, Brigham Young,Wyoming,2022-09-24 17:30:00,2,222
+5,50.0,31.0,1,99,99,Buffalo,Eastern Michigan,2022-09-24 16:00:00,44,75
+5,49.0,31.0,0,99,99,California,Arizona,2022-09-24 15:30:00,45,36
+5,27.0,10.0,0,99,99,Central Florida,Georgia Tech,2022-09-24 12:00:00,46,89
+5,45.0,24.0,0,99,99,Cincinnati,Indiana,2022-09-24 20:00:00,49,99
+5,51.0,45.0,1,21,5,Clemson, Wake Forest,2022-09-24 12:00:00,50,23
+5,44.0,14.0,0,99,99,Florida State,Boston College,2022-09-24 18:00:00,63,48
+5,39.0,22.0,0,99,1,Georgia,Kent State,2022-09-24 18:00:00,65,106
+5,34.0,23.0,0,99,99,Georgia Southern,Ball State,2022-09-24 19:00:00,66,44
+5,34.0,27.0,0,99,99,Houston,Rice,2022-09-24 15:30:00,71,164
+5,27.0,10.0,1,99,99,Iowa,Rutgers,2022-09-24 12:00:00,75,167
+5,32.0,28.0,1,99,99,James Madison,Appalachian State,2022-09-24 20:00:00,77,35
+5,35.0,27.0,0,99,99,Kansas,Duke,2022-09-24 19:00:00,78,70
+5,41.0,34.0,1,6,99,Kansas State,Oklahoma,2022-09-24 18:00:00,79,157
+5,31.0,23.0,0,99,8,Kentucky,Northern Illinois,2022-09-24 19:30:00,81,151
+5,21.0,12.0,0,99,99,Liberty,Akron,2022-09-24 20:00:00,82,28
+5,38.0,0.0,0,99,99,Louisiana State,New Mexico,2022-09-24 12:00:00,84,140
+5,21.0,17.0,0,99,99,Louisiana-Monroe,Louisiana,2022-09-24 15:30:00,86,112
+5,41.0,3.0,0,99,99,Louisville,South Florida,2022-09-24 19:30:00,87,177
+5,44.0,34.0,0,99,99,Memphis,North Texas,2022-09-24 12:00:00,91,148
+5,17.0,14.0,1,99,99,Miami (OH),Northwestern,2022-09-24 15:30:00,93,153
+5,34.0,27.0,0,99,4,Michigan,Maryland,2022-09-24 15:30:00,94,119
+5,45.0,31.0,1,25,99,Middle Tennessee State, Miami (FL),2022-09-24 16:00:00,96,11
+5,34.0,7.0,1,99,99,Minnesota,Michigan State,2022-09-24 12:00:00,97,126
+5,35.0,27.0,0,99,16, Mississippi,Tulsa,2022-09-24 18:00:00,11,205
+5,45.0,14.0,0,99,99,Mississippi State,Bowling Green,2022-09-24 19:00:00,99,49
+5,23.0,20.0,1,99,99,Navy,East Carolina,2022-09-24 20:00:00,101,72
+5,34.0,24.0,1,99,99,Nevada-Las Vegas,Utah State,2022-09-24 19:30:00,104,207
+5,45.0,26.0,0,99,99,New Mexico State,Hawaii,2022-09-24 15:30:00,106,91
+5,41.0,10.0,0,99,12, North Carolina State,Connecticut,2022-09-24 14:00:00,13,69
+5,45.0,32.0,1,99,99,Notre Dame,North Carolina,2022-09-24 19:30:00,111,144
+5,59.0,52.0,0,99,99,Ohio,Fordham,2022-09-24 18:00:00,112,83
+5,52.0,21.0,0,99,3,Ohio State,Wisconsin,2022-09-24 16:00:00,113,220
+5,29.0,26.0,0,99,99,Old Dominion,Arkansas State,2022-09-24 12:00:00,116,39
+5,44.0,41.0,1,99,15, Oregon,Washington State,2022-09-24 12:00:00,15,214
+5,33.0,14.0,0,99,14, Penn State,Central Michigan,2022-09-24 19:30:00,16,60
+5,45.0,24.0,0,99,24, Pittsburgh,Rhode Island,2022-09-24 16:00:00,17,163
+5,28.0,26.0,0,99,99,Purdue,Florida Atlantic,2022-09-24 15:30:00,121,80
+5,41.0,10.0,1,99,99,Sacramento State,Colorado State,2022-09-24 10:30:00,124,68
+5,17.0,14.0,0,99,99,San Diego State,Toledo,2022-09-24 19:00:00,125,201
+5,34.0,6.0,0,99,99,San Jose State,Western Michigan,2022-09-24 19:30:00,126,219
+5,38.0,14.0,0,99,99,South Alabama,Louisiana Tech,2022-09-24 21:30:00,127,114
+5,56.0,20.0,0,99,99,South Carolina,Charlotte,2022-09-24 19:00:00,128,62
+5,17.0,14.0,1,99,7,Southern California,Oregon State,2022-09-24 14:00:00,130,160
+5,27.0,24.0,1,99,99,Southern Mississippi,Tulane,2022-09-24 15:30:00,133,204
+5,28.0,0.0,0,99,99,Temple,Massachusetts,2022-09-24 19:00:00,136,120
+5,38.0,33.0,0,20,11, Tennessee, Florida,2022-09-24 12:00:00,20,4
+5,23.0,21.0,3,10,23, Texas A&M, Arkansas,2022-09-24 19:00:00,22,0
+5,42.0,34.0,1,99,99,Texas Christian,Southern Methodist,2022-09-24 15:30:00,140,182
+5,34.0,0.0,0,99,99,Texas State,Houston Baptist,2022-09-24 15:30:00,141,93
+5,37.0,34.0,0,22,99,Texas Tech, Texas,2022-09-24 19:00:00,142,20
+5,52.0,24.0,0,99,99,Texas-San Antonio,Texas Southern,2022-09-24 14:00:00,144,196
+5,16.0,7.0,0,99,99,Troy,Marshall,2022-09-24 10:30:00,146,118
+5,45.0,17.0,1,99,99,UCLA,Colorado,2022-09-24 10:30:00,149,67
+5,34.0,13.0,1,99,13, Utah,Arizona State,2022-09-24 15:30:00,25,37
+5,40.0,22.0,0,99,18, Washington,Stanford,2022-09-24 20:00:00,27,186
+5,73.0,0.0,0,99,99,Western Kentucky,Florida International,2022-09-24 19:00:00,158,81
+6,38.0,26.0,0,99,19, Brigham Young,Utah State,2022-09-29 20:00:00,2,207
+6,50.0,10.0,0,99,99,South Carolina,South Carolina State,2022-09-29 11:00:00,128,174
+6,35.0,13.0,0,99,99,Boise State,San Diego State,2022-09-30 19:30:00,41,170
+6,31.0,20.0,0,99,99,Nevada-Las Vegas,New Mexico,2022-09-30 19:00:00,104,140
+6,45.0,30.0,1,99,99,Texas-San Antonio,Middle Tennessee State,2022-09-30 10:30:00,144,127
+6,27.0,24.0,1,99,99,Tulane,Houston,2022-09-30 12:00:00,147,92
+6,40.0,32.0,0,15,99,UCLA, Washington,2022-09-30 15:30:00,149,24
+6,13.0,10.0,0,99,99,Air Force,Navy,2022-10-01 15:30:00,29,135
+6,49.0,26.0,1,20,2,Alabama, Arkansas,2022-10-01 21:30:00,31,0
+6,49.0,0.0,0,99,99,Appalachian State,Citadel,2022-10-01 19:00:00,33,64
+6,43.0,20.0,0,99,99,Arizona,Colorado,2022-10-01 14:00:00,34,67
+6,45.0,28.0,0,99,99,Arkansas State,Louisiana-Monroe,2022-10-01 12:00:00,37,115
+6,44.0,38.0,0,99,99,Ball State,Northern Illinois,2022-10-01 15:30:00,40,151
+6,34.0,33.0,0,99,99,Boston College,Louisville,2022-10-01 15:30:00,42,116
+6,31.0,28.0,1,99,99,Bowling Green,Akron,2022-10-01 19:00:00,43,28
+6,24.0,20.0,0,99,99,Buffalo,Miami (OH),2022-10-01 19:30:00,44,125
+6,31.0,21.0,1,99,99,Cincinnati,Tulsa,2022-10-01 19:00:00,49,205
+6,30.0,20.0,0,10,5,Clemson, North Carolina State,2022-10-01 15:30:00,50,15
+6,34.0,30.0,0,99,99,Coastal Carolina,Georgia Southern,2022-10-01 19:30:00,51,87
+6,19.0,14.0,0,99,99,Connecticut,Fresno State,2022-10-01 14:30:00,54,84
+6,38.0,17.0,0,99,99,Duke,Virginia,2022-10-01 14:00:00,56,210
+6,48.0,28.0,3,99,99,East Carolina,South Florida,2022-10-01 20:00:00,57,177
+6,20.0,13.0,0,99,99,Eastern Michigan,Massachusetts,2022-10-01 19:30:00,59,120
+6,21.0,7.0,1,99,99,Florida International,New Mexico State,2022-10-01 12:00:00,62,141
+6,26.0,22.0,1,99,1,Georgia,Missouri,2022-10-01 20:00:00,65,130
+6,31.0,14.0,1,99,99,Georgia State,Army,2022-10-01 12:00:00,67,41
+6,26.0,21.0,1,24,99,Georgia Tech, Pittsburgh,2022-10-01 13:30:00,68,19
+6,34.0,10.0,1,99,99,Illinois,Wisconsin,2022-10-01 15:30:00,72,220
+6,40.0,13.0,0,99,99,James Madison,Texas State,2022-10-01 12:00:00,77,197
+6,14.0,11.0,0,99,99,Kansas,Iowa State,2022-10-01 15:30:00,78,102
+6,37.0,28.0,0,99,25, Kansas State,Texas Tech,2022-10-01 18:00:00,7,198
+6,31.0,24.0,0,99,99,Kent State,Ohio,2022-10-01 19:00:00,80,156
+6,38.0,24.0,1,99,99,Liberty,Old Dominion,2022-10-01 15:30:00,82,159
+6,21.0,17.0,1,99,99,Louisiana State,Auburn,2022-10-01 15:30:00,84,42
+6,28.0,7.0,0,99,99,Marshall,Gardner-Webb,2022-10-01 12:00:00,88,86
+6,27.0,13.0,0,99,99,Maryland,Michigan State,2022-10-01 12:00:00,89,126
+6,24.0,3.0,0,99,99,Memphis,Temple,2022-10-01 12:00:00,91,190
+6,27.0,14.0,1,99,4,Michigan,Iowa,2022-10-01 16:00:00,94,101
+6,22.0,19.0,0,7,14, Mississippi,Kentucky,2022-10-01 19:30:00,11,107
+6,42.0,24.0,0,17,99,Mississippi State, Texas A&M,2022-10-01 15:30:00,99,21
+6,35.0,21.0,0,99,99,Nebraska,Indiana,2022-10-01 16:00:00,102,99
+6,41.0,10.0,0,99,99,North Carolina,Virginia Tech,2022-10-01 15:30:00,107,212
+6,45.0,28.0,0,99,99,North Texas,Florida Atlantic,2022-10-01 15:30:00,108,80
+6,49.0,10.0,0,99,3,Ohio State,Rutgers,2022-10-01 11:00:00,113,167
+6,36.0,25.0,1,16,9,Oklahoma State, Baylor,2022-10-01 15:30:00,115,1
+6,45.0,27.0,0,99,13, Oregon,Stanford,2022-10-01 12:00:00,15,186
+6,17.0,7.0,0,99,11, Penn State,Northwestern,2022-10-01 19:30:00,16,153
+6,20.0,10.0,1,21,99,Purdue, Minnesota,2022-10-01 19:30:00,121,13
+6,28.0,24.0,0,99,99,Rice,Alabama-Birmingham,2022-10-01 17:00:00,122,32
+6,33.0,16.0,1,99,99,San Jose State,Wyoming,2022-10-01 10:30:00,126,222
+6,20.0,17.0,1,99,99,South Alabama,Louisiana,2022-10-01 17:00:00,127,112
+6,42.0,25.0,0,99,6,Southern California,Arizona State,2022-10-01 19:30:00,130,37
+6,59.0,0.0,0,99,99,Syracuse,Wagner,2022-10-01 12:00:00,135,213
+6,38.0,20.0,0,99,99,Texas,West Virginia,2022-10-01 18:00:00,138,215
+6,55.0,24.0,0,18,99,Texas Christian, Oklahoma,2022-10-01 15:30:00,140,16
+6,41.0,35.0,1,99,99,Texas-El Paso,Charlotte,2022-10-01 19:00:00,143,62
+6,38.0,17.0,0,99,99,Toledo,Central Michigan,2022-10-01 14:00:00,145,60
+6,34.0,27.0,1,99,99,Troy,Western Kentucky,2022-10-01 15:30:00,146,218
+6,42.0,16.0,0,99,12, Utah,Oregon State,2022-10-01 17:30:00,25,160
+6,31.0,21.0,1,23,22, Wake Forest, Florida State,2022-10-01 18:00:00,26,5
+6,28.0,9.0,0,99,99,Washington State,California,2022-10-01 12:00:00,155,55
+6,44.0,7.0,0,99,99,Western Michigan,New Hampshire,2022-10-01 19:00:00,159,139
+6,52.0,17.0,0,99,99,Florida,Eastern Washington,2022-10-02 10:30:00,60,76
+7,41.0,19.0,0,99,99,Central Florida,Southern Methodist,2022-10-05 19:30:00,46,182
+7,17.0,14.0,1,99,99,Colorado State,Nevada,2022-10-07 19:00:00,53,137
+7,33.0,32.0,1,99,99,Houston,Memphis,2022-10-07 10:30:00,71,122
+7,14.0,13.0,1,99,99,Nebraska,Rutgers,2022-10-07 20:00:00,102,167
+7,40.0,7.0,0,99,99,San Jose State,Nevada-Las Vegas,2022-10-07 15:30:00,126,138
+7,24.0,20.0,0,99,1,Alabama,Texas A&M,2022-10-08 16:00:00,31,195
+7,41.0,14.0,0,99,99,Alabama-Birmingham,Middle Tennessee State,2022-10-08 15:30:00,32,127
+7,45.0,38.0,0,21,99,Arizona State, Washington,2022-10-08 21:45:00,35,24
+7,17.0,16.0,1,99,99,Ball State,Central Michigan,2022-10-08 12:00:00,40,60
+7,40.0,20.0,0,99,99,Boise State,Fresno State,2022-10-08 14:30:00,41,84
+7,38.0,7.0,1,99,99,Buffalo,Bowling Green,2022-10-08 19:30:00,44,49
+7,28.0,24.0,0,99,24, Cincinnati,South Florida,2022-10-08 20:00:00,3,177
+7,31.0,3.0,1,99,5,Clemson,Boston College,2022-10-08 19:00:00,50,48
+7,28.0,21.0,1,99,99,Coastal Carolina,Louisiana-Monroe,2022-10-08 12:00:00,51,115
+7,33.0,12.0,1,99,99,Connecticut,Florida International,2022-10-08 12:00:00,54,81
+7,45.0,23.0,1,99,99,Eastern Michigan,Western Michigan,2022-10-08 15:30:00,59,219
+7,24.0,17.0,0,99,99,Florida,Missouri,2022-10-08 14:00:00,60,130
+7,42.0,10.0,0,99,2,Georgia,Auburn,2022-10-08 16:00:00,65,42
+7,41.0,33.0,0,99,99,Georgia State,Georgia Southern,2022-10-08 19:30:00,67,87
+7,23.0,20.0,0,99,99,Georgia Tech,Duke,2022-10-08 19:00:00,68,70
+7,9.0,6.0,0,99,99,Illinois,Iowa,2022-10-08 19:30:00,72,101
+7,42.0,20.0,1,99,99,James Madison,Arkansas State,2022-10-08 15:30:00,77,39
+7,10.0,9.0,1,99,20, Kansas State,Iowa State,2022-10-08 19:00:00,7,102
+7,42.0,24.0,1,99,99,Liberty,Massachusetts,2022-10-08 12:00:00,82,120
+7,41.0,31.0,0,99,99,Louisiana Tech,Texas-El Paso,2022-10-08 15:30:00,85,199
+7,34.0,17.0,1,99,99,Louisville,Virginia,2022-10-08 12:00:00,87,210
+7,27.0,24.0,0,99,99,Miami (OH),Kent State,2022-10-08 16:00:00,93,106
+7,31.0,10.0,1,99,4,Michigan,Indiana,2022-10-08 12:00:00,94,99
+7,52.0,28.0,1,99,9,Mississippi,Vanderbilt,2022-10-08 15:30:00,98,208
+7,40.0,17.0,0,99,23, Mississippi State,Arkansas,2022-10-08 16:00:00,12,38
+7,53.0,21.0,0,99,99,Navy,Tulsa,2022-10-08 20:00:00,101,205
+7,27.0,24.0,1,99,99,North Carolina,Miami (FL),2022-10-08 19:30:00,107,124
+7,19.0,17.0,0,99,14, North Carolina State,Florida State,2022-10-08 14:00:00,13,82
+7,28.0,20.0,3,16,99,Notre Dame, Brigham Young,2022-10-08 16:00:00,111,2
+7,55.0,34.0,0,99,99,Ohio,Akron,2022-10-08 15:30:00,112,28
+7,49.0,20.0,1,99,3,Ohio State,Michigan State,2022-10-08 20:00:00,113,126
+7,41.0,31.0,0,99,7,Oklahoma State,Texas Tech,2022-10-08 11:00:00,115,198
+7,49.0,22.0,1,99,12, Oregon,Arizona,2022-10-08 15:30:00,15,36
+7,28.0,27.0,1,99,99,Oregon State,Stanford,2022-10-08 12:00:00,118,186
+7,45.0,29.0,0,99,99,Pittsburgh,Virginia Tech,2022-10-08 10:30:00,120,212
+7,31.0,29.0,1,99,99,Purdue,Maryland,2022-10-08 19:30:00,121,119
+7,16.0,14.0,0,99,99,San Diego State,Hawaii,2022-10-08 19:30:00,125,91
+7,24.0,14.0,1,13,99,South Carolina, Kentucky,2022-10-08 12:00:00,128,9
+7,30.0,14.0,0,99,6,Southern California,Washington State,2022-10-08 12:00:00,130,214
+7,40.0,13.0,1,25,8,Tennessee, Louisiana State,2022-10-08 12:00:00,137,10
+7,49.0,0.0,3,99,99,Texas,Oklahoma,2022-10-08 19:00:00,138,157
+7,38.0,31.0,1,19,17, Texas Christian, Kansas,2022-10-08 18:00:00,23,8
+7,36.0,24.0,0,99,99,Texas State,Appalachian State,2022-10-08 19:00:00,141,35
+7,31.0,28.0,0,99,99,Texas-San Antonio,Western Kentucky,2022-10-08 15:30:00,144,218
+7,52.0,32.0,1,99,99,Toledo,Northern Illinois,2022-10-08 15:30:00,145,151
+7,27.0,10.0,0,99,99,Troy,Southern Mississippi,2022-10-08 19:00:00,146,183
+7,24.0,9.0,0,99,99,Tulane,East Carolina,2022-10-08 19:30:00,147,72
+7,42.0,32.0,0,11,18, UCLA, Utah,2022-10-08 15:30:00,24,22
+7,34.0,27.0,0,99,99,Utah State,Air Force,2022-10-08 19:00:00,150,27
+7,45.0,10.0,0,99,15, Wake Forest,Army,2022-10-08 19:30:00,26,41
+7,42.0,7.0,1,99,99,Wisconsin,Northwestern,2022-10-08 19:00:00,161,153
+7,27.0,14.0,1,99,99,Wyoming,New Mexico,2022-10-08 19:00:00,162,140
+8,23.0,13.0,1,99,99,Louisiana,Marshall,2022-10-12 19:30:00,83,118
+8,70.0,13.0,0,99,99,Central Florida,Temple,2022-10-13 20:00:00,46,190
+8,43.0,40.0,0,99,99,West Virginia,Baylor,2022-10-13 21:30:00,157,45
+8,40.0,34.0,0,99,99,Southern Methodist,Navy,2022-10-14 15:30:00,132,135
+8,30.0,10.0,1,99,99,Texas-San Antonio,Florida International,2022-10-14 15:30:00,144,81
+8,42.0,7.0,1,99,99,Air Force,Nevada-Las Vegas,2022-10-15 12:00:00,29,138
+8,34.0,20.0,0,99,99,Alabama-Birmingham,Charlotte,2022-10-15 14:00:00,32,62
+8,52.0,35.0,1,99,99,Arkansas,Brigham Young,2022-10-15 12:00:00,36,50
+8,42.0,17.0,0,99,99,Army,Colgate,2022-10-15 13:00:00,38,66
+8,25.0,21.0,0,99,99,Ball State,Connecticut,2022-10-15 12:00:00,40,69
+8,17.0,13.0,0,99,99,Bowling Green,Miami (OH),2022-10-15 19:30:00,43,125
+8,34.0,7.0,1,99,99,Buffalo,Massachusetts,2022-10-15 14:00:00,44,120
+8,28.0,21.0,1,99,99,Central Michigan,Akron,2022-10-15 19:30:00,47,28
+8,34.0,28.0,1,99,4,Clemson,Florida State,2022-10-15 18:00:00,50,82
+8,20.0,13.0,0,99,99,Colorado,California,2022-10-15 10:45:00,52,55
+8,47.0,45.0,0,99,99,East Carolina,Memphis,2022-10-15 15:30:00,57,122
+8,17.0,14.0,0,99,99,Florida Atlantic,Rice,2022-10-15 16:00:00,61,164
+8,17.0,10.0,0,99,99,Fresno State,San Jose State,2022-10-15 11:59:00,64,171
+8,55.0,0.0,0,99,1,Georgia,Vanderbilt,2022-10-15 12:00:00,65,208
+8,45.0,38.0,0,25,99,Georgia Southern, James Madison,2022-10-15 19:30:00,66,7
+8,31.0,16.0,0,99,99,Hawaii,Nevada,2022-10-15 15:30:00,69,137
+8,26.0,14.0,0,99,24, Illinois,Minnesota,2022-10-15 19:00:00,6,128
+8,27.0,17.0,0,16,22, Kentucky, Mississippi State,2022-10-15 15:30:00,8,14
+8,21.0,20.0,0,99,99,Liberty,Gardner-Webb,2022-10-15 12:30:00,82,86
+8,45.0,35.0,1,99,99,Louisiana State,Florida,2022-10-15 12:00:00,84,78
+8,38.0,33.0,1,99,99,Maryland,Indiana,2022-10-15 16:00:00,89,99
+8,20.0,14.0,1,99,99,Miami (FL),Virginia Tech,2022-10-15 12:00:00,92,212
+8,41.0,17.0,0,10,5,Michigan, Penn State,2022-10-15 20:00:00,94,18
+8,34.0,28.0,0,99,99,Michigan State,Wisconsin,2022-10-15 20:00:00,95,220
+8,48.0,34.0,0,99,9,Mississippi,Auburn,2022-10-15 16:00:00,98,42
+8,15.0,9.0,0,99,99,New Mexico State,New Mexico,2022-10-15 15:30:00,106,140
+8,38.0,35.0,1,99,99,North Carolina,Duke,2022-10-15 15:30:00,107,70
+8,47.0,27.0,0,99,99,North Texas,Louisiana Tech,2022-10-15 12:00:00,108,114
+8,39.0,10.0,1,99,99,Northern Illinois,Eastern Michigan,2022-10-15 12:00:00,109,75
+8,33.0,14.0,1,99,99,Ohio,Western Michigan,2022-10-15 21:00:00,112,219
+8,52.0,42.0,0,19,99,Oklahoma, Kansas,2022-10-15 19:30:00,114,8
+8,49.0,21.0,1,99,99,Old Dominion,Coastal Carolina,2022-10-15 20:00:00,116,65
+8,24.0,10.0,0,99,99,Oregon State,Washington State,2022-10-15 19:00:00,118,214
+8,43.0,37.0,0,99,99,Purdue,Nebraska,2022-10-15 19:30:00,121,136
+8,41.0,34.0,0,99,99,South Alabama,Louisiana-Monroe,2022-10-15 15:30:00,127,115
+8,20.0,19.0,0,99,99,Southern Mississippi,Arkansas State,2022-10-15 15:30:00,133,39
+8,16.0,14.0,1,99,99,Stanford,Notre Dame,2022-10-15 12:00:00,134,155
+8,24.0,9.0,0,15,18, Syracuse, North Carolina State,2022-10-15 15:30:00,19,15
+8,52.0,49.0,0,3,6,Tennessee,Alabama,2022-10-15 15:30:00,137,29
+8,24.0,21.0,0,99,22, Texas,Iowa State,2022-10-15 15:30:00,21,102
+8,43.0,40.0,0,8,13, Texas Christian,Oklahoma State,2022-10-15 16:00:00,23,158
+8,52.0,31.0,0,99,99,Toledo,Kent State,2022-10-15 20:00:00,145,106
+8,17.0,14.0,0,99,99,Troy,Texas State,2022-10-15 19:00:00,146,197
+8,45.0,31.0,1,99,99,Tulane,South Florida,2022-10-15 17:30:00,147,177
+8,43.0,42.0,0,7,20, Utah,Southern California,2022-10-15 15:30:00,25,181
+8,17.0,13.0,1,99,99,Utah State,Colorado State,2022-10-15 19:30:00,150,68
+8,49.0,39.0,0,99,99,Washington,Arizona,2022-10-15 19:30:00,154,36
+8,35.0,17.0,1,99,99,Western Kentucky,Middle Tennessee State,2022-10-15 19:30:00,158,127
