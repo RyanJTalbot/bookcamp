@@ -1,650 +1,650 @@
-Wk,home_rank,away_rank,home_team_code,away_team_code,home_results,day_code
-1,99,99,136,117,0,5
-1,99,99,138,128,0,5
-1,99,99,145,289,0,5
-1,99,99,176,197,1,5
-1,99,99,174,154,0,5
-1,99,99,177,136,0,5
-1,99,99,208,208,1,5
-1,99,99,172,291,3,5
-1,99,99,215,125,0,5
-1,99,99,143,272,1,5
-1,99,99,222,97,0,5
-2,99,99,107,247,0,3
-2,99,99,108,84,0,3
-2,99,99,111,209,0,3
-2,99,99,124,236,0,3
-2,99,99,137,105,0,3
-2,99,99,139,108,0,3
-2,99,99,167,201,0,3
-2,99,99,169,175,0,3
-2,99,99,179,130,0,3
-2,99,99,10,115,0,3
-2,99,99,189,220,1,3
-2,99,99,40,281,0,3
-2,99,99,193,222,0,3
-2,99,99,202,98,0,3
-2,99,99,210,172,0,3
-2,99,99,69,275,0,3
-2,99,99,132,253,0,4
-2,99,99,134,131,0,4
-2,99,99,146,155,0,4
-2,99,99,150,255,0,4
-2,99,99,29,285,0,4
-2,99,99,184,276,0,4
-2,99,99,129,259,1,4
-2,99,99,126,286,1,4
-2,99,99,106,212,0,5
-2,1,99,0,271,0,5
-2,99,99,192,90,1,5
-2,99,99,47,49,0,5
-2,99,99,113,147,0,5
-2,99,99,115,184,0,5
-2,99,99,3,87,0,5
-2,99,99,196,57,1,5
-2,99,99,123,110,0,5
-2,99,99,128,95,0,5
-2,99,99,131,113,0,5
-2,99,99,170,126,1,5
-2,99,7,135,73,0,5
-2,99,99,172,291,3,5
-2,99,99,140,193,0,5
-2,99,99,209,53,1,5
-2,99,99,147,238,0,5
-2,99,99,148,240,0,5
-2,99,99,149,188,0,5
-2,99,99,151,237,0,5
-2,99,99,56,186,0,5
-2,99,99,198,171,1,5
-2,99,99,154,241,0,5
-2,99,99,159,203,0,5
-2,99,99,160,107,0,5
-2,99,99,34,100,0,5
-2,8,99,98,124,0,5
-2,99,99,60,267,0,5
-2,99,99,168,183,0,5
-2,99,99,171,206,0,5
-2,99,99,173,261,0,5
-2,99,99,175,178,0,5
-2,99,99,109,204,1,5
-2,99,99,133,12,1,5
-2,99,99,182,137,0,5
-2,2,5,54,66,0,5
-2,9,99,104,263,0,5
-2,99,99,186,101,0,5
-2,99,99,119,228,1,5
-2,99,99,194,202,0,5
-2,99,99,195,145,0,5
-2,99,99,25,225,0,5
-2,99,99,178,244,1,5
-2,99,99,199,122,0,5
-2,99,99,200,177,0,5
-2,99,99,203,176,0,5
-2,6,99,92,230,0,5
-2,99,99,207,194,0,5
-2,99,99,212,181,0,5
-2,99,99,214,103,0,5
-2,99,99,216,134,0,5
-2,99,99,217,226,0,5
-2,99,99,219,167,0,5
-2,99,99,220,153,0,5
-2,99,99,46,156,0,5
-2,99,99,225,269,0,5
-2,99,99,172,291,3,6
-2,99,99,143,284,1,6
-2,99,4,142,63,1,0
-3,99,99,175,101,1,4
-3,99,99,124,177,1,4
-3,99,99,106,123,0,5
-3,99,1,203,0,1,5
-3,6,99,92,89,1,5
-3,99,99,32,235,0,5
-3,99,99,115,233,0,5
-3,99,9,58,77,0,5
-3,99,99,123,198,0,5
-3,99,99,127,166,0,5
-3,5,99,86,142,0,5
-3,99,99,128,143,0,5
-3,99,99,180,127,1,5
-3,99,99,133,218,0,5
-3,99,99,120,131,1,5
-3,99,99,136,241,0,5
-3,2,99,53,231,0,5
-3,99,99,171,144,1,5
-3,99,99,142,282,0,5
-3,99,99,122,149,1,5
-3,99,99,145,274,0,5
-3,99,99,173,157,1,5
-3,99,99,146,153,0,5
-3,99,99,147,161,1,5
-3,99,99,149,203,0,5
-3,99,99,221,164,1,5
-3,99,99,151,191,0,5
-3,99,99,8,39,1,5
-3,99,99,153,86,0,5
-3,99,99,154,132,0,5
-3,99,99,155,242,0,5
-3,99,99,156,249,0,5
-3,99,99,157,202,0,5
-3,8,99,99,179,1,5
-3,99,99,126,180,1,5
-3,99,99,170,183,1,5
-3,99,99,28,245,0,5
-3,99,99,164,227,0,5
-3,4,99,85,148,0,5
-3,99,99,21,83,0,5
-3,99,99,130,188,1,5
-3,99,99,167,283,0,5
-3,99,99,67,112,0,5
-3,99,99,110,190,1,5
-3,99,99,141,204,1,5
-3,99,99,42,116,0,5
-3,99,99,178,260,0,5
-3,3,99,83,93,0,5
-3,7,99,93,167,0,5
-3,99,99,5,91,0,5
-3,99,99,185,133,0,5
-3,99,99,139,219,1,5
-3,99,99,187,216,0,5
-3,99,99,189,159,0,5
-3,99,99,190,182,0,5
-3,99,99,191,277,0,5
-3,99,99,192,154,0,5
-3,99,99,125,234,1,5
-3,99,99,196,152,0,5
-3,99,99,199,4,1,5
-3,99,99,197,170,0,5
-3,99,99,131,251,1,5
-3,99,99,201,169,0,5
-3,99,99,40,56,1,5
-3,99,99,205,252,0,5
-3,99,99,206,138,0,5
-3,99,99,207,59,0,5
-3,99,99,208,201,0,5
-3,99,99,114,264,1,5
-3,99,99,210,181,0,5
-3,99,99,211,84,0,5
-3,99,99,212,88,0,5
-3,99,99,213,211,0,5
-3,99,99,214,85,0,5
-3,99,99,18,246,0,5
-3,99,99,218,102,0,5
-3,99,99,216,52,1,5
-3,99,99,219,222,0,5
-3,99,99,51,279,1,5
-3,99,99,215,280,1,5
-3,99,99,116,285,1,5
-3,99,99,225,210,0,5
-4,99,99,158,139,1,4
-4,99,99,225,82,0,4
-4,2,99,52,176,0,5
-4,99,99,108,144,0,5
-4,99,99,109,267,0,5
-4,99,99,110,207,0,5
-4,99,99,2,192,0,5
-4,99,99,114,273,0,5
-4,99,99,116,194,0,5
-4,99,99,39,261,0,5
-4,99,99,118,256,0,5
-4,99,99,119,178,0,5
-4,99,99,120,179,0,5
-4,99,99,136,114,1,5
-4,99,99,125,106,0,5
-4,99,99,141,117,1,5
-4,99,99,172,291,3,5
-4,5,99,86,175,0,5
-4,99,99,128,107,0,5
-4,99,99,132,205,0,5
-4,99,99,133,111,0,5
-4,99,99,111,132,1,5
-4,99,99,41,239,0,5
-4,99,1,195,1,1,5
-4,99,99,146,284,0,5
-4,99,99,147,197,0,5
-4,99,99,148,216,0,5
-4,99,99,144,164,1,5
-4,99,99,152,172,0,5
-4,9,99,102,290,0,5
-4,99,99,155,190,0,5
-4,99,99,160,244,0,5
-4,99,99,161,250,0,5
-4,99,99,162,93,0,5
-4,4,99,85,125,0,5
-4,99,99,166,254,0,5
-4,99,99,167,123,0,5
-4,99,99,142,40,1,5
-4,99,99,169,81,0,5
-4,99,99,174,208,0,5
-4,99,99,175,263,0,5
-4,99,99,36,262,0,5
-4,99,99,181,109,0,5
-4,3,99,83,265,0,5
-4,99,6,171,68,1,5
-4,8,99,100,94,0,5
-4,99,99,80,9,0,5
-4,99,99,172,291,3,5
-4,99,99,115,45,1,5
-4,99,99,223,51,1,5
-4,99,99,190,173,0,5
-4,99,99,201,228,1,5
-4,7,99,95,141,0,5
-4,99,99,180,243,1,5
-4,99,99,198,214,0,5
-4,99,99,200,223,0,5
-4,99,99,30,83,0,5
-4,99,99,63,264,0,5
-4,99,99,76,11,0,5
-4,99,99,151,268,1,5
-4,99,99,213,162,0,5
-4,99,99,214,234,0,5
-4,99,99,26,232,0,5
-4,99,99,179,272,1,5
-4,99,99,217,218,0,5
-4,99,99,218,288,0,5
-4,99,99,50,171,0,5
-4,99,99,219,7,0,5
-4,99,99,220,124,0,5
-4,99,99,221,266,0,5
-4,99,99,224,201,0,5
-4,99,99,143,128,0,6
-5,99,99,141,121,1,3
-5,99,99,145,118,0,3
-5,99,99,218,281,1,3
-5,99,99,106,197,0,4
-5,99,99,200,274,0,4
-5,99,99,208,101,0,4
-5,2,99,52,272,0,5
-5,99,99,115,191,0,5
-5,99,99,148,22,1,5
-5,99,99,48,289,0,5
-5,99,99,134,107,1,5
-5,99,99,123,90,0,5
-5,99,99,124,146,0,5
-5,99,99,127,158,0,5
-5,99,5,64,65,1,5
-5,99,99,138,102,0,5
-5,1,99,1,167,0,5
-5,99,99,140,98,0,5
-5,99,99,144,225,0,5
-5,99,99,191,160,1,5
-5,99,99,109,163,1,5
-5,99,99,150,127,0,5
-5,6,99,89,165,1,5
-5,8,99,97,211,0,5
-5,99,99,153,83,0,5
-5,99,99,155,200,0,5
-5,99,99,157,173,0,5
-5,99,99,158,239,0,5
-5,99,99,162,208,0,5
-5,99,99,180,186,1,5
-5,4,99,85,180,0,5
-5,99,99,79,188,1,5
-5,99,99,165,189,1,5
-5,99,99,35,269,0,5
-5,99,99,168,103,0,5
-5,99,99,133,195,1,5
-5,99,99,215,198,1,5
-5,99,99,176,148,0,5
-5,99,99,9,125,0,5
-5,99,99,177,215,1,5
-5,99,99,182,140,0,5
-5,3,99,83,287,0,5
-5,99,99,184,93,0,5
-5,99,99,220,18,1,5
-5,99,99,24,115,0,5
-5,99,99,75,224,0,5
-5,99,99,189,137,0,5
-5,99,99,130,229,1,5
-5,99,99,192,265,0,5
-5,99,99,193,285,0,5
-5,99,99,194,175,0,5
-5,99,99,195,117,0,5
-5,99,7,186,71,1,5
-5,99,99,212,245,1,5
-5,99,99,201,181,0,5
-5,99,99,7,37,0,5
-5,99,99,172,291,3,5
-5,99,99,197,259,1,5
-5,99,99,206,151,0,5
-5,99,99,207,47,0,5
-5,99,99,209,260,0,5
-5,99,99,211,179,0,5
-5,99,99,129,270,1,5
-5,99,99,111,13,1,5
-5,99,99,45,248,0,5
-5,99,99,222,138,0,5
-6,99,99,48,271,0,3
-6,99,99,195,236,0,3
-6,99,99,118,232,0,4
-6,99,99,174,200,0,4
-6,99,99,166,264,1,4
-6,99,99,144,268,1,4
-6,99,99,214,19,0,4
-6,99,99,106,195,0,5
-6,99,2,55,33,1,5
-6,99,99,109,120,0,5
-6,99,99,110,123,0,5
-6,99,99,113,176,0,5
-6,99,99,116,211,0,5
-6,99,99,119,177,0,5
-6,99,99,107,103,1,5
-6,99,99,122,186,0,5
-6,99,99,213,119,1,5
-6,5,99,86,2,0,5
-6,99,99,128,144,0,5
-6,99,99,131,141,0,5
-6,99,99,132,274,0,5
-6,99,99,172,291,3,5
-6,99,99,134,181,0,5
-6,99,99,176,138,1,5
-6,99,1,169,1,1,5
-6,99,99,114,145,1,5
-6,99,99,75,146,1,5
-6,99,99,224,155,1,5
-6,99,99,149,261,0,5
-6,99,99,150,161,0,5
-6,99,99,77,262,0,5
-6,99,99,152,216,0,5
-6,99,99,184,171,1,5
-6,99,99,115,174,1,5
-6,99,99,159,143,0,5
-6,99,99,160,187,0,5
-6,99,99,162,253,0,5
-6,99,4,147,64,1,5
-6,99,7,22,69,0,5
-6,99,99,168,26,0,5
-6,99,99,171,158,0,5
-6,99,99,177,276,0,5
-6,99,99,178,137,0,5
-6,3,99,83,228,0,5
-6,99,9,33,79,1,5
-6,99,99,15,248,0,5
-6,99,99,6,213,0,5
-6,99,99,59,223,1,5
-6,99,99,190,86,0,5
-6,99,99,225,233,1,5
-6,99,99,154,234,1,5
-6,6,99,90,91,0,5
-6,99,99,200,277,0,5
-6,99,99,203,281,0,5
-6,99,99,205,28,0,5
-6,99,99,126,263,1,5
-6,99,99,210,115,0,5
-6,99,99,222,267,1,5
-6,99,99,12,219,0,5
-6,99,99,70,48,1,5
-6,99,99,220,109,0,5
-6,99,99,223,199,0,5
-6,99,99,135,133,0,6
-7,99,99,124,244,0,2
-7,99,99,173,124,1,4
-7,99,99,162,150,1,4
-7,99,99,191,196,1,4
-7,99,99,193,198,0,4
-7,1,99,0,258,0,5
-7,99,99,108,188,0,5
-7,99,99,111,44,0,5
-7,99,99,125,98,1,5
-7,99,99,118,141,0,5
-7,99,99,120,107,1,5
-7,99,99,72,239,0,5
-7,99,5,119,65,1,5
-7,99,99,157,121,1,5
-7,99,99,137,125,1,5
-7,99,99,223,132,1,5
-7,99,99,135,191,0,5
-7,2,99,53,96,0,5
-7,99,99,141,144,0,5
-7,99,99,142,127,0,5
-7,99,99,145,160,0,5
-7,99,99,113,163,1,5
-7,99,99,148,38,1,5
-7,99,99,161,171,1,5
-7,99,99,156,263,0,5
-7,99,99,217,177,1,5
-7,99,99,164,167,0,5
-7,99,4,146,64,1,5
-7,99,9,216,78,1,5
-7,99,99,71,92,0,5
-7,99,99,170,269,0,5
-7,99,99,163,204,1,5
-7,99,99,23,139,0,5
-7,99,99,172,291,3,5
-7,99,99,182,83,0,5
-7,99,3,165,62,1,5
-7,7,99,94,262,0,5
-7,99,99,110,10,1,5
-7,99,99,199,219,1,5
-7,99,99,188,276,0,5
-7,99,99,160,223,1,5
-7,99,99,192,148,0,5
-7,99,99,14,235,1,5
-7,6,99,90,279,0,5
-7,99,8,78,76,1,5
-7,99,99,172,291,3,5
-7,99,99,49,27,1,5
-7,99,99,206,89,0,5
-7,99,99,209,284,0,5
-7,99,99,179,265,1,5
-7,99,99,211,245,0,5
-7,99,99,212,129,0,5
-7,99,99,44,8,0,5
-7,99,99,215,82,0,5
-7,99,99,31,95,0,5
-7,99,99,180,287,1,5
-7,99,99,175,289,1,5
-8,99,99,159,173,1,2
-8,99,99,124,253,0,3
-8,99,99,221,99,0,3
-8,99,99,197,195,0,4
-8,99,99,137,264,1,4
-8,99,99,174,82,1,5
-8,99,99,108,117,0,5
-8,99,99,121,92,1,5
-8,99,99,114,122,0,5
-8,99,99,116,125,0,5
-8,99,99,120,186,0,5
-8,99,99,161,107,1,5
-8,99,99,107,115,1,5
-8,99,4,138,63,1,5
-8,99,99,129,109,0,5
-8,99,99,133,183,0,5
-8,99,99,136,225,0,5
-8,99,99,139,233,0,5
-8,1,99,1,272,0,5
-8,99,99,140,60,0,5
-8,99,99,143,197,0,5
-8,99,99,73,189,0,5
-8,99,99,66,20,0,5
-8,99,99,153,143,0,5
-8,99,99,135,174,1,5
-8,99,99,146,180,1,5
-8,99,99,218,185,1,5
-8,5,99,87,3,0,5
-8,99,99,165,287,0,5
-8,9,99,103,96,0,5
-8,99,99,176,200,0,5
-8,99,99,132,204,1,5
-8,99,99,178,175,0,5
-8,99,99,134,211,1,5
-8,99,99,223,216,1,5
-8,99,99,183,30,0,5
-8,99,99,128,218,1,5
-8,99,99,186,279,0,5
-8,99,99,189,196,0,5
-8,99,99,194,176,0,5
-8,99,99,198,93,0,5
-8,99,99,181,248,1,5
-8,99,99,43,17,0,5
-8,6,3,91,61,0,5
-8,99,99,68,161,0,5
-8,99,8,17,74,0,5
-8,99,99,210,167,0,5
-8,99,99,211,261,0,5
-8,99,99,196,268,1,5
-8,99,7,57,71,0,5
-8,99,99,130,271,1,5
-8,99,99,219,90,0,5
-8,99,99,166,284,1,5
-9,99,99,109,145,0,2
-9,99,99,194,267,1,3
-9,99,99,142,274,1,3
-9,99,99,201,269,1,4
-9,99,99,222,86,0,4
-9,6,99,88,54,0,5
-9,99,99,114,176,0,5
-9,99,99,117,164,0,5
-9,99,99,106,101,1,5
-9,99,99,125,103,1,5
-9,99,99,122,265,0,5
-9,99,99,197,43,1,5
-9,5,99,86,14,0,5
-9,99,99,130,148,0,5
-9,99,99,163,127,1,5
-9,99,99,133,114,0,5
-9,99,99,116,132,1,5
-9,99,99,126,138,1,5
-9,99,99,175,141,1,5
-9,99,99,184,144,1,5
-9,99,99,170,150,1,5
-9,99,99,152,83,0,5
-9,99,99,153,104,0,5
-9,99,99,154,93,0,5
-9,99,7,155,70,0,5
-9,99,99,158,221,0,5
-9,99,99,149,179,1,5
-9,99,99,160,213,0,5
-9,99,99,169,272,0,5
-9,99,99,181,198,0,5
-9,99,99,182,211,0,5
-9,2,99,54,160,0,5
-9,99,99,5,41,0,5
-9,99,9,4,80,0,5
-9,99,99,186,123,0,5
-9,99,99,37,189,0,5
-9,99,99,156,225,1,5
-9,99,99,191,158,0,5
-9,99,99,173,232,1,5
-9,99,99,176,233,1,5
-9,99,99,195,258,0,5
-9,99,99,206,245,1,5
-9,99,99,199,91,0,5
-9,3,99,84,256,0,5
-9,8,99,101,24,0,5
-9,99,99,207,281,0,5
-9,99,99,208,137,0,5
-9,99,99,209,208,0,5
-9,99,99,82,183,0,5
-9,99,99,19,102,0,5
-9,99,99,123,278,1,5
-9,99,99,164,285,1,5
-9,99,99,224,223,0,5
-9,99,99,225,271,0,5
-10,99,99,74,276,0,3
-10,99,99,198,173,0,3
-10,99,99,220,15,1,3
-10,99,99,121,129,1,4
-10,99,99,137,175,0,4
-10,99,99,109,227,0,5
-10,99,99,129,91,1,5
-10,99,99,115,92,1,5
-10,99,99,207,99,1,5
-10,99,99,118,124,0,5
-10,99,99,124,36,0,5
-10,99,99,190,117,1,5
-10,99,99,159,121,1,5
-10,99,99,131,102,0,5
-10,99,99,136,86,0,5
-10,99,99,138,146,0,5
-10,99,99,139,232,0,5
-10,99,99,172,291,3,5
-10,99,99,141,218,0,5
-10,99,99,144,239,0,5
-10,99,99,171,23,1,5
-10,99,99,147,213,0,5
-10,99,9,65,79,0,5
-10,99,99,158,6,0,5
-10,99,99,217,185,1,5
-10,99,99,107,186,1,5
-10,4,99,85,187,0,5
-10,99,99,208,188,1,5
-10,99,99,167,228,0,5
-10,99,99,204,16,1,5
-10,99,99,81,191,1,5
-10,99,99,170,253,0,5
-10,99,99,161,201,1,5
-10,99,99,61,221,0,5
-10,99,99,222,208,1,5
-10,99,99,38,215,1,5
-10,99,2,16,34,1,5
-10,99,99,148,217,1,5
-10,99,8,123,75,1,5
-10,99,99,193,197,0,5
-10,99,99,113,234,1,5
-10,99,99,110,4,1,5
-10,99,99,213,244,1,5
-10,3,99,84,31,0,5
-10,99,7,221,72,1,5
-10,99,99,134,265,1,5
-10,99,99,11,248,0,5
-10,99,99,143,289,1,6
-11,99,99,152,98,1,1
-11,99,99,182,107,0,1
-11,99,99,120,285,0,2
-11,99,99,179,115,1,2
-11,99,99,128,89,0,3
-11,99,99,190,263,0,3
-11,99,99,131,181,0,4
-11,99,99,119,127,1,4
-11,99,99,219,55,0,4
-11,99,99,172,291,3,5
-11,99,99,183,99,1,5
-11,99,99,118,104,1,5
-11,99,99,162,58,1,5
-11,99,99,127,195,0,5
-11,99,99,204,135,1,5
-11,99,99,163,139,1,5
-11,99,99,139,148,0,5
-11,1,2,1,35,0,5
-11,99,99,198,145,1,5
-11,99,99,218,146,1,5
-11,99,99,189,160,1,5
-11,99,99,148,281,0,5
-11,99,99,150,29,0,5
-11,99,99,169,168,1,5
-11,99,99,112,50,1,5
-11,99,6,27,67,0,5
-11,99,99,156,188,0,5
-11,99,99,157,261,0,5
-11,99,99,158,163,0,5
-11,99,99,184,179,1,5
-11,99,4,191,64,1,5
-11,99,99,20,187,1,5
-11,99,99,171,189,1,5
-11,99,99,168,96,0,5
-11,99,99,217,25,1,5
-11,99,99,62,42,0,5
-11,99,99,178,138,0,5
-11,99,5,181,65,0,5
-11,99,2,180,34,1,5
-11,99,8,129,75,1,5
-11,99,99,146,21,1,5
-11,99,99,188,46,0,5
-11,99,99,192,198,0,5
-11,99,99,193,124,0,5
-11,99,99,140,234,1,5
-11,99,99,216,235,1,5
-11,9,99,105,109,0,5
-11,99,99,197,150,0,5
-11,99,99,201,239,0,5
-11,99,99,13,257,1,5
-11,7,99,96,262,0,5
-11,99,99,108,264,1,5
-11,99,99,154,267,1,5
-11,99,99,213,32,1,5
-11,99,99,111,5,1,5
-11,99,99,12,90,0,5
-11,99,99,215,200,0,5
-11,99,99,199,279,1,5
-11,99,99,126,284,1,5
-11,99,99,224,180,0,5
+Wk,winners,losers,home_rank,away_rank,home_team_code,away_team_code,home_results,day_code
+1,Florida Atlantic,Charlotte,99,99,32,37,0,5
+1,Florida State,Duquesne,99,99,34,49,0,5
+1,Illinois,Wyoming,99,99,42,221,0,5
+1,Nevada,New Mexico State,99,99,76,121,1,5
+1,Nevada-Las Vegas,Idaho State,99,99,74,76,0,5
+1,North Carolina,Florida A&M,99,99,77,57,0,5
+1,North Texas,Texas-El Paso,99,99,112,133,1,5
+1,Northwestern,Nebraska,99,99,72,223,3,5
+1,Utah State,Connecticut,99,99,120,46,0,5
+1,Vanderbilt,Hawaii,99,99,40,203,1,5
+1,Western Kentucky,Austin Peay,99,99,128,17,0,5
+2,Akron,St. Francis (PA),99,99,1,176,0,3
+2,Alabama-Birmingham,Alabama A&M,99,99,3,4,0,3
+2,Arizona State,Northern Arizona,99,99,6,134,0,3
+2,Central Florida,South Carolina State,99,99,19,164,0,3
+2,Florida International,Bryant,99,99,33,25,0,3
+2,Fresno State,Cal Poly,99,99,35,28,0,3
+2,Minnesota,New Mexico State,99,99,66,125,0,3
+2,Missouri,Louisiana Tech,99,99,69,97,0,3
+2,Northern Illinois,Eastern Illinois,99,99,80,51,0,3
+2,Oklahoma State,Central Michigan,99,99,86,35,0,3
+2,Penn State,Purdue,99,99,92,148,1,3
+2,Pittsburgh,West Virginia,99,99,91,213,0,3
+2,San Jose State,Portland State,99,99,96,150,0,3
+2,Tennessee,Ball State,99,99,106,18,0,3
+2,Toledo,Long Island,99,99,114,94,0,3
+2,Wake Forest,Virginia Military Institute,99,99,124,206,0,3
+2,Duke,Temple,99,99,28,182,0,4
+2,Eastern Michigan,Eastern Kentucky,99,99,30,52,0,4
+2,Indiana,Illinois,99,99,43,77,0,4
+2,Kansas,Tennessee Tech,99,99,47,185,0,4
+2,Michigan State,Western Michigan,99,99,64,217,0,4
+2,Old Dominion,Virginia Tech,99,99,87,207,0,4
+2,Texas Christian,Colorado,99,99,25,189,1,4
+2,William & Mary,Charlotte,99,99,21,218,1,4
+2,Air Force,Northern Iowa,99,99,0,137,0,5
+2,Alabama,Utah State,1,99,2,202,0,5
+2,Arizona,San Diego State,99,99,95,10,1,5
+2,Arkansas,Cincinnati,99,99,7,39,0,5
+2,Arkansas State,Grambling State,99,99,8,69,0,5
+2,Auburn,Mercer,99,99,10,106,0,5
+2,Baylor,Albany,99,99,12,7,0,5
+2,Brigham Young,South Florida,99,99,99,24,1,5
+2,California,California-Davis,99,99,18,30,0,5
+2,Coastal Carolina,Army,99,99,24,15,0,5
+2,Connecticut,Central Connecticut State,99,99,27,33,0,5
+2,Delaware,Navy,99,99,70,47,1,5
+2,Florida,Utah,99,7,31,201,0,5
+2,Georgia,Oregon,99,99,72,223,3,5
+2,Georgia Southern,Morgan State,99,99,37,117,0,5
+2,Houston,Texas-San Antonio,99,99,113,72,1,5
+2,Iowa,South Dakota State,99,99,44,166,0,5
+2,Iowa State,Southeast Missouri State,99,99,45,168,0,5
+2,James Madison,Middle Tennessee State,99,99,46,111,0,5
+2,Kansas State,South Dakota,99,99,48,165,0,5
+2,Kentucky,Miami (OH),99,99,50,108,0,5
+2,Liberty,Southern Mississippi,99,99,102,93,1,5
+2,Louisiana,Southeastern Louisiana,99,99,52,169,0,5
+2,Marshall,Norfolk State,99,99,57,127,0,5
+2,Maryland,Buffalo,99,99,58,27,0,5
+2,Miami (FL),Bethune-Cookman,99,99,61,20,0,5
+2,Michigan,Colorado State,8,99,63,45,0,5
+2,Mississippi,Troy,99,99,67,197,0,5
+2,Mississippi State,Memphis,99,99,68,105,0,5
+2,Nebraska,North Dakota,99,99,71,131,0,5
+2,Nevada,Texas State,99,99,73,191,0,5
+2,New Mexico,Maine,99,99,75,100,0,5
+2,North Carolina,Appalachian State,99,99,4,128,1,5
+2,North Carolina State,East Carolina,99,99,29,130,1,5
+2,Ohio,Florida Atlantic,99,99,83,58,0,5
+2,Ohio State,Notre Dame,2,5,84,140,0,5
+2,Oklahoma,Texas-El Paso,9,99,85,193,0,5
+2,Oregon State,Boise State,99,99,89,21,0,5
+2,Rutgers,Boston College,99,99,14,156,1,5
+2,South Alabama,Nicholls State,99,99,97,126,0,5
+2,South Carolina,Georgia State,99,99,98,67,0,5
+2,Southern California,Rice,99,99,100,153,0,5
+2,Southern Methodist,North Texas,99,99,79,173,1,5
+2,Stanford,Colgate,99,99,103,43,0,5
+2,Syracuse,Louisville,99,99,104,99,0,5
+2,Texas,Louisiana-Monroe,99,99,107,98,0,5
+2,Texas A&M,Sam Houston State,6,99,108,158,0,5
+2,Texas Tech,Murray State,99,99,111,118,0,5
+2,Tulane,Massachusetts,99,99,116,103,0,5
+2,UCLA,Bowling Green,99,99,118,23,0,5
+2,Vanderbilt,Elon,99,99,121,55,0,5
+2,Virginia,Richmond,99,99,122,154,0,5
+2,Washington,Kent State,99,99,125,89,0,5
+2,Washington State,Idaho,99,99,126,75,0,5
+2,Wisconsin,Illinois State,99,99,130,78,0,5
+2,Wyoming,Tulsa,99,99,131,199,0,5
+2,Florida State,Louisiana State,99,99,72,223,3,6
+2,Western Kentucky,Hawaii,99,99,40,216,1,6
+2,Clemson,Georgia Tech,99,4,39,41,1,0
+3,Boise State,New Mexico,99,99,75,21,1,4
+3,Louisville,Central Florida,99,99,19,99,1,4
+3,Air Force,Colorado,99,99,0,44,0,5
+3,Alabama,Texas,99,1,107,3,1,5
+3,Appalachian State,Texas A&M,6,99,108,9,1,5
+3,Arkansas,South Carolina,99,99,7,163,0,5
+3,Auburn,San Jose State,99,99,10,161,0,5
+3,Brigham Young,Baylor,99,9,16,19,0,5
+3,California,Nevada-Las Vegas,99,99,18,122,0,5
+3,Cincinnati,Kennesaw State,99,99,22,88,0,5
+3,Clemson,Furman,5,99,23,63,0,5
+3,Coastal Carolina,Gardner-Webb,99,99,24,64,0,5
+3,Duke,Northwestern,99,99,81,48,1,5
+3,East Carolina,Old Dominion,99,99,29,145,0,5
+3,Eastern Kentucky,Bowling Green,99,99,15,52,1,5
+3,Florida Atlantic,Southeastern Louisiana,99,99,32,169,0,5
+3,Georgia,Samford,2,99,36,159,0,5
+3,Georgia Southern,Nebraska,99,99,71,66,1,5
+3,Georgia Tech,Western Carolina,99,99,39,214,0,5
+3,Holy Cross,Buffalo,99,99,17,71,1,5
+3,Illinois,Virginia,99,99,42,205,0,5
+3,Incarnate Word,Nevada,99,99,73,79,1,5
+3,Indiana,Idaho,99,99,43,75,0,5
+3,Iowa State,Iowa,99,99,44,83,1,5
+3,James Madison,Norfolk State,99,99,46,127,0,5
+3,Kansas,West Virginia,99,99,127,86,1,5
+3,Kansas State,Missouri,99,99,48,115,0,5
+3,Kentucky,Florida,99,99,31,90,1,5
+3,Liberty,Alabama-Birmingham,99,99,51,6,0,5
+3,Louisiana,Eastern Michigan,99,99,52,53,0,5
+3,Louisiana State,Southern,99,99,53,170,0,5
+3,Louisiana Tech,Stephen F. Austin,99,99,54,178,0,5
+3,Louisiana-Monroe,Nicholls State,99,99,55,126,0,5
+3,Marshall,Notre Dame,8,99,82,101,1,5
+3,Maryland,Charlotte,99,99,21,102,1,5
+3,Memphis,Navy,99,99,70,105,1,5
+3,Miami (FL),Southern Mississippi,99,99,61,174,0,5
+3,Miami (OH),Robert Morris,99,99,62,155,0,5
+3,Michigan,Hawaii,4,99,63,70,0,5
+3,Michigan State,Akron,99,99,64,2,0,5
+3,Middle Tennessee State,Colorado State,99,99,26,111,1,5
+3,Minnesota,Western Illinois,99,99,66,215,0,5
+3,Mississippi,Central Arkansas,99,99,67,32,0,5
+3,Mississippi State,Arizona,99,99,5,114,1,5
+3,North Carolina,Georgia State,99,99,38,128,1,5
+3,North Carolina State,Charleston Southern,99,99,78,36,0,5
+3,North Texas,Texas Southern,99,99,79,190,0,5
+3,Ohio State,Arkansas State,3,99,84,13,0,5
+3,Oklahoma,Kent State,7,99,85,89,0,5
+3,Oklahoma State,Arizona State,99,99,86,11,0,5
+3,Oregon,Eastern Washington,99,99,88,54,0,5
+3,Oregon State,Fresno State,99,99,35,147,1,5
+3,Penn State,Ohio,99,99,90,141,0,5
+3,Purdue,Indiana State,99,99,92,81,0,5
+3,Rice,McNeese State,99,99,93,104,0,5
+3,Rutgers,Wagner,99,99,94,208,0,5
+3,San Diego State,Idaho State,99,99,95,76,0,5
+3,South Alabama,Central Michigan,99,99,20,162,1,5
+3,South Florida,Howard,99,99,99,74,0,5
+3,Southern California,Stanford,99,99,103,171,1,5
+3,Southern Methodist,Lamar,99,99,101,92,0,5
+3,Syracuse,Connecticut,99,99,27,180,1,5
+3,Temple,Lafayette,99,99,105,91,0,5
+3,Tennessee,Pittsburgh,99,99,91,183,1,5
+3,Texas Christian,Tarleton State,99,99,109,181,0,5
+3,Texas State,Florida International,99,99,110,59,0,5
+3,Texas Tech,Houston,99,99,111,72,0,5
+3,Texas-El Paso,New Mexico State,99,99,112,125,0,5
+3,Texas-San Antonio,Army,99,99,9,194,1,5
+3,Toledo,Massachusetts,99,99,114,103,0,5
+3,Troy,Alabama A&M,99,99,115,4,0,5
+3,Tulane,Alcorn State,99,99,116,8,0,5
+3,Tulsa,Northern Illinois,99,99,117,136,0,5
+3,UCLA,Alabama State,99,99,118,5,0,5
+3,Utah,Southern Utah,99,99,119,175,0,5
+3,Virginia Tech,Boston College,99,99,123,22,0,5
+3,Wake Forest,Vanderbilt,99,99,121,209,1,5
+3,Washington,Portland State,99,99,125,150,0,5
+3,Washington State,Wisconsin,99,99,130,211,1,5
+3,Weber State,Utah State,99,99,120,212,1,5
+3,Western Michigan,Ball State,99,99,11,217,1,5
+3,Wyoming,Northern Colorado,99,99,131,135,0,5
+4,Florida State,Louisville,99,99,56,60,1,4
+4,Wyoming,Air Force,99,99,131,1,0,4
+4,Alabama,Louisiana-Monroe,2,99,2,98,0,5
+4,Alabama-Birmingham,Georgia Southern,99,99,3,66,0,5
+4,Appalachian State,Troy,99,99,4,197,0,5
+4,Arizona,North Dakota State,99,99,5,132,0,5
+4,Arkansas,Missouri State,99,99,7,116,0,5
+4,Army,Villanova,99,99,9,204,0,5
+4,Ball State,Murray State,99,99,11,118,0,5
+4,Baylor,Texas State,99,99,12,191,0,5
+4,Boise State,Tennessee-Martin,99,99,13,186,0,5
+4,Boston College,Maine,99,99,14,100,0,5
+4,Bowling Green,Marshall,99,99,15,101,0,5
+4,Central Florida,Florida Atlantic,99,99,32,34,1,5
+4,Central Michigan,Bucknell,99,99,20,26,0,5
+4,Charlotte,Georgia State,99,99,38,37,1,5
+4,Cincinnati,Miami (OH),99,99,72,223,3,5
+4,Clemson,Louisiana Tech,5,99,23,97,0,5
+4,Coastal Carolina,Buffalo,99,99,24,27,0,5
+4,Duke,North Carolina A&T,99,99,28,129,0,5
+4,East Carolina,Campbell,99,99,29,31,0,5
+4,Eastern Michigan,Arizona State,99,99,6,53,1,5
+4,Florida,South Florida,99,99,31,167,0,5
+4,Georgia,South Carolina,99,1,98,65,1,5
+4,Indiana,Western Kentucky,99,99,43,216,0,5
+4,Iowa,Nevada,99,99,44,121,0,5
+4,Iowa State,Ohio,99,99,45,141,0,5
+4,Kansas,Houston,99,99,41,86,1,5
+4,Kent State,Long Island,99,99,49,94,0,5
+4,Kentucky,Youngstown State,9,99,50,222,0,5
+4,Louisiana State,Mississippi State,99,99,53,114,0,5
+4,Maryland,Southern Methodist,99,99,58,173,0,5
+4,Massachusetts,Stony Brook,99,99,59,179,0,5
+4,Memphis,Arkansas State,99,99,60,13,0,5
+4,Michigan,Connecticut,4,99,63,46,0,5
+4,Middle Tennessee State,Tennessee State,99,99,65,184,0,5
+4,Minnesota,Colorado,99,99,66,44,0,5
+4,Mississippi,Georgia Tech,99,99,39,113,1,5
+4,Missouri,Abilene Christian,99,99,69,0,0,5
+4,Nevada-Las Vegas,North Texas,99,99,74,133,0,5
+4,New Mexico,Texas-El Paso,99,99,75,193,0,5
+4,North Carolina State,Texas Tech,99,99,78,192,0,5
+4,Notre Dame,California,99,99,82,29,0,5
+4,Ohio State,Toledo,3,99,84,195,0,5
+4,Oklahoma,Nebraska,99,6,71,143,1,5
+4,Oklahoma State,Arkansas-Pine Bluff,8,99,86,14,0,5
+4,Oregon,Brigham Young,99,99,88,24,0,5
+4,Oregon State,Montana State,99,99,72,223,3,5
+4,Penn State,Auburn,99,99,10,148,1,5
+4,Pittsburgh,Western Michigan,99,99,129,149,1,5
+4,Rice,Louisiana,99,99,93,95,0,5
+4,Rutgers,Temple,99,99,105,156,1,5
+4,Southern California,Fresno State,7,99,100,62,0,5
+4,Southern Illinois,Northwestern,99,99,81,172,1,5
+4,Southern Mississippi,Northwestern State,99,99,102,139,0,5
+4,Syracuse,Purdue,99,99,104,151,0,5
+4,Tennessee,Akron,99,99,106,2,0,5
+4,Texas,Texas-San Antonio,99,99,107,194,0,5
+4,Texas A&M,Miami (FL),99,99,108,107,0,5
+4,Tulane,Kansas State,99,99,48,198,1,5
+4,Tulsa,Jacksonville State,99,99,117,84,0,5
+4,UCLA,South Alabama,99,99,118,162,0,5
+4,Utah,San Diego State,99,99,119,160,0,5
+4,Vanderbilt,Northern Illinois,99,99,80,203,1,5
+4,Virginia,Old Dominion,99,99,122,145,0,5
+4,Virginia Tech,Wofford,99,99,123,220,0,5
+4,Wake Forest,Liberty,99,99,124,93,0,5
+4,Washington,Michigan State,99,99,125,110,0,5
+4,Washington State,Colorado State,99,99,126,45,0,5
+4,West Virginia,Towson,99,99,127,196,0,5
+4,Wisconsin,New Mexico State,99,99,130,125,0,5
+4,Hawaii,Duquesne,99,99,40,49,0,6
+5,Coastal Carolina,Georgia State,99,99,38,42,1,3
+5,Illinois,Chattanooga,99,99,42,38,0,3
+5,West Virginia,Virginia Tech,99,99,123,213,1,3
+5,Air Force,Nevada,99,99,0,121,0,4
+5,Syracuse,Virginia,99,99,104,205,0,4
+5,Texas-El Paso,Boise State,99,99,112,21,0,4
+5,Alabama,Vanderbilt,2,99,2,203,0,5
+5,Auburn,Missouri,99,99,10,115,0,5
+5,Baylor,Iowa State,99,99,45,19,1,5
+5,Brigham Young,Wyoming,99,99,16,221,0,5
+5,Buffalo,Eastern Michigan,99,99,30,27,1,5
+5,California,Arizona,99,99,18,10,0,5
+5,Central Florida,Georgia Tech,99,99,19,68,0,5
+5,Cincinnati,Indiana,99,99,22,80,0,5
+5,Clemson,Wake Forest,99,5,124,41,1,5
+5,Florida State,Boston College,99,99,34,22,0,5
+5,Georgia,Kent State,1,99,36,89,0,5
+5,Georgia Southern,Ball State,99,99,37,18,0,5
+5,Houston,Rice,99,99,41,153,0,5
+5,Iowa,Rutgers,99,99,94,82,1,5
+5,James Madison,Appalachian State,99,99,4,85,1,5
+5,Kansas,Duke,99,99,47,48,0,5
+5,Kansas State,Oklahoma,6,99,85,87,1,5
+5,Kentucky,Northern Illinois,8,99,50,136,0,5
+5,Liberty,Akron,99,99,51,2,0,5
+5,Louisiana State,New Mexico,99,99,53,124,0,5
+5,Louisiana-Monroe,Louisiana,99,99,55,95,0,5
+5,Louisville,South Florida,99,99,56,167,0,5
+5,Memphis,North Texas,99,99,60,133,0,5
+5,Miami (OH),Northwestern,99,99,81,108,1,5
+5,Michigan,Maryland,4,99,63,102,0,5
+5,Middle Tennessee State,Miami (FL),99,99,61,111,1,5
+5,Minnesota,Michigan State,99,99,64,112,1,5
+5,Mississippi,Tulsa,99,99,67,199,0,5
+5,Mississippi State,Bowling Green,99,99,68,23,0,5
+5,Navy,East Carolina,99,99,29,119,1,5
+5,Nevada-Las Vegas,Utah State,99,99,120,122,1,5
+5,New Mexico State,Hawaii,99,99,76,70,0,5
+5,North Carolina State,Connecticut,99,99,78,46,0,5
+5,Notre Dame,North Carolina,99,99,77,140,1,5
+5,Ohio,Fordham,99,99,83,61,0,5
+5,Ohio State,Wisconsin,3,99,84,219,0,5
+5,Old Dominion,Arkansas State,99,99,87,13,0,5
+5,Oregon,Washington State,99,99,126,146,1,5
+5,Penn State,Central Michigan,99,99,90,35,0,5
+5,Pittsburgh,Rhode Island,99,99,91,152,0,5
+5,Purdue,Florida Atlantic,99,99,92,58,0,5
+5,Sacramento State,Colorado State,99,99,26,157,1,5
+5,San Diego State,Toledo,99,99,95,195,0,5
+5,San Jose State,Western Michigan,99,99,96,217,0,5
+5,South Alabama,Louisiana Tech,99,99,97,97,0,5
+5,South Carolina,Charlotte,99,99,98,37,0,5
+5,Southern California,Oregon State,99,7,89,171,1,5
+5,Southern Mississippi,Tulane,99,99,116,174,1,5
+5,Temple,Massachusetts,99,99,105,103,0,5
+5,Tennessee,Florida,99,99,106,56,0,5
+5,Texas A&M,Arkansas,99,99,72,223,3,5
+5,Texas Christian,Southern Methodist,99,99,101,189,1,5
+5,Texas State,Houston Baptist,99,99,110,73,0,5
+5,Texas Tech,Texas,99,99,111,187,0,5
+5,Texas-San Antonio,Texas Southern,99,99,113,190,0,5
+5,Troy,Marshall,99,99,115,101,0,5
+5,UCLA,Colorado,99,99,25,200,1,5
+5,Utah,Arizona State,99,99,6,201,1,5
+5,Washington,Stanford,99,99,125,177,0,5
+5,Western Kentucky,Florida International,99,99,128,59,0,5
+6,Brigham Young,Utah State,99,99,16,202,0,3
+6,South Carolina,South Carolina State,99,99,98,164,0,3
+6,Boise State,San Diego State,99,99,13,160,0,4
+6,Nevada-Las Vegas,New Mexico,99,99,74,124,0,4
+6,Texas-San Antonio,Middle Tennessee State,99,99,65,194,1,4
+6,Tulane,Houston,99,99,41,198,1,4
+6,UCLA,Washington,99,99,118,210,0,4
+6,Air Force,Navy,99,99,0,119,0,5
+6,Alabama,Arkansas,99,2,7,3,1,5
+6,Appalachian State,Citadel,99,99,4,40,0,5
+6,Arizona,Colorado,99,99,5,44,0,5
+6,Arkansas State,Louisiana-Monroe,99,99,8,98,0,5
+6,Ball State,Northern Illinois,99,99,11,136,0,5
+6,Boston College,Louisville,99,99,14,99,0,5
+6,Bowling Green,Akron,99,99,1,23,1,5
+6,Buffalo,Miami (OH),99,99,17,108,0,5
+6,Cincinnati,Tulsa,99,99,117,39,1,5
+6,Clemson,North Carolina State,5,99,23,130,0,5
+6,Coastal Carolina,Georgia Southern,99,99,24,66,0,5
+6,Connecticut,Fresno State,99,99,27,62,0,5
+6,Duke,Virginia,99,99,28,205,0,5
+6,East Carolina,South Florida,99,99,72,223,3,5
+6,Eastern Michigan,Massachusetts,99,99,30,103,0,5
+6,Florida International,New Mexico State,99,99,76,59,1,5
+6,Georgia,Missouri,99,1,69,65,1,5
+6,Georgia State,Army,99,99,9,67,1,5
+6,Georgia Tech,Pittsburgh,99,99,91,68,1,5
+6,Illinois,Wisconsin,99,99,130,77,1,5
+6,James Madison,Texas State,99,99,46,191,0,5
+6,Kansas,Iowa State,99,99,47,83,0,5
+6,Kansas State,Texas Tech,99,99,48,192,0,5
+6,Kent State,Ohio,99,99,49,141,0,5
+6,Liberty,Old Dominion,99,99,87,93,1,5
+6,Louisiana State,Auburn,99,99,10,96,1,5
+6,Marshall,Gardner-Webb,99,99,57,64,0,5
+6,Maryland,Michigan State,99,99,58,110,0,5
+6,Memphis,Temple,99,99,60,182,0,5
+6,Michigan,Iowa,99,4,44,109,1,5
+6,Mississippi,Kentucky,99,7,67,90,0,5
+6,Mississippi State,Texas A&M,99,99,68,188,0,5
+6,Nebraska,Indiana,99,99,71,80,0,5
+6,North Carolina,Virginia Tech,99,99,77,207,0,5
+6,North Texas,Florida Atlantic,99,99,79,58,0,5
+6,Ohio State,Rutgers,3,99,84,156,0,5
+6,Oklahoma State,Baylor,99,9,12,144,1,5
+6,Oregon,Stanford,99,99,88,177,0,5
+6,Penn State,Northwestern,99,99,90,138,0,5
+6,Purdue,Minnesota,99,99,66,151,1,5
+6,Rice,Alabama-Birmingham,99,99,93,6,0,5
+6,San Jose State,Wyoming,99,99,131,161,1,5
+6,South Alabama,Louisiana,99,99,52,162,1,5
+6,Southern California,Arizona State,6,99,100,11,0,5
+6,Syracuse,Wagner,99,99,104,208,0,5
+6,Texas,West Virginia,99,99,107,213,0,5
+6,Texas Christian,Oklahoma,99,99,109,143,0,5
+6,Texas-El Paso,Charlotte,99,99,21,193,1,5
+6,Toledo,Central Michigan,99,99,114,35,0,5
+6,Troy,Western Kentucky,99,99,128,197,1,5
+6,Utah,Oregon State,99,99,119,147,0,5
+6,Wake Forest,Florida State,99,99,34,209,1,5
+6,Washington State,California,99,99,126,29,0,5
+6,Western Michigan,New Hampshire,99,99,129,123,0,5
+6,Florida,Eastern Washington,99,99,31,54,0,6
+7,Central Florida,Southern Methodist,99,99,19,173,0,2
+7,Colorado State,Nevada,99,99,73,45,1,4
+7,Houston,Memphis,99,99,60,72,1,4
+7,Nebraska,Rutgers,99,99,94,120,1,4
+7,San Jose State,Nevada-Las Vegas,99,99,96,122,0,4
+7,Alabama,Texas A&M,1,99,2,188,0,5
+7,Alabama-Birmingham,Middle Tennessee State,99,99,3,111,0,5
+7,Arizona State,Washington,99,99,6,210,0,5
+7,Ball State,Central Michigan,99,99,20,18,1,5
+7,Boise State,Fresno State,99,99,13,62,0,5
+7,Buffalo,Bowling Green,99,99,15,27,1,5
+7,Cincinnati,South Florida,99,99,22,167,0,5
+7,Clemson,Boston College,99,5,14,41,1,5
+7,Coastal Carolina,Louisiana-Monroe,99,99,55,42,1,5
+7,Connecticut,Florida International,99,99,33,46,1,5
+7,Eastern Michigan,Western Michigan,99,99,129,53,1,5
+7,Florida,Missouri,99,99,31,115,0,5
+7,Georgia,Auburn,2,99,36,16,0,5
+7,Georgia State,Georgia Southern,99,99,38,66,0,5
+7,Georgia Tech,Duke,99,99,39,48,0,5
+7,Illinois,Iowa,99,99,42,82,0,5
+7,James Madison,Arkansas State,99,99,8,85,1,5
+7,Kansas State,Iowa State,99,99,45,87,1,5
+7,Liberty,Massachusetts,99,99,59,93,1,5
+7,Louisiana Tech,Texas-El Paso,99,99,54,193,0,5
+7,Louisville,Virginia,99,99,122,99,1,5
+7,Miami (OH),Kent State,99,99,62,89,0,5
+7,Michigan,Indiana,99,4,43,109,1,5
+7,Mississippi,Vanderbilt,99,9,121,113,1,5
+7,Mississippi State,Arkansas,99,99,68,12,0,5
+7,Navy,Tulsa,99,99,70,199,0,5
+7,North Carolina,Miami (FL),99,99,61,128,1,5
+7,North Carolina State,Florida State,99,99,78,60,0,5
+7,Notre Dame,Brigham Young,99,99,72,223,3,5
+7,Ohio,Akron,99,99,83,2,0,5
+7,Ohio State,Michigan State,99,3,64,142,1,5
+7,Oklahoma State,Texas Tech,7,99,86,192,0,5
+7,Oregon,Arizona,99,99,5,146,1,5
+7,Oregon State,Stanford,99,99,103,147,1,5
+7,Pittsburgh,Virginia Tech,99,99,91,207,0,5
+7,Purdue,Maryland,99,99,58,151,1,5
+7,San Diego State,Hawaii,99,99,95,70,0,5
+7,South Carolina,Kentucky,99,99,50,163,1,5
+7,Southern California,Washington State,6,99,100,211,0,5
+7,Tennessee,Louisiana State,99,8,53,183,1,5
+7,Texas,Oklahoma,99,99,72,223,3,5
+7,Texas Christian,Kansas,99,99,47,189,1,5
+7,Texas State,Appalachian State,99,99,110,9,0,5
+7,Texas-San Antonio,Western Kentucky,99,99,113,216,0,5
+7,Toledo,Northern Illinois,99,99,80,195,1,5
+7,Troy,Southern Mississippi,99,99,115,174,0,5
+7,Tulane,East Carolina,99,99,116,50,0,5
+7,UCLA,Utah,99,99,118,201,0,5
+7,Utah State,Air Force,99,99,120,1,0,5
+7,Wake Forest,Army,99,99,124,15,0,5
+7,Wisconsin,Northwestern,99,99,81,219,1,5
+7,Wyoming,New Mexico,99,99,75,221,1,5
+8,Louisiana,Marshall,99,99,57,95,1,2
+8,Central Florida,Temple,99,99,19,182,0,3
+8,West Virginia,Baylor,99,99,127,19,0,3
+8,Southern Methodist,Navy,99,99,101,119,0,4
+8,Texas-San Antonio,Florida International,99,99,33,194,1,4
+8,Air Force,Nevada-Las Vegas,99,99,74,1,1,5
+8,Alabama-Birmingham,Charlotte,99,99,3,37,0,5
+8,Arkansas,Brigham Young,99,99,16,12,1,5
+8,Army,Colgate,99,99,9,43,0,5
+8,Ball State,Connecticut,99,99,11,46,0,5
+8,Bowling Green,Miami (OH),99,99,15,108,0,5
+8,Buffalo,Massachusetts,99,99,59,27,1,5
+8,Central Michigan,Akron,99,99,1,35,1,5
+8,Clemson,Florida State,99,4,34,41,1,5
+8,Colorado,California,99,99,25,29,0,5
+8,East Carolina,Memphis,99,99,29,105,0,5
+8,Florida Atlantic,Rice,99,99,32,153,0,5
+8,Fresno State,San Jose State,99,99,35,161,0,5
+8,Georgia,Vanderbilt,1,99,36,203,0,5
+8,Georgia Southern,James Madison,99,99,37,85,0,5
+8,Hawaii,Nevada,99,99,40,121,0,5
+8,Illinois,Minnesota,99,99,42,112,0,5
+8,Kentucky,Mississippi State,99,99,50,114,0,5
+8,Liberty,Gardner-Webb,99,99,51,64,0,5
+8,Louisiana State,Florida,99,99,31,96,1,5
+8,Maryland,Indiana,99,99,43,102,1,5
+8,Miami (FL),Virginia Tech,99,99,123,107,1,5
+8,Michigan,Penn State,5,99,63,148,0,5
+8,Michigan State,Wisconsin,99,99,64,219,0,5
+8,Mississippi,Auburn,9,99,67,16,0,5
+8,New Mexico State,New Mexico,99,99,76,124,0,5
+8,North Carolina,Duke,99,99,28,128,1,5
+8,North Texas,Louisiana Tech,99,99,79,97,0,5
+8,Northern Illinois,Eastern Michigan,99,99,30,136,1,5
+8,Ohio,Western Michigan,99,99,129,141,1,5
+8,Oklahoma,Kansas,99,99,85,86,0,5
+8,Old Dominion,Coastal Carolina,99,99,24,145,1,5
+8,Oregon State,Washington State,99,99,89,211,0,5
+8,Purdue,Nebraska,99,99,92,120,0,5
+8,South Alabama,Louisiana-Monroe,99,99,97,98,0,5
+8,Southern Mississippi,Arkansas State,99,99,102,13,0,5
+8,Stanford,Notre Dame,99,99,82,177,1,5
+8,Syracuse,North Carolina State,99,99,104,130,0,5
+8,Tennessee,Alabama,6,3,106,3,0,5
+8,Texas,Iowa State,99,99,107,83,0,5
+8,Texas Christian,Oklahoma State,99,8,109,144,0,5
+8,Toledo,Kent State,99,99,114,89,0,5
+8,Troy,Texas State,99,99,115,191,0,5
+8,Tulane,South Florida,99,99,99,198,1,5
+8,Utah,Southern California,99,7,119,171,0,5
+8,Utah State,Colorado State,99,99,26,202,1,5
+8,Washington,Arizona,99,99,125,10,0,5
+8,Western Kentucky,Middle Tennessee State,99,99,65,216,1,5
+9,Appalachian State,Georgia State,99,99,4,67,0,2
+9,Troy,South Alabama,99,99,97,197,1,3
+9,Virginia,Georgia Tech,99,99,39,205,1,3
+9,Tulsa,Temple,99,99,105,199,1,4
+9,Western Kentucky,Alabama-Birmingham,99,99,128,6,0,4
+9,Alabama,Mississippi State,6,99,2,114,0,5
+9,Army,Louisiana-Monroe,99,99,9,98,0,5
+9,Baylor,Kansas,99,99,12,86,0,5
+9,Boise State,Air Force,99,99,0,21,1,5
+9,Bowling Green,Central Michigan,99,99,20,23,1,5
+9,Buffalo,Toledo,99,99,17,195,0,5
+9,Cincinnati,Southern Methodist,99,99,101,39,1,5
+9,Clemson,Syracuse,5,99,23,180,0,5
+9,Colorado State,Hawaii,99,99,26,70,0,5
+9,Duke,Miami (FL),99,99,61,48,1,5
+9,East Carolina,Central Florida,99,99,29,34,0,5
+9,Eastern Michigan,Ball State,99,99,11,53,1,5
+9,Florida International,Charlotte,99,99,21,59,1,5
+9,Fresno State,New Mexico,99,99,75,62,1,5
+9,Georgia Southern,Old Dominion,99,99,87,66,1,5
+9,Houston,Navy,99,99,70,72,1,5
+9,Kent State,Akron,99,99,49,2,0,5
+9,Liberty,Brigham Young,99,99,51,24,0,5
+9,Louisiana,Arkansas State,99,99,52,13,0,5
+9,Louisiana State,Mississippi,99,7,53,113,0,5
+9,Louisville,Pittsburgh,99,99,56,149,0,5
+9,Marshall,James Madison,99,99,46,101,1,5
+9,Maryland,Northwestern,99,99,58,138,0,5
+9,Missouri,Vanderbilt,99,99,69,203,0,5
+9,Notre Dame,Nevada-Las Vegas,99,99,82,122,0,5
+9,Ohio,Northern Illinois,99,99,83,136,0,5
+9,Ohio State,Iowa,2,99,84,82,0,5
+9,Oklahoma State,Texas,99,99,86,187,0,5
+9,Oregon,UCLA,99,9,88,200,0,5
+9,Oregon State,Colorado,99,99,89,44,0,5
+9,Penn State,Minnesota,99,99,90,112,0,5
+9,Rice,Louisiana Tech,99,99,54,153,1,5
+9,Rutgers,Indiana,99,99,94,80,0,5
+9,San Diego State,Nevada,99,99,73,160,1,5
+9,San Jose State,New Mexico State,99,99,76,161,1,5
+9,South Carolina,Texas A&M,99,99,98,188,0,5
+9,Southern Mississippi,Texas State,99,99,110,174,1,5
+9,Stanford,Arizona State,99,99,103,11,0,5
+9,Tennessee,Tennessee-Martin,3,99,106,186,0,5
+9,Texas Christian,Kansas State,8,99,109,87,0,5
+9,Texas Tech,West Virginia,99,99,111,213,0,5
+9,Texas-El Paso,Florida Atlantic,99,99,112,58,0,5
+9,Texas-San Antonio,North Texas,99,99,113,133,0,5
+9,Tulane,Memphis,99,99,116,105,0,5
+9,Wake Forest,Boston College,99,99,124,22,0,5
+9,Washington,California,99,99,18,210,1,5
+9,Western Michigan,Miami (OH),99,99,62,217,1,5
+9,Wisconsin,Purdue,99,99,130,151,0,5
+9,Wyoming,Utah State,99,99,131,202,0,5
+10,North Carolina State,Virginia Tech,99,99,78,207,0,3
+10,Southern Mississippi,Louisiana,99,99,102,95,0,3
+10,Utah,Washington State,99,99,126,201,1,3
+10,East Carolina,Brigham Young,99,99,16,50,1,4
+10,Florida International,Louisiana Tech,99,99,33,97,0,4
+10,Appalachian State,Robert Morris,99,99,4,155,0,5
+10,Arizona State,Colorado,99,99,25,11,1,5
+10,Arkansas,Auburn,99,99,10,12,1,5
+10,Baylor,Texas Tech,99,99,111,19,1,5
+10,Boise State,Colorado State,99,99,13,45,0,5
+10,Central Florida,Cincinnati,99,99,19,39,0,5
+10,Charlotte,Rice,99,99,93,37,1,5
+10,Coastal Carolina,Marshall,99,99,57,42,1,5
+10,Connecticut,Boston College,99,99,27,22,0,5
+10,Florida Atlantic,Alabama-Birmingham,99,99,32,6,0,5
+10,Florida State,Georgia Tech,99,99,34,68,0,5
+10,Fresno State,San Diego State,99,99,35,160,0,5
+10,Georgia,Florida,99,99,72,223,3,5
+10,Georgia State,Old Dominion,99,99,38,145,0,5
+10,Houston,South Florida,99,99,41,167,0,5
+10,Illinois,Nebraska,99,99,71,77,1,5
+10,Iowa,Northwestern,99,99,44,138,0,5
+10,Kansas State,Oklahoma State,99,9,48,144,0,5
+10,Louisville,Wake Forest,99,99,56,209,0,5
+10,Miami (FL),Virginia,99,99,122,107,1,5
+10,Miami (OH),Akron,99,99,1,108,1,5
+10,Michigan,Michigan State,4,99,63,110,0,5
+10,Middle Tennessee State,Texas-El Paso,99,99,112,111,1,5
+10,Minnesota,Rutgers,99,99,66,156,0,5
+10,Mississippi,Texas A&M,99,99,108,113,1,5
+10,Missouri,South Carolina,99,99,98,115,1,5
+10,Navy,Temple,99,99,70,182,0,5
+10,New Mexico State,Massachusetts,99,99,59,125,1,5
+10,North Carolina,Pittsburgh,99,99,77,149,0,5
+10,North Texas,Western Kentucky,99,99,128,133,1,5
+10,Notre Dame,Syracuse,99,99,104,140,1,5
+10,Ohio State,Penn State,99,2,90,142,1,5
+10,Oklahoma,Iowa State,99,99,45,143,1,5
+10,Oregon,California,99,8,18,146,1,5
+10,San Jose State,Nevada,99,99,96,121,0,5
+10,South Alabama,Arkansas State,99,99,8,162,1,5
+10,Southern California,Arizona,99,99,5,171,1,5
+10,Southern Methodist,Tulsa,99,99,117,173,1,5
+10,Tennessee,Kentucky,3,99,106,90,0,5
+10,Texas Christian,West Virginia,99,7,127,189,1,5
+10,Toledo,Eastern Michigan,99,99,30,195,1,5
+10,UCLA,Stanford,99,99,118,177,0,5
+10,Wyoming,Hawaii,99,99,40,221,1,6
+11,Ball State,Kent State,99,99,49,18,1,1
+11,Ohio,Buffalo,99,99,83,27,0,1
+11,Bowling Green,Western Michigan,99,99,15,217,0,2
+11,Central Michigan,Northern Illinois,99,99,80,35,1,2
+11,Coastal Carolina,Appalachian State,99,99,24,9,0,3
+11,Rice,Texas-El Paso,99,99,93,193,0,3
+11,Connecticut,Massachusetts,99,99,27,103,0,4
+11,Duke,Boston College,99,99,14,48,1,4
+11,Washington,Oregon State,99,99,125,147,0,4
+11,Air Force,Army,99,99,72,223,3,5
+11,Baylor,Oklahoma,99,99,85,19,1,5
+11,Brigham Young,Boise State,99,99,13,24,1,5
+11,Central Florida,Memphis,99,99,60,34,1,5
+11,Cincinnati,Navy,99,99,22,119,0,5
+11,Florida,Texas A&M,99,99,108,56,1,5
+11,Florida State,Miami (FL),99,99,61,60,1,5
+11,Fresno State,Hawaii,99,99,35,70,0,5
+11,Georgia,Tennessee,1,2,36,183,0,5
+11,Georgia State,Southern Mississippi,99,99,102,67,1,5
+11,Georgia Tech,Virginia Tech,99,99,123,68,1,5
+11,Iowa,Purdue,99,99,92,82,1,5
+11,Iowa State,West Virginia,99,99,45,213,0,5
+11,Kansas,Oklahoma State,99,99,47,144,0,5
+11,Kentucky,Missouri,99,99,69,90,1,5
+11,Liberty,Arkansas,99,99,7,93,1,5
+11,Louisiana State,Alabama,99,6,53,3,0,5
+11,Louisiana Tech,Middle Tennessee State,99,99,54,111,0,5
+11,Louisiana-Monroe,Texas State,99,99,55,191,0,5
+11,Louisville,James Madison,99,99,56,85,0,5
+11,Marshall,Old Dominion,99,99,87,101,1,5
+11,Michigan,Rutgers,99,4,94,109,1,5
+11,Michigan State,Illinois,99,99,42,110,1,5
+11,Minnesota,Nebraska,99,99,71,112,1,5
+11,Mississippi State,Auburn,99,99,68,16,0,5
+11,North Carolina,Virginia,99,99,122,128,1,5
+11,North Carolina State,Wake Forest,99,99,78,209,0,5
+11,North Texas,Florida International,99,99,79,59,0,5
+11,Notre Dame,Clemson,99,5,82,41,0,5
+11,Ohio State,Northwestern,99,2,81,142,1,5
+11,Oregon,Colorado,99,8,25,146,1,5
+11,Penn State,Indiana,99,99,43,148,1,5
+11,Pittsburgh,Syracuse,99,99,91,180,0,5
+11,San Diego State,Nevada-Las Vegas,99,99,95,122,0,5
+11,San Jose State,Colorado State,99,99,96,45,0,5
+11,South Alabama,Georgia Southern,99,99,37,162,1,5
+11,South Carolina,Vanderbilt,99,99,121,163,1,5
+11,Southern California,California,9,99,100,29,0,5
+11,Southern Methodist,Houston,99,99,101,72,0,5
+11,Temple,South Florida,99,99,105,167,0,5
+11,Texas,Kansas State,99,99,48,187,1,5
+11,Texas Christian,Texas Tech,7,99,109,192,0,5
+11,Texas-San Antonio,Alabama-Birmingham,99,99,3,194,1,5
+11,Troy,Louisiana,99,99,52,197,1,5
+11,Tulane,Tulsa,99,99,117,198,1,5
+11,UCLA,Arizona State,99,99,6,200,1,5
+11,Utah,Arizona,99,99,119,10,0,5
+11,Utah State,New Mexico,99,99,120,124,0,5
+11,Washington State,Stanford,99,99,103,211,1,5
+11,Western Kentucky,Charlotte,99,99,21,216,1,5
+11,Wisconsin,Maryland,99,99,130,102,0,5
