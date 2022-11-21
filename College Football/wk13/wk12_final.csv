@@ -1,0 +1,782 @@
+Wk,Time,Winner,Pts,Loser,Pts.1,winners,losers,home_rank,away_rank,home_team_code,away_team_code,home_results,win_rank,lose_rank,dates,day_code
+1,7:00 PM,Florida Atlantic,43,Charlotte,13,Florida Atlantic,Charlotte,99,99,32,37,0,99,99,2022-08-27,5
+1,5:00 PM,Florida State,47,Duquesne,7,Florida State,Duquesne,99,99,34,49,0,99,99,2022-08-27,5
+1,4:00 PM,Illinois,38,Wyoming,6,Illinois,Wyoming,99,99,42,224,0,99,99,2022-08-27,5
+1,10:00 PM,Nevada,23,New Mexico State,12,Nevada,New Mexico State,99,99,76,122,1,99,99,2022-08-27,5
+1,3:30 PM,Nevada-Las Vegas,52,Idaho State,21,Nevada-Las Vegas,Idaho State,99,99,74,77,0,99,99,2022-08-27,5
+1,8:00 PM,North Carolina,56,Florida A&M,24,North Carolina,Florida A&M,99,99,77,58,0,99,99,2022-08-27,5
+1,9:00 PM,North Texas,31,Texas-El Paso,13,North Texas,Texas-El Paso,99,99,112,135,1,99,99,2022-08-27,5
+1,12:30 PM,Northwestern,31,Nebraska,28,Northwestern,Nebraska,99,99,72,226,3,99,99,2022-08-27,5
+1,4:00 PM,Utah State,31,Connecticut,20,Utah State,Connecticut,99,99,120,46,0,99,99,2022-08-27,5
+1,10:30 PM,Vanderbilt,63,Hawaii,10,Vanderbilt,Hawaii,99,99,40,206,1,99,99,2022-08-27,5
+1,12:00 PM,Western Kentucky,38,Austin Peay,27,Western Kentucky,Austin Peay,99,99,128,17,0,99,99,2022-08-27,5
+2,6:00 PM,Akron,30,St. Francis (PA),23,Akron,St. Francis (PA),99,99,1,178,0,99,99,2022-09-01,3
+2,8:00 PM,Alabama-Birmingham,59,Alabama A&M,0,Alabama-Birmingham,Alabama A&M,99,99,3,4,0,99,99,2022-09-01,3
+2,10:00 PM,Arizona State,40,Northern Arizona,3,Arizona State,Northern Arizona,99,99,6,136,0,99,99,2022-09-01,3
+2,7:00 PM,Central Florida,56,South Carolina State,10,Central Florida,South Carolina State,99,99,19,166,0,99,99,2022-09-01,3
+2,7:00 PM,Florida International,38,Bryant,37,Florida International,Bryant,99,99,33,25,0,99,99,2022-09-01,3
+2,10:30 PM,Fresno State,35,Cal Poly,7,Fresno State,Cal Poly,99,99,35,28,0,99,99,2022-09-01,3
+2,9:00 PM,Minnesota,38,New Mexico State,0,Minnesota,New Mexico State,99,99,66,126,0,99,99,2022-09-01,3
+2,8:00 PM,Missouri,52,Louisiana Tech,24,Missouri,Louisiana Tech,99,99,69,98,0,99,99,2022-09-01,3
+2,8:00 PM,Northern Illinois,34,Eastern Illinois,27,Northern Illinois,Eastern Illinois,99,99,80,52,0,99,99,2022-09-01,3
+2,7:00 PM,(12) Oklahoma State,58,Central Michigan,44,Oklahoma State,Central Michigan,12,99,86,35,0,12,99,2022-09-01,3
+2,8:00 PM,Penn State,35,Purdue,31,Penn State,Purdue,99,99,92,150,1,99,99,2022-09-01,3
+2,7:00 PM,(17) Pittsburgh,38,West Virginia,31,Pittsburgh,West Virginia,17,99,91,216,0,17,99,2022-09-01,3
+2,10:30 PM,San Jose State,21,Portland State,17,San Jose State,Portland State,99,99,96,152,0,99,99,2022-09-01,3
+2,7:00 PM,Tennessee,59,Ball State,10,Tennessee,Ball State,99,99,106,18,0,99,99,2022-09-01,3
+2,7:00 PM,Toledo,37,Long Island,0,Toledo,Long Island,99,99,114,95,0,99,99,2022-09-01,3
+2,7:30 PM,(22) Wake Forest,44,Virginia Military Institute,10,Wake Forest,Virginia Military Institute,22,99,124,209,0,22,99,2022-09-01,3
+2,7:30 PM,Duke,30,Temple,0,Duke,Temple,99,99,28,184,0,99,99,2022-09-02,4
+2,7:00 PM,Eastern Michigan,42,Eastern Kentucky,34,Eastern Michigan,Eastern Kentucky,99,99,30,53,0,99,99,2022-09-02,4
+2,8:00 PM,Indiana,23,Illinois,20,Indiana,Illinois,99,99,43,78,0,99,99,2022-09-02,4
+2,8:00 PM,Kansas,56,Tennessee Tech,10,Kansas,Tennessee Tech,99,99,47,187,0,99,99,2022-09-02,4
+2,7:00 PM,(15) Michigan State,35,Western Michigan,13,Michigan State,Western Michigan,15,99,64,220,0,15,99,2022-09-02,4
+2,7:00 PM,Old Dominion,20,Virginia Tech,17,Old Dominion,Virginia Tech,99,99,87,210,0,99,99,2022-09-02,4
+2,10:00 PM,Texas Christian,38,Colorado,13,Texas Christian,Colorado,99,99,25,191,1,99,99,2022-09-02,4
+2,7:00 PM,William & Mary,41,Charlotte,24,William & Mary,Charlotte,99,99,21,221,1,99,99,2022-09-02,4
+2,1:00 PM,Air Force,48,Northern Iowa,17,Air Force,Northern Iowa,99,99,0,139,0,99,99,2022-09-03,5
+2,7:30 PM,(1) Alabama,55,Utah State,0,Alabama,Utah State,1,99,2,204,0,1,99,2022-09-03,5
+2,3:30 PM,Arizona,38,San Diego State,20,Arizona,San Diego State,99,99,95,10,1,99,99,2022-09-03,5
+2,3:30 PM,(19) Arkansas,31,(23) Cincinnati,24,Arkansas,Cincinnati,19,23,7,39,0,19,23,2022-09-03,5
+2,7:00 PM,Arkansas State,58,Grambling State,3,Arkansas State,Grambling State,99,99,8,70,0,99,99,2022-09-03,5
+2,7:00 PM,Auburn,42,Mercer,16,Auburn,Mercer,99,99,10,107,0,99,99,2022-09-03,5
+2,7:00 PM,(10) Baylor,69,Albany,10,Baylor,Albany,10,99,12,7,0,10,99,2022-09-03,5
+2,4:00 PM,(25) Brigham Young,50,South Florida,21,Brigham Young,South Florida,99,25,99,24,1,25,99,2022-09-03,5
+2,4:00 PM,California,34,California-Davis,13,California,California-Davis,99,99,18,30,0,99,99,2022-09-03,5
+2,7:00 PM,Coastal Carolina,38,Army,28,Coastal Carolina,Army,99,99,24,15,0,99,99,2022-09-03,5
+2,12:00 PM,Connecticut,28,Central Connecticut State,3,Connecticut,Central Connecticut State,99,99,27,33,0,99,99,2022-09-03,5
+2,12:00 PM,Delaware,14,Navy,7,Delaware,Navy,99,99,70,47,1,99,99,2022-09-03,5
+2,7:00 PM,Florida,29,(7) Utah,26,Florida,Utah,99,7,31,203,0,99,7,2022-09-03,5
+2,3:30 PM,(3) Georgia,49,(11) Oregon,3,Georgia,Oregon,99,99,72,226,3,3,11,2022-09-03,5
+2,6:00 PM,Georgia Southern,59,Morgan State,7,Georgia Southern,Morgan State,99,99,37,118,0,99,99,2022-09-03,5
+2,3:30 PM,(24) Houston,37,Texas-San Antonio,35,Houston,Texas-San Antonio,99,24,113,73,1,24,99,2022-09-03,5
+2,12:00 PM,Iowa,7,South Dakota State,3,Iowa,South Dakota State,99,99,44,168,0,99,99,2022-09-03,5
+2,2:00 PM,Iowa State,42,Southeast Missouri State,10,Iowa State,Southeast Missouri State,99,99,45,170,0,99,99,2022-09-03,5
+2,6:00 PM,James Madison,44,Middle Tennessee State,7,James Madison,Middle Tennessee State,99,99,46,112,0,99,99,2022-09-03,5
+2,7:00 PM,Kansas State,34,South Dakota,0,Kansas State,South Dakota,99,99,48,167,0,99,99,2022-09-03,5
+2,7:00 PM,(20) Kentucky,37,Miami (OH),13,Kentucky,Miami (OH),20,99,50,109,0,20,99,2022-09-03,5
+2,7:00 PM,Liberty,29,Southern Mississippi,27,Liberty,Southern Mississippi,99,99,102,94,1,99,99,2022-09-03,5
+2,7:00 PM,Louisiana,24,Southeastern Louisiana,7,Louisiana,Southeastern Louisiana,99,99,52,171,0,99,99,2022-09-03,5
+2,3:30 PM,Marshall,55,Norfolk State,3,Marshall,Norfolk State,99,99,57,128,0,99,99,2022-09-03,5
+2,12:00 PM,Maryland,31,Buffalo,10,Maryland,Buffalo,99,99,58,27,0,99,99,2022-09-03,5
+2,3:30 PM,(16) Miami (FL),70,Bethune-Cookman,13,Miami (FL),Bethune-Cookman,16,99,61,20,0,16,99,2022-09-03,5
+2,12:00 PM,(8) Michigan,51,Colorado State,7,Michigan,Colorado State,8,99,63,45,0,8,99,2022-09-03,5
+2,4:00 PM,(21) Mississippi,28,Troy,10,Mississippi,Troy,21,99,67,199,0,21,99,2022-09-03,5
+2,7:30 PM,Mississippi State,49,Memphis,23,Mississippi State,Memphis,99,99,68,106,0,99,99,2022-09-03,5
+2,3:30 PM,Nebraska,38,North Dakota,17,Nebraska,North Dakota,99,99,71,133,0,99,99,2022-09-03,5
+2,5:30 PM,Nevada,38,Texas State,14,Nevada,Texas State,99,99,73,193,0,99,99,2022-09-03,5
+2,8:00 PM,New Mexico,41,Maine,0,New Mexico,Maine,99,99,75,101,0,99,99,2022-09-03,5
+2,12:00 PM,North Carolina,63,Appalachian State,61,North Carolina,Appalachian State,99,99,4,130,1,99,99,2022-09-03,5
+2,12:00 PM,(13) North Carolina State,21,East Carolina,20,North Carolina State,East Carolina,99,13,29,132,1,13,99,2022-09-03,5
+2,6:00 PM,Ohio,41,Florida Atlantic,38,Ohio,Florida Atlantic,99,99,83,59,0,99,99,2022-09-03,5
+2,7:30 PM,(2) Ohio State,21,(5) Notre Dame,10,Ohio State,Notre Dame,2,5,84,142,0,2,5,2022-09-03,5
+2,3:30 PM,(9) Oklahoma,45,Texas-El Paso,13,Oklahoma,Texas-El Paso,9,99,85,195,0,9,99,2022-09-03,5
+2,10:30 PM,Oregon State,34,Boise State,17,Oregon State,Boise State,99,99,89,21,0,99,99,2022-09-03,5
+2,12:00 PM,Rutgers,22,Boston College,21,Rutgers,Boston College,99,99,14,158,1,99,99,2022-09-03,5
+2,5:00 PM,South Alabama,48,Nicholls State,7,South Alabama,Nicholls State,99,99,97,127,0,99,99,2022-09-03,5
+2,7:30 PM,South Carolina,35,Georgia State,14,South Carolina,Georgia State,99,99,98,68,0,99,99,2022-09-03,5
+2,6:00 PM,(14) Southern California,66,Rice,14,Southern California,Rice,14,99,100,155,0,14,99,2022-09-03,5
+2,7:30 PM,Southern Methodist,48,North Texas,10,Southern Methodist,North Texas,99,99,79,175,1,99,99,2022-09-03,5
+2,8:00 PM,Stanford,41,Colgate,10,Stanford,Colgate,99,99,103,43,0,99,99,2022-09-03,5
+2,8:00 PM,Syracuse,31,Louisville,7,Syracuse,Louisville,99,99,104,100,0,99,99,2022-09-03,5
+2,8:00 PM,Texas,52,Louisiana-Monroe,10,Texas,Louisiana-Monroe,99,99,107,99,0,99,99,2022-09-03,5
+2,12:00 PM,(6) Texas A&M,31,Sam Houston State,0,Texas A&M,Sam Houston State,6,99,108,160,0,6,99,2022-09-03,5
+2,8:00 PM,Texas Tech,63,Murray State,10,Texas Tech,Murray State,99,99,111,119,0,99,99,2022-09-03,5
+2,7:00 PM,Tulane,42,Massachusetts,10,Tulane,Massachusetts,99,99,116,104,0,99,99,2022-09-03,5
+2,2:30 PM,UCLA,45,Bowling Green,17,UCLA,Bowling Green,99,99,118,23,0,99,99,2022-09-03,5
+2,7:00 PM,Vanderbilt,42,Elon,31,Vanderbilt,Elon,99,99,121,56,0,99,99,2022-09-03,5
+2,12:30 PM,Virginia,34,Richmond,17,Virginia,Richmond,99,99,122,156,0,99,99,2022-09-03,5
+2,10:30 PM,Washington,45,Kent State,20,Washington,Kent State,99,99,125,90,0,99,99,2022-09-03,5
+2,9:30 PM,Washington State,24,Idaho,17,Washington State,Idaho,99,99,126,76,0,99,99,2022-09-03,5
+2,7:00 PM,(18) Wisconsin,38,Illinois State,0,Wisconsin,Illinois State,18,99,130,79,0,18,99,2022-09-03,5
+2,3:30 PM,Wyoming,40,Tulsa,37,Wyoming,Tulsa,99,99,131,201,0,99,99,2022-09-03,5
+2,7:30 PM,Florida State,24,Louisiana State,23,Florida State,Louisiana State,99,99,72,226,3,99,99,2022-09-04,6
+2,12:00 AM,Western Kentucky,49,Hawaii,17,Western Kentucky,Hawaii,99,99,40,219,1,99,99,2022-09-04,6
+2,8:00 PM,(4) Clemson,41,Georgia Tech,10,Clemson,Georgia Tech,99,4,39,41,1,4,99,2022-09-05,0
+3,9:00 PM,Boise State,31,New Mexico,14,Boise State,New Mexico,99,99,75,21,1,99,99,2022-09-09,4
+3,7:30 PM,Louisville,20,Central Florida,14,Louisville,Central Florida,99,99,19,100,1,99,99,2022-09-09,4
+3,3:30 PM,Air Force,41,Colorado,10,Air Force,Colorado,99,99,0,44,0,99,99,2022-09-10,5
+3,12:00 PM,(1) Alabama,20,Texas,19,Alabama,Texas,99,1,107,3,1,1,99,2022-09-10,5
+3,3:30 PM,Appalachian State,17,(6) Texas A&M,14,Appalachian State,Texas A&M,6,99,108,9,1,99,6,2022-09-10,5
+3,12:00 PM,(16) Arkansas,44,South Carolina,30,Arkansas,South Carolina,16,99,7,165,0,16,99,2022-09-10,5
+3,7:30 PM,Auburn,24,San Jose State,16,Auburn,San Jose State,99,99,10,163,0,99,99,2022-09-10,5
+3,10:15 PM,(21) Brigham Young,26,(9) Baylor,20,Brigham Young,Baylor,21,9,16,19,0,21,9,2022-09-10,5
+3,4:00 PM,California,20,Nevada-Las Vegas,14,California,Nevada-Las Vegas,99,99,18,123,0,99,99,2022-09-10,5
+3,3:30 PM,Cincinnati,63,Kennesaw State,10,Cincinnati,Kennesaw State,99,99,22,89,0,99,99,2022-09-10,5
+3,3:30 PM,(5) Clemson,35,Furman,12,Clemson,Furman,5,99,23,64,0,5,99,2022-09-10,5
+3,6:00 PM,Coastal Carolina,31,Gardner-Webb,27,Coastal Carolina,Gardner-Webb,99,99,24,65,0,99,99,2022-09-10,5
+3,12:00 PM,Duke,31,Northwestern,23,Duke,Northwestern,99,99,81,48,1,99,99,2022-09-10,5
+3,6:00 PM,East Carolina,39,Old Dominion,21,East Carolina,Old Dominion,99,99,29,147,0,99,99,2022-09-10,5
+3,4:00 PM,Eastern Kentucky,59,Bowling Green,57,Eastern Kentucky,Bowling Green,99,99,15,53,1,99,99,2022-09-10,5
+3,6:00 PM,Florida Atlantic,42,Southeastern Louisiana,9,Florida Atlantic,Southeastern Louisiana,99,99,32,171,0,99,99,2022-09-10,5
+3,4:00 PM,(2) Georgia,33,Samford,0,Georgia,Samford,2,99,36,161,0,2,99,2022-09-10,5
+3,7:30 PM,Georgia Southern,45,Nebraska,42,Georgia Southern,Nebraska,99,99,71,67,1,99,99,2022-09-10,5
+3,7:00 PM,Georgia Tech,35,Western Carolina,17,Georgia Tech,Western Carolina,99,99,39,217,0,99,99,2022-09-10,5
+3,6:00 PM,Holy Cross,37,Buffalo,31,Holy Cross,Buffalo,99,99,17,72,1,99,99,2022-09-10,5
+3,4:00 PM,Illinois,24,Virginia,3,Illinois,Virginia,99,99,42,208,0,99,99,2022-09-10,5
+3,5:30 PM,Incarnate Word,55,Nevada,41,Incarnate Word,Nevada,99,99,73,80,1,99,99,2022-09-10,5
+3,8:00 PM,Indiana,35,Idaho,22,Indiana,Idaho,99,99,43,76,0,99,99,2022-09-10,5
+3,4:00 PM,Iowa State,10,Iowa,7,Iowa State,Iowa,99,99,44,84,1,99,99,2022-09-10,5
+3,4:00 PM,James Madison,63,Norfolk State,7,James Madison,Norfolk State,99,99,46,128,0,99,99,2022-09-10,5
+3,6:00 PM,Kansas,55,West Virginia,42,Kansas,West Virginia,99,99,127,87,1,99,99,2022-09-10,5
+3,12:00 PM,Kansas State,40,Missouri,12,Kansas State,Missouri,99,99,48,116,0,99,99,2022-09-10,5
+3,7:00 PM,(20) Kentucky,26,(12) Florida,16,Kentucky,Florida,12,20,31,91,1,20,12,2022-09-10,5
+3,6:00 PM,Liberty,21,Alabama-Birmingham,14,Liberty,Alabama-Birmingham,99,99,51,6,0,99,99,2022-09-10,5
+3,,Louisiana,49,Eastern Michigan,21,Louisiana,Eastern Michigan,99,99,52,54,0,99,99,2022-09-10,5
+3,7:30 PM,Louisiana State,65,Southern,17,Louisiana State,Southern,99,99,53,172,0,99,99,2022-09-10,5
+3,7:00 PM,Louisiana Tech,52,Stephen F. Austin,17,Louisiana Tech,Stephen F. Austin,99,99,54,180,0,99,99,2022-09-10,5
+3,8:00 PM,Louisiana-Monroe,35,Nicholls State,7,Louisiana-Monroe,Nicholls State,99,99,55,127,0,99,99,2022-09-10,5
+3,2:30 PM,Marshall,26,(8) Notre Dame,21,Marshall,Notre Dame,8,99,82,102,1,99,8,2022-09-10,5
+3,3:30 PM,Maryland,56,Charlotte,21,Maryland,Charlotte,99,99,21,103,1,99,99,2022-09-10,5
+3,3:30 PM,Memphis,37,Navy,13,Memphis,Navy,99,99,70,106,1,99,99,2022-09-10,5
+3,12:00 PM,(15) Miami (FL),30,Southern Mississippi,7,Miami (FL),Southern Mississippi,15,99,61,176,0,15,99,2022-09-10,5
+3,6:00 PM,Miami (OH),31,Robert Morris,14,Miami (OH),Robert Morris,99,99,62,157,0,99,99,2022-09-10,5
+3,8:00 PM,(4) Michigan,56,Hawaii,10,Michigan,Hawaii,4,99,63,71,0,4,99,2022-09-10,5
+3,4:00 PM,(14) Michigan State,52,Akron,0,Michigan State,Akron,14,99,64,2,0,14,99,2022-09-10,5
+3,4:00 PM,Middle Tennessee State,34,Colorado State,19,Middle Tennessee State,Colorado State,99,99,26,112,1,99,99,2022-09-10,5
+3,12:00 PM,Minnesota,62,Western Illinois,10,Minnesota,Western Illinois,99,99,66,218,0,99,99,2022-09-10,5
+3,,(22) Mississippi,59,Central Arkansas,3,Mississippi,Central Arkansas,22,99,67,32,0,22,99,2022-09-10,5
+3,11:00 PM,Mississippi State,39,Arizona,17,Mississippi State,Arizona,99,99,5,115,1,99,99,2022-09-10,5
+3,12:00 PM,North Carolina,35,Georgia State,28,North Carolina,Georgia State,99,99,38,130,1,99,99,2022-09-10,5
+3,12:30 PM,(18) North Carolina State,55,Charleston Southern,3,North Carolina State,Charleston Southern,18,99,78,36,0,18,99,2022-09-10,5
+3,7:30 PM,North Texas,59,Texas Southern,27,North Texas,Texas Southern,99,99,79,192,0,99,99,2022-09-10,5
+3,12:00 PM,(3) Ohio State,45,Arkansas State,12,Ohio State,Arkansas State,3,99,84,13,0,3,99,2022-09-10,5
+3,7:00 PM,(7) Oklahoma,33,Kent State,3,Oklahoma,Kent State,7,99,85,90,0,7,99,2022-09-10,5
+3,7:30 PM,(11) Oklahoma State,34,Arizona State,17,Oklahoma State,Arizona State,11,99,86,11,0,11,99,2022-09-10,5
+3,8:30 PM,Oregon,70,Eastern Washington,14,Oregon,Eastern Washington,99,99,88,55,0,99,99,2022-09-10,5
+3,10:30 PM,Oregon State,35,Fresno State,32,Oregon State,Fresno State,99,99,35,149,1,99,99,2022-09-10,5
+3,12:00 PM,Penn State,46,Ohio,10,Penn State,Ohio,99,99,90,143,0,99,99,2022-09-10,5
+3,4:00 PM,Purdue,56,Indiana State,0,Purdue,Indiana State,99,99,92,82,0,99,99,2022-09-10,5
+3,7:30 PM,Rice,52,McNeese State,10,Rice,McNeese State,99,99,93,105,0,99,99,2022-09-10,5
+3,4:00 PM,Rutgers,66,Wagner,7,Rutgers,Wagner,99,99,94,211,0,99,99,2022-09-10,5
+3,8:00 PM,San Diego State,38,Idaho State,7,San Diego State,Idaho State,99,99,95,77,0,99,99,2022-09-10,5
+3,1:00 PM,South Alabama,38,Central Michigan,24,South Alabama,Central Michigan,99,99,20,164,1,99,99,2022-09-10,5
+3,7:00 PM,South Florida,42,Howard,20,South Florida,Howard,99,99,99,75,0,99,99,2022-09-10,5
+3,7:30 PM,(10) Southern California,41,Stanford,28,Southern California,Stanford,99,10,103,173,1,10,99,2022-09-10,5
+3,7:00 PM,Southern Methodist,45,Lamar,16,Southern Methodist,Lamar,99,99,101,93,0,99,99,2022-09-10,5
+3,7:00 PM,Syracuse,48,Connecticut,14,Syracuse,Connecticut,99,99,27,182,1,99,99,2022-09-10,5
+3,2:00 PM,Temple,30,Lafayette,14,Temple,Lafayette,99,99,105,92,0,99,99,2022-09-10,5
+3,3:30 PM,(24) Tennessee,34,(17) Pittsburgh,27,Tennessee,Pittsburgh,17,24,91,185,1,24,17,2022-09-10,5
+3,8:00 PM,Texas Christian,59,Tarleton State,17,Texas Christian,Tarleton State,99,99,109,183,0,99,99,2022-09-10,5
+3,7:00 PM,Texas State,41,Florida International,12,Texas State,Florida International,99,99,110,60,0,99,99,2022-09-10,5
+3,4:00 PM,Texas Tech,33,(25) Houston,30,Texas Tech,Houston,99,25,111,73,0,99,25,2022-09-10,5
+3,9:00 PM,Texas-El Paso,20,New Mexico State,13,Texas-El Paso,New Mexico State,99,99,112,126,0,99,99,2022-09-10,5
+3,12:00 PM,Texas-San Antonio,41,Army,38,Texas-San Antonio,Army,99,99,9,196,1,99,99,2022-09-10,5
+3,7:00 PM,Toledo,55,Massachusetts,10,Toledo,Massachusetts,99,99,114,104,0,99,99,2022-09-10,5
+3,8:00 PM,Troy,38,Alabama A&M,17,Troy,Alabama A&M,99,99,115,4,0,99,99,2022-09-10,5
+3,7:00 PM,Tulane,52,Alcorn State,0,Tulane,Alcorn State,99,99,116,8,0,99,99,2022-09-10,5
+3,7:00 PM,Tulsa,38,Northern Illinois,35,Tulsa,Northern Illinois,99,99,117,138,0,99,99,2022-09-10,5
+3,5:00 PM,UCLA,45,Alabama State,7,UCLA,Alabama State,99,99,118,5,0,99,99,2022-09-10,5
+3,1:30 PM,(13) Utah,73,Southern Utah,7,Utah,Southern Utah,13,99,119,177,0,13,99,2022-09-10,5
+3,8:00 PM,Virginia Tech,27,Boston College,10,Virginia Tech,Boston College,99,99,123,22,0,99,99,2022-09-10,5
+3,12:00 PM,(23) Wake Forest,45,Vanderbilt,25,Wake Forest,Vanderbilt,99,23,121,212,1,23,99,2022-09-10,5
+3,4:00 PM,Washington,52,Portland State,6,Washington,Portland State,99,99,125,152,0,99,99,2022-09-10,5
+3,3:30 PM,Washington State,17,(19) Wisconsin,14,Washington State,Wisconsin,19,99,130,214,1,99,19,2022-09-10,5
+3,7:00 PM,Weber State,35,Utah State,7,Weber State,Utah State,99,99,120,215,1,99,99,2022-09-10,5
+3,2:00 PM,Western Michigan,37,Ball State,30,Western Michigan,Ball State,99,99,11,220,1,99,99,2022-09-10,5
+3,4:00 PM,Wyoming,33,Northern Colorado,10,Wyoming,Northern Colorado,99,99,131,137,0,99,99,2022-09-10,5
+4,7:30 PM,Florida State,35,Louisville,31,Florida State,Louisville,99,99,56,61,1,99,99,2022-09-16,4
+4,8:00 PM,Wyoming,17,Air Force,14,Wyoming,Air Force,99,99,131,1,0,99,99,2022-09-16,4
+4,4:00 PM,(2) Alabama,63,Louisiana-Monroe,7,Alabama,Louisiana-Monroe,2,99,2,99,0,2,99,2022-09-17,5
+4,3:30 PM,Alabama-Birmingham,35,Georgia Southern,21,Alabama-Birmingham,Georgia Southern,99,99,3,67,0,99,99,2022-09-17,5
+4,3:30 PM,Appalachian State,32,Troy,28,Appalachian State,Troy,99,99,4,199,0,99,99,2022-09-17,5
+4,11:00 PM,Arizona,31,North Dakota State,28,Arizona,North Dakota State,99,99,5,134,0,99,99,2022-09-17,5
+4,7:00 PM,(10) Arkansas,38,Missouri State,27,Arkansas,Missouri State,10,99,7,117,0,10,99,2022-09-17,5
+4,12:00 PM,Army,49,Villanova,10,Army,Villanova,99,99,9,207,0,99,99,2022-09-17,5
+4,2:00 PM,Ball State,31,Murray State,0,Ball State,Murray State,99,99,11,119,0,99,99,2022-09-17,5
+4,12:00 PM,(17) Baylor,42,Texas State,7,Baylor,Texas State,17,99,12,193,0,17,99,2022-09-17,5
+4,4:00 PM,Boise State,30,Tennessee-Martin,7,Boise State,Tennessee-Martin,99,99,13,188,0,99,99,2022-09-17,5
+4,7:30 PM,Boston College,38,Maine,17,Boston College,Maine,99,99,14,101,0,99,99,2022-09-17,5
+4,5:00 PM,Bowling Green,34,Marshall,31,Bowling Green,Marshall,99,99,15,102,0,99,99,2022-09-17,5
+4,7:30 PM,Central Florida,40,Florida Atlantic,14,Central Florida,Florida Atlantic,99,99,32,34,1,99,99,2022-09-17,5
+4,1:00 PM,Central Michigan,41,Bucknell,0,Central Michigan,Bucknell,99,99,20,26,0,99,99,2022-09-17,5
+4,7:00 PM,Charlotte,42,Georgia State,41,Charlotte,Georgia State,99,99,38,37,1,99,99,2022-09-17,5
+4,12:00 PM,Cincinnati,38,Miami (OH),17,Cincinnati,Miami (OH),99,99,72,226,3,99,99,2022-09-17,5
+4,8:00 PM,(5) Clemson,48,Louisiana Tech,20,Clemson,Louisiana Tech,5,99,23,98,0,5,99,2022-09-17,5
+4,1:00 PM,Coastal Carolina,38,Buffalo,26,Coastal Carolina,Buffalo,99,99,24,27,0,99,99,2022-09-17,5
+4,6:00 PM,Duke,49,North Carolina A&T,20,Duke,North Carolina A&T,99,99,28,131,0,99,99,2022-09-17,5
+4,6:00 PM,East Carolina,49,Campbell,10,East Carolina,Campbell,99,99,29,31,0,99,99,2022-09-17,5
+4,11:00 PM,Eastern Michigan,30,Arizona State,21,Eastern Michigan,Arizona State,99,99,6,54,1,99,99,2022-09-17,5
+4,7:30 PM,(18) Florida,31,South Florida,28,Florida,South Florida,18,99,31,169,0,18,99,2022-09-17,5
+4,12:00 PM,(1) Georgia,48,South Carolina,7,Georgia,South Carolina,99,1,98,66,1,1,99,2022-09-17,5
+4,12:00 PM,Indiana,33,Western Kentucky,30,Indiana,Western Kentucky,99,99,43,219,0,99,99,2022-09-17,5
+4,7:30 PM,Iowa,27,Nevada,0,Iowa,Nevada,99,99,44,122,0,99,99,2022-09-17,5
+4,2:00 PM,Iowa State,43,Ohio,10,Iowa State,Ohio,99,99,45,143,0,99,99,2022-09-17,5
+4,4:00 PM,Kansas,48,Houston,30,Kansas,Houston,99,99,41,87,1,99,99,2022-09-17,5
+4,12:00 PM,Kent State,63,Long Island,10,Kent State,Long Island,99,99,49,95,0,99,99,2022-09-17,5
+4,12:00 PM,(9) Kentucky,31,Youngstown State,0,Kentucky,Youngstown State,9,99,50,225,0,9,99,2022-09-17,5
+4,6:00 PM,Louisiana State,31,Mississippi State,16,Louisiana State,Mississippi State,99,99,53,115,0,99,99,2022-09-17,5
+4,7:30 PM,Maryland,34,Southern Methodist,27,Maryland,Southern Methodist,99,99,58,175,0,99,99,2022-09-17,5
+4,3:30 PM,Massachusetts,20,Stony Brook,3,Massachusetts,Stony Brook,99,99,59,181,0,99,99,2022-09-17,5
+4,7:00 PM,Memphis,44,Arkansas State,32,Memphis,Arkansas State,99,99,60,13,0,99,99,2022-09-17,5
+4,12:00 PM,(4) Michigan,59,Connecticut,0,Michigan,Connecticut,4,99,63,46,0,4,99,2022-09-17,5
+4,7:00 PM,Middle Tennessee State,49,Tennessee State,6,Middle Tennessee State,Tennessee State,99,99,65,186,0,99,99,2022-09-17,5
+4,3:30 PM,Minnesota,49,Colorado,7,Minnesota,Colorado,99,99,66,44,0,99,99,2022-09-17,5
+4,3:30 PM,(20) Mississippi,42,Georgia Tech,0,Mississippi,Georgia Tech,99,20,39,114,1,20,99,2022-09-17,5
+4,12:00 PM,Missouri,34,Abilene Christian,17,Missouri,Abilene Christian,99,99,69,0,0,99,99,2022-09-17,5
+4,3:00 PM,Nevada-Las Vegas,58,North Texas,27,Nevada-Las Vegas,North Texas,99,99,74,135,0,99,99,2022-09-17,5
+4,8:00 PM,New Mexico,27,Texas-El Paso,10,New Mexico,Texas-El Paso,99,99,75,195,0,99,99,2022-09-17,5
+4,7:00 PM,(16) North Carolina State,27,Texas Tech,14,North Carolina State,Texas Tech,16,99,78,194,0,16,99,2022-09-17,5
+4,2:30 PM,Notre Dame,24,California,17,Notre Dame,California,99,99,82,29,0,99,99,2022-09-17,5
+4,7:00 PM,(3) Ohio State,77,Toledo,21,Ohio State,Toledo,3,99,84,197,0,3,99,2022-09-17,5
+4,12:00 PM,(6) Oklahoma,49,Nebraska,14,Oklahoma,Nebraska,99,6,71,145,1,6,99,2022-09-17,5
+4,7:00 PM,(8) Oklahoma State,63,Arkansas-Pine Bluff,7,Oklahoma State,Arkansas-Pine Bluff,8,99,86,14,0,8,99,2022-09-17,5
+4,3:30 PM,(25) Oregon,41,(12) Brigham Young,20,Oregon,Brigham Young,25,12,88,24,0,25,12,2022-09-17,5
+4,8:00 PM,Oregon State,68,Montana State,28,Oregon State,Montana State,99,99,72,226,3,99,99,2022-09-17,5
+4,3:30 PM,(22) Penn State,41,Auburn,12,Penn State,Auburn,99,22,10,150,1,22,99,2022-09-17,5
+4,7:30 PM,(23) Pittsburgh,34,Western Michigan,13,Pittsburgh,Western Michigan,99,23,129,151,1,23,99,2022-09-17,5
+4,7:30 PM,Rice,33,Louisiana,21,Rice,Louisiana,99,99,93,96,0,99,99,2022-09-17,5
+4,2:00 PM,Rutgers,16,Temple,14,Rutgers,Temple,99,99,105,158,1,99,99,2022-09-17,5
+4,10:30 PM,(7) Southern California,45,Fresno State,17,Southern California,Fresno State,7,99,100,63,0,7,99,2022-09-17,5
+4,12:00 PM,Southern Illinois,31,Northwestern,24,Southern Illinois,Northwestern,99,99,81,174,1,99,99,2022-09-17,5
+4,7:00 PM,Southern Mississippi,64,Northwestern State,10,Southern Mississippi,Northwestern State,99,99,102,141,0,99,99,2022-09-17,5
+4,12:00 PM,Syracuse,32,Purdue,29,Syracuse,Purdue,99,99,104,153,0,99,99,2022-09-17,5
+4,7:00 PM,(15) Tennessee,63,Akron,6,Tennessee,Akron,15,99,106,2,0,15,99,2022-09-17,5
+4,8:00 PM,(21) Texas,41,Texas-San Antonio,20,Texas,Texas-San Antonio,21,99,107,196,0,21,99,2022-09-17,5
+4,9:00 PM,(24) Texas A&M,17,(13) Miami (FL),9,Texas A&M,Miami (FL),24,13,108,108,0,24,13,2022-09-17,5
+4,3:00 PM,Tulane,17,Kansas State,10,Tulane,Kansas State,99,99,48,200,1,99,99,2022-09-17,5
+4,7:00 PM,Tulsa,54,Jacksonville State,17,Tulsa,Jacksonville State,99,99,117,85,0,99,99,2022-09-17,5
+4,2:00 PM,UCLA,32,South Alabama,31,UCLA,South Alabama,99,99,118,164,0,99,99,2022-09-17,5
+4,10:00 PM,(14) Utah,35,San Diego State,7,Utah,San Diego State,14,99,119,162,0,14,99,2022-09-17,5
+4,3:30 PM,Vanderbilt,38,Northern Illinois,28,Vanderbilt,Northern Illinois,99,99,80,206,1,99,99,2022-09-17,5
+4,2:00 PM,Virginia,16,Old Dominion,14,Virginia,Old Dominion,99,99,122,147,0,99,99,2022-09-17,5
+4,11:00 AM,Virginia Tech,27,Wofford,7,Virginia Tech,Wofford,99,99,123,223,0,99,99,2022-09-17,5
+4,5:00 PM,(19) Wake Forest,37,Liberty,36,Wake Forest,Liberty,19,99,124,94,0,19,99,2022-09-17,5
+4,7:30 PM,Washington,39,(11) Michigan State,28,Washington,Michigan State,99,11,125,111,0,99,11,2022-09-17,5
+4,5:00 PM,Washington State,38,Colorado State,7,Washington State,Colorado State,99,99,126,45,0,99,99,2022-09-17,5
+4,1:00 PM,West Virginia,65,Towson,7,West Virginia,Towson,99,99,127,198,0,99,99,2022-09-17,5
+4,3:30 PM,Wisconsin,66,New Mexico State,7,Wisconsin,New Mexico State,99,99,130,126,0,99,99,2022-09-17,5
+4,12:00 AM,Hawaii,24,Duquesne,14,Hawaii,Duquesne,99,99,40,49,0,99,99,2022-09-18,6
+5,7:30 PM,Coastal Carolina,41,Georgia State,24,Coastal Carolina,Georgia State,99,99,38,42,1,99,99,2022-09-22,3
+5,8:30 PM,Illinois,31,Chattanooga,0,Illinois,Chattanooga,99,99,42,38,0,99,99,2022-09-22,3
+5,7:30 PM,West Virginia,33,Virginia Tech,10,West Virginia,Virginia Tech,99,99,123,216,1,99,99,2022-09-22,3
+5,8:00 PM,Air Force,48,Nevada,20,Air Force,Nevada,99,99,0,122,0,99,99,2022-09-23,4
+5,7:00 PM,Syracuse,22,Virginia,20,Syracuse,Virginia,99,99,104,208,0,99,99,2022-09-23,4
+5,9:00 PM,Texas-El Paso,27,Boise State,10,Texas-El Paso,Boise State,99,99,112,21,0,99,99,2022-09-23,4
+5,7:30 PM,(2) Alabama,55,Vanderbilt,3,Alabama,Vanderbilt,2,99,2,206,0,2,99,2022-09-24,5
+5,12:00 PM,Auburn,17,Missouri,14,Auburn,Missouri,99,99,10,116,0,99,99,2022-09-24,5
+5,12:00 PM,(17) Baylor,31,Iowa State,24,Baylor,Iowa State,99,17,45,19,1,17,99,2022-09-24,5
+5,10:15 PM,(19) Brigham Young,38,Wyoming,24,Brigham Young,Wyoming,19,99,16,224,0,19,99,2022-09-24,5
+5,12:00 PM,Buffalo,50,Eastern Michigan,31,Buffalo,Eastern Michigan,99,99,30,27,1,99,99,2022-09-24,5
+5,5:30 PM,California,49,Arizona,31,California,Arizona,99,99,18,10,0,99,99,2022-09-24,5
+5,4:00 PM,Central Florida,27,Georgia Tech,10,Central Florida,Georgia Tech,99,99,19,69,0,99,99,2022-09-24,5
+5,3:30 PM,Cincinnati,45,Indiana,24,Cincinnati,Indiana,99,99,22,81,0,99,99,2022-09-24,5
+5,12:00 PM,(5) Clemson,51,(21) Wake Forest,45,Clemson,Wake Forest,21,5,124,41,1,5,21,2022-09-24,5
+5,8:00 PM,Florida State,44,Boston College,14,Florida State,Boston College,99,99,34,22,0,99,99,2022-09-24,5
+5,12:00 PM,(1) Georgia,39,Kent State,22,Georgia,Kent State,1,99,36,90,0,1,99,2022-09-24,5
+5,6:00 PM,Georgia Southern,34,Ball State,23,Georgia Southern,Ball State,99,99,37,18,0,99,99,2022-09-24,5
+5,6:00 PM,Houston,34,Rice,27,Houston,Rice,99,99,41,155,0,99,99,2022-09-24,5
+5,7:00 PM,Iowa,27,Rutgers,10,Iowa,Rutgers,99,99,94,83,1,99,99,2022-09-24,5
+5,3:30 PM,James Madison,32,Appalachian State,28,James Madison,Appalachian State,99,99,4,86,1,99,99,2022-09-24,5
+5,12:00 PM,Kansas,35,Duke,27,Kansas,Duke,99,99,47,48,0,99,99,2022-09-24,5
+5,8:00 PM,Kansas State,41,(6) Oklahoma,34,Kansas State,Oklahoma,6,99,85,88,1,99,6,2022-09-24,5
+5,7:00 PM,(8) Kentucky,31,Northern Illinois,23,Kentucky,Northern Illinois,8,99,50,138,0,8,99,2022-09-24,5
+5,6:00 PM,Liberty,21,Akron,12,Liberty,Akron,99,99,51,2,0,99,99,2022-09-24,5
+5,7:30 PM,Louisiana State,38,New Mexico,0,Louisiana State,New Mexico,99,99,53,125,0,99,99,2022-09-24,5
+5,8:00 PM,Louisiana-Monroe,21,Louisiana,17,Louisiana-Monroe,Louisiana,99,99,55,96,0,99,99,2022-09-24,5
+5,12:00 PM,Louisville,41,South Florida,3,Louisville,South Florida,99,99,56,169,0,99,99,2022-09-24,5
+5,3:30 PM,Memphis,44,North Texas,34,Memphis,North Texas,99,99,60,135,0,99,99,2022-09-24,5
+5,7:30 PM,Miami (OH),17,Northwestern,14,Miami (OH),Northwestern,99,99,81,109,1,99,99,2022-09-24,5
+5,12:00 PM,(4) Michigan,34,Maryland,27,Michigan,Maryland,4,99,63,103,0,4,99,2022-09-24,5
+5,3:30 PM,Middle Tennessee State,45,(25) Miami (FL),31,Middle Tennessee State,Miami (FL),25,99,61,112,1,99,25,2022-09-24,5
+5,3:30 PM,Minnesota,34,Michigan State,7,Minnesota,Michigan State,99,99,64,113,1,99,99,2022-09-24,5
+5,4:00 PM,(16) Mississippi,35,Tulsa,27,Mississippi,Tulsa,16,99,67,201,0,16,99,2022-09-24,5
+5,12:00 PM,Mississippi State,45,Bowling Green,14,Mississippi State,Bowling Green,99,99,68,23,0,99,99,2022-09-24,5
+5,6:00 PM,Navy,23,East Carolina,20,Navy,East Carolina,99,99,29,120,1,99,99,2022-09-24,5
+5,7:00 PM,Nevada-Las Vegas,34,Utah State,24,Nevada-Las Vegas,Utah State,99,99,120,123,1,99,99,2022-09-24,5
+5,8:00 PM,New Mexico State,45,Hawaii,26,New Mexico State,Hawaii,99,99,76,71,0,99,99,2022-09-24,5
+5,7:30 PM,(12) North Carolina State,41,Connecticut,10,North Carolina State,Connecticut,12,99,78,46,0,12,99,2022-09-24,5
+5,3:30 PM,Notre Dame,45,North Carolina,32,Notre Dame,North Carolina,99,99,77,142,1,99,99,2022-09-24,5
+5,2:00 PM,Ohio,59,Fordham,52,Ohio,Fordham,99,99,83,62,0,99,99,2022-09-24,5
+5,7:30 PM,(3) Ohio State,52,Wisconsin,21,Ohio State,Wisconsin,3,99,84,222,0,3,99,2022-09-24,5
+5,6:00 PM,Old Dominion,29,Arkansas State,26,Old Dominion,Arkansas State,99,99,87,13,0,99,99,2022-09-24,5
+5,4:00 PM,(15) Oregon,44,Washington State,41,Oregon,Washington State,99,15,126,148,1,15,99,2022-09-24,5
+5,12:00 PM,(14) Penn State,33,Central Michigan,14,Penn State,Central Michigan,14,99,90,35,0,14,99,2022-09-24,5
+5,12:00 PM,(24) Pittsburgh,45,Rhode Island,24,Pittsburgh,Rhode Island,24,99,91,154,0,24,99,2022-09-24,5
+5,7:30 PM,Purdue,28,Florida Atlantic,26,Purdue,Florida Atlantic,99,99,92,59,0,99,99,2022-09-24,5
+5,4:00 PM,Sacramento State,41,Colorado State,10,Sacramento State,Colorado State,99,99,26,159,1,99,99,2022-09-24,5
+5,3:30 PM,San Diego State,17,Toledo,14,San Diego State,Toledo,99,99,95,197,0,99,99,2022-09-24,5
+5,10:30 PM,San Jose State,34,Western Michigan,6,San Jose State,Western Michigan,99,99,96,220,0,99,99,2022-09-24,5
+5,7:00 PM,South Alabama,38,Louisiana Tech,14,South Alabama,Louisiana Tech,99,99,97,98,0,99,99,2022-09-24,5
+5,7:30 PM,South Carolina,56,Charlotte,20,South Carolina,Charlotte,99,99,98,37,0,99,99,2022-09-24,5
+5,9:30 PM,(7) Southern California,17,Oregon State,14,Southern California,Oregon State,99,7,89,173,1,7,99,2022-09-24,5
+5,7:00 PM,Southern Mississippi,27,Tulane,24,Southern Mississippi,Tulane,99,99,116,176,1,99,99,2022-09-24,5
+5,2:00 PM,Temple,28,Massachusetts,0,Temple,Massachusetts,99,99,105,104,0,99,99,2022-09-24,5
+5,3:30 PM,(11) Tennessee,38,(20) Florida,33,Tennessee,Florida,11,20,106,57,0,11,20,2022-09-24,5
+5,7:00 PM,(23) Texas A&M,23,(10) Arkansas,21,Texas A&M,Arkansas,99,99,72,226,3,23,10,2022-09-24,5
+5,12:00 PM,Texas Christian,42,Southern Methodist,34,Texas Christian,Southern Methodist,99,99,101,191,1,99,99,2022-09-24,5
+5,7:00 PM,Texas State,34,Houston Baptist,0,Texas State,Houston Baptist,99,99,110,74,0,99,99,2022-09-24,5
+5,3:30 PM,Texas Tech,37,(22) Texas,34,Texas Tech,Texas,99,22,111,189,0,99,22,2022-09-24,5
+5,3:30 PM,Texas-San Antonio,52,Texas Southern,24,Texas-San Antonio,Texas Southern,99,99,113,192,0,99,99,2022-09-24,5
+5,7:00 PM,Troy,16,Marshall,7,Troy,Marshall,99,99,115,102,0,99,99,2022-09-24,5
+5,2:00 PM,UCLA,45,Colorado,17,UCLA,Colorado,99,99,25,202,1,99,99,2022-09-24,5
+5,10:30 PM,(13) Utah,34,Arizona State,13,Utah,Arizona State,99,13,6,203,1,13,99,2022-09-24,5
+5,10:30 PM,(18) Washington,40,Stanford,22,Washington,Stanford,18,99,125,179,0,18,99,2022-09-24,5
+5,3:30 PM,Western Kentucky,73,Florida International,0,Western Kentucky,Florida International,99,99,128,60,0,99,99,2022-09-24,5
+6,8:00 PM,(19) Brigham Young,38,Utah State,26,Brigham Young,Utah State,19,99,16,204,0,19,99,2022-09-29,3
+6,7:00 PM,South Carolina,50,South Carolina State,10,South Carolina,South Carolina State,99,99,98,166,0,99,99,2022-09-29,3
+6,8:00 PM,Boise State,35,San Diego State,13,Boise State,San Diego State,99,99,13,162,0,99,99,2022-09-30,4
+6,11:00 PM,Nevada-Las Vegas,31,New Mexico,20,Nevada-Las Vegas,New Mexico,99,99,74,125,0,99,99,2022-09-30,4
+6,7:30 PM,Texas-San Antonio,45,Middle Tennessee State,30,Texas-San Antonio,Middle Tennessee State,99,99,65,196,1,99,99,2022-09-30,4
+6,7:00 PM,Tulane,27,Houston,24,Tulane,Houston,99,99,41,200,1,99,99,2022-09-30,4
+6,10:30 PM,UCLA,40,(15) Washington,32,UCLA,Washington,99,15,118,213,0,99,15,2022-09-30,4
+6,12:00 PM,Air Force,13,Navy,10,Air Force,Navy,99,99,0,120,0,99,99,2022-10-01,5
+6,3:30 PM,(2) Alabama,49,(20) Arkansas,26,Alabama,Arkansas,20,2,7,3,1,2,20,2022-10-01,5
+6,3:30 PM,Appalachian State,49,Citadel,0,Appalachian State,Citadel,99,99,4,40,0,99,99,2022-10-01,5
+6,9:30 PM,Arizona,43,Colorado,20,Arizona,Colorado,99,99,5,44,0,99,99,2022-10-01,5
+6,7:00 PM,Arkansas State,45,Louisiana-Monroe,28,Arkansas State,Louisiana-Monroe,99,99,8,99,0,99,99,2022-10-01,5
+6,2:00 PM,Ball State,44,Northern Illinois,38,Ball State,Northern Illinois,99,99,11,138,0,99,99,2022-10-01,5
+6,12:00 PM,Boston College,34,Louisville,33,Boston College,Louisville,99,99,14,100,0,99,99,2022-10-01,5
+6,3:30 PM,Bowling Green,31,Akron,28,Bowling Green,Akron,99,99,1,23,1,99,99,2022-10-01,5
+6,3:30 PM,Buffalo,24,Miami (OH),20,Buffalo,Miami (OH),99,99,17,109,0,99,99,2022-10-01,5
+6,7:00 PM,Cincinnati,31,Tulsa,21,Cincinnati,Tulsa,99,99,117,39,1,99,99,2022-10-01,5
+6,7:30 PM,(5) Clemson,30,(10) North Carolina State,20,Clemson,North Carolina State,5,10,23,132,0,5,10,2022-10-01,5
+6,7:00 PM,Coastal Carolina,34,Georgia Southern,30,Coastal Carolina,Georgia Southern,99,99,24,67,0,99,99,2022-10-01,5
+6,3:30 PM,Connecticut,19,Fresno State,14,Connecticut,Fresno State,99,99,27,63,0,99,99,2022-10-01,5
+6,7:30 PM,Duke,38,Virginia,17,Duke,Virginia,99,99,28,208,0,99,99,2022-10-01,5
+6,2:30 PM,East Carolina,48,South Florida,28,East Carolina,South Florida,99,99,72,226,3,99,99,2022-10-01,5
+6,2:00 PM,Eastern Michigan,20,Massachusetts,13,Eastern Michigan,Massachusetts,99,99,30,104,0,99,99,2022-10-01,5
+6,8:00 PM,Florida International,21,New Mexico State,7,Florida International,New Mexico State,99,99,76,60,1,99,99,2022-10-01,5
+6,7:30 PM,(1) Georgia,26,Missouri,22,Georgia,Missouri,99,1,69,66,1,1,99,2022-10-01,5
+6,12:00 PM,Georgia State,31,Army,14,Georgia State,Army,99,99,9,68,1,99,99,2022-10-01,5
+6,8:00 PM,Georgia Tech,26,(24) Pittsburgh,21,Georgia Tech,Pittsburgh,24,99,91,69,1,99,24,2022-10-01,5
+6,12:00 PM,Illinois,34,Wisconsin,10,Illinois,Wisconsin,99,99,130,78,1,99,99,2022-10-01,5
+6,1:30 PM,James Madison,40,Texas State,13,James Madison,Texas State,99,99,46,193,0,99,99,2022-10-01,5
+6,3:30 PM,Kansas,14,Iowa State,11,Kansas,Iowa State,99,99,47,84,0,99,99,2022-10-01,5
+6,12:00 PM,(25) Kansas State,37,Texas Tech,28,Kansas State,Texas Tech,25,99,48,194,0,25,99,2022-10-01,5
+6,3:30 PM,Kent State,31,Ohio,24,Kent State,Ohio,99,99,49,143,0,99,99,2022-10-01,5
+6,6:00 PM,Liberty,38,Old Dominion,24,Liberty,Old Dominion,99,99,87,94,1,99,99,2022-10-01,5
+6,7:00 PM,Louisiana State,21,Auburn,17,Louisiana State,Auburn,99,99,10,97,1,99,99,2022-10-01,5
+6,3:30 PM,Marshall,28,Gardner-Webb,7,Marshall,Gardner-Webb,99,99,57,65,0,99,99,2022-10-01,5
+6,3:30 PM,Maryland,27,Michigan State,13,Maryland,Michigan State,99,99,58,111,0,99,99,2022-10-01,5
+6,12:00 PM,Memphis,24,Temple,3,Memphis,Temple,99,99,60,184,0,99,99,2022-10-01,5
+6,12:00 PM,(4) Michigan,27,Iowa,14,Michigan,Iowa,99,4,44,110,1,4,99,2022-10-01,5
+6,12:00 PM,(14) Mississippi,22,(7) Kentucky,19,Mississippi,Kentucky,14,7,67,91,0,14,7,2022-10-01,5
+6,4:00 PM,Mississippi State,42,(17) Texas A&M,24,Mississippi State,Texas A&M,99,17,68,190,0,99,17,2022-10-01,5
+6,7:30 PM,Nebraska,35,Indiana,21,Nebraska,Indiana,99,99,71,81,0,99,99,2022-10-01,5
+6,3:30 PM,North Carolina,41,Virginia Tech,10,North Carolina,Virginia Tech,99,99,77,210,0,99,99,2022-10-01,5
+6,4:00 PM,North Texas,45,Florida Atlantic,28,North Texas,Florida Atlantic,99,99,79,59,0,99,99,2022-10-01,5
+6,3:30 PM,(3) Ohio State,49,Rutgers,10,Ohio State,Rutgers,3,99,84,158,0,3,99,2022-10-01,5
+6,3:30 PM,(9) Oklahoma State,36,(16) Baylor,25,Oklahoma State,Baylor,16,9,12,146,1,9,16,2022-10-01,5
+6,11:00 PM,(13) Oregon,45,Stanford,27,Oregon,Stanford,13,99,88,179,0,13,99,2022-10-01,5
+6,3:30 PM,(11) Penn State,17,Northwestern,7,Penn State,Northwestern,11,99,90,140,0,11,99,2022-10-01,5
+6,12:00 PM,Purdue,20,(21) Minnesota,10,Purdue,Minnesota,21,99,66,153,1,99,21,2022-10-01,5
+6,7:30 PM,Rice,28,Alabama-Birmingham,24,Rice,Alabama-Birmingham,99,99,93,6,0,99,99,2022-10-01,5
+6,7:30 PM,San Jose State,33,Wyoming,16,San Jose State,Wyoming,99,99,131,163,1,99,99,2022-10-01,5
+6,5:00 PM,South Alabama,20,Louisiana,17,South Alabama,Louisiana,99,99,52,164,1,99,99,2022-10-01,5
+6,10:30 PM,(6) Southern California,42,Arizona State,25,Southern California,Arizona State,6,99,100,11,0,6,99,2022-10-01,5
+6,5:00 PM,Syracuse,59,Wagner,0,Syracuse,Wagner,99,99,104,211,0,99,99,2022-10-01,5
+6,7:30 PM,Texas,38,West Virginia,20,Texas,West Virginia,99,99,107,216,0,99,99,2022-10-01,5
+6,12:00 PM,Texas Christian,55,(18) Oklahoma,24,Texas Christian,Oklahoma,99,18,109,145,0,99,18,2022-10-01,5
+6,6:00 PM,Texas-El Paso,41,Charlotte,35,Texas-El Paso,Charlotte,99,99,21,195,1,99,99,2022-10-01,5
+6,3:30 PM,Toledo,38,Central Michigan,17,Toledo,Central Michigan,99,99,114,35,0,99,99,2022-10-01,5
+6,7:00 PM,Troy,34,Western Kentucky,27,Troy,Western Kentucky,99,99,128,199,1,99,99,2022-10-01,5
+6,2:00 PM,(12) Utah,42,Oregon State,16,Utah,Oregon State,12,99,119,149,0,12,99,2022-10-01,5
+6,3:30 PM,(22) Wake Forest,31,(23) Florida State,21,Wake Forest,Florida State,23,22,34,212,1,22,23,2022-10-01,5
+6,5:30 PM,Washington State,28,California,9,Washington State,California,99,99,126,29,0,99,99,2022-10-01,5
+6,6:00 PM,Western Michigan,44,New Hampshire,7,Western Michigan,New Hampshire,99,99,129,124,0,99,99,2022-10-01,5
+6,12:00 PM,Florida,52,Eastern Washington,17,Florida,Eastern Washington,99,99,31,55,0,99,99,2022-10-02,6
+7,7:00 PM,Central Florida,41,Southern Methodist,19,Central Florida,Southern Methodist,99,99,19,175,0,99,99,2022-10-05,2
+7,10:30 PM,Colorado State,17,Nevada,14,Colorado State,Nevada,99,99,73,45,1,99,99,2022-10-07,4
+7,7:30 PM,Houston,33,Memphis,32,Houston,Memphis,99,99,60,73,1,99,99,2022-10-07,4
+7,7:00 PM,Nebraska,14,Rutgers,13,Nebraska,Rutgers,99,99,94,121,1,99,99,2022-10-07,4
+7,10:30 PM,San Jose State,40,Nevada-Las Vegas,7,San Jose State,Nevada-Las Vegas,99,99,96,123,0,99,99,2022-10-07,4
+7,8:00 PM,(1) Alabama,24,Texas A&M,20,Alabama,Texas A&M,1,99,2,190,0,1,99,2022-10-08,5
+7,3:30 PM,Alabama-Birmingham,41,Middle Tennessee State,14,Alabama-Birmingham,Middle Tennessee State,99,99,3,112,0,99,99,2022-10-08,5
+7,4:00 PM,Arizona State,45,(21) Washington,38,Arizona State,Washington,99,21,6,213,0,99,21,2022-10-08,5
+7,3:30 PM,Ball State,17,Central Michigan,16,Ball State,Central Michigan,99,99,20,18,1,99,99,2022-10-08,5
+7,9:45 PM,Boise State,40,Fresno State,20,Boise State,Fresno State,99,99,13,63,0,99,99,2022-10-08,5
+7,12:00 PM,Buffalo,38,Bowling Green,7,Buffalo,Bowling Green,99,99,15,27,1,99,99,2022-10-08,5
+7,2:30 PM,(24) Cincinnati,28,South Florida,24,Cincinnati,South Florida,24,99,22,169,0,24,99,2022-10-08,5
+7,7:30 PM,(5) Clemson,31,Boston College,3,Clemson,Boston College,99,5,14,41,1,5,99,2022-10-08,5
+7,8:00 PM,Coastal Carolina,28,Louisiana-Monroe,21,Coastal Carolina,Louisiana-Monroe,99,99,55,42,1,99,99,2022-10-08,5
+7,7:00 PM,Connecticut,33,Florida International,12,Connecticut,Florida International,99,99,33,46,1,99,99,2022-10-08,5
+7,12:00 PM,Eastern Michigan,45,Western Michigan,23,Eastern Michigan,Western Michigan,99,99,129,54,1,99,99,2022-10-08,5
+7,12:00 PM,Florida,24,Missouri,17,Florida,Missouri,99,99,31,116,0,99,99,2022-10-08,5
+7,3:30 PM,(2) Georgia,42,Auburn,10,Georgia,Auburn,2,99,36,16,0,2,99,2022-10-08,5
+7,2:00 PM,Georgia State,41,Georgia Southern,33,Georgia State,Georgia Southern,99,99,38,67,0,99,99,2022-10-08,5
+7,4:00 PM,Georgia Tech,23,Duke,20,Georgia Tech,Duke,99,99,39,48,0,99,99,2022-10-08,5
+7,7:30 PM,Illinois,9,Iowa,6,Illinois,Iowa,99,99,42,83,0,99,99,2022-10-08,5
+7,7:00 PM,James Madison,42,Arkansas State,20,James Madison,Arkansas State,99,99,8,86,1,99,99,2022-10-08,5
+7,7:30 PM,(20) Kansas State,10,Iowa State,9,Kansas State,Iowa State,99,20,45,88,1,20,99,2022-10-08,5
+7,3:30 PM,Liberty,42,Massachusetts,24,Liberty,Massachusetts,99,99,59,94,1,99,99,2022-10-08,5
+7,7:00 PM,Louisiana Tech,41,Texas-El Paso,31,Louisiana Tech,Texas-El Paso,99,99,54,195,0,99,99,2022-10-08,5
+7,12:00 PM,Louisville,34,Virginia,17,Louisville,Virginia,99,99,122,100,1,99,99,2022-10-08,5
+7,3:30 PM,Miami (OH),27,Kent State,24,Miami (OH),Kent State,99,99,62,90,0,99,99,2022-10-08,5
+7,12:00 PM,(4) Michigan,31,Indiana,10,Michigan,Indiana,99,4,43,110,1,4,99,2022-10-08,5
+7,4:00 PM,(9) Mississippi,52,Vanderbilt,28,Mississippi,Vanderbilt,99,9,121,114,1,9,99,2022-10-08,5
+7,12:00 PM,(23) Mississippi State,40,Arkansas,17,Mississippi State,Arkansas,23,99,68,12,0,23,99,2022-10-08,5
+7,3:30 PM,Navy,53,Tulsa,21,Navy,Tulsa,99,99,70,201,0,99,99,2022-10-08,5
+7,4:00 PM,North Carolina,27,Miami (FL),24,North Carolina,Miami (FL),99,99,61,130,1,99,99,2022-10-08,5
+7,8:00 PM,(14) North Carolina State,19,Florida State,17,North Carolina State,Florida State,14,99,78,61,0,14,99,2022-10-08,5
+7,7:30 PM,Notre Dame,28,(16) Brigham Young,20,Notre Dame,Brigham Young,99,99,72,226,3,99,16,2022-10-08,5
+7,2:00 PM,Ohio,55,Akron,34,Ohio,Akron,99,99,83,2,0,99,99,2022-10-08,5
+7,4:00 PM,(3) Ohio State,49,Michigan State,20,Ohio State,Michigan State,99,3,64,144,1,3,99,2022-10-08,5
+7,3:30 PM,(7) Oklahoma State,41,Texas Tech,31,Oklahoma State,Texas Tech,7,99,86,194,0,7,99,2022-10-08,5
+7,8:00 PM,(12) Oregon,49,Arizona,22,Oregon,Arizona,99,12,5,148,1,12,99,2022-10-08,5
+7,11:00 PM,Oregon State,28,Stanford,27,Oregon State,Stanford,99,99,103,149,1,99,99,2022-10-08,5
+7,3:30 PM,Pittsburgh,45,Virginia Tech,29,Pittsburgh,Virginia Tech,99,99,91,210,0,99,99,2022-10-08,5
+7,12:00 PM,Purdue,31,Maryland,29,Purdue,Maryland,99,99,58,153,1,99,99,2022-10-08,5
+7,10:30 PM,San Diego State,16,Hawaii,14,San Diego State,Hawaii,99,99,95,71,0,99,99,2022-10-08,5
+7,7:30 PM,South Carolina,24,(13) Kentucky,14,South Carolina,Kentucky,13,99,50,165,1,99,13,2022-10-08,5
+7,7:30 PM,(6) Southern California,30,Washington State,14,Southern California,Washington State,6,99,100,214,0,6,99,2022-10-08,5
+7,12:00 PM,(8) Tennessee,40,(25) Louisiana State,13,Tennessee,Louisiana State,25,8,53,185,1,8,25,2022-10-08,5
+7,12:00 PM,Texas,49,Oklahoma,0,Texas,Oklahoma,99,99,72,226,3,99,99,2022-10-08,5
+7,12:00 PM,(17) Texas Christian,38,(19) Kansas,31,Texas Christian,Kansas,19,17,47,191,1,17,19,2022-10-08,5
+7,7:00 PM,Texas State,36,Appalachian State,24,Texas State,Appalachian State,99,99,110,9,0,99,99,2022-10-08,5
+7,6:00 PM,Texas-San Antonio,31,Western Kentucky,28,Texas-San Antonio,Western Kentucky,99,99,113,219,0,99,99,2022-10-08,5
+7,3:30 PM,Toledo,52,Northern Illinois,32,Toledo,Northern Illinois,99,99,80,197,1,99,99,2022-10-08,5
+7,7:00 PM,Troy,27,Southern Mississippi,10,Troy,Southern Mississippi,99,99,115,176,0,99,99,2022-10-08,5
+7,3:30 PM,Tulane,24,East Carolina,9,Tulane,East Carolina,99,99,116,50,0,99,99,2022-10-08,5
+7,3:30 PM,(18) UCLA,42,(11) Utah,32,UCLA,Utah,18,11,118,203,0,18,11,2022-10-08,5
+7,7:00 PM,Utah State,34,Air Force,27,Utah State,Air Force,99,99,120,1,0,99,99,2022-10-08,5
+7,7:30 PM,(15) Wake Forest,45,Army,10,Wake Forest,Army,15,99,124,15,0,15,99,2022-10-08,5
+7,3:30 PM,Wisconsin,42,Northwestern,7,Wisconsin,Northwestern,99,99,81,222,1,99,99,2022-10-08,5
+7,7:00 PM,Wyoming,27,New Mexico,14,Wyoming,New Mexico,99,99,75,224,1,99,99,2022-10-08,5
+8,7:30 PM,Louisiana,23,Marshall,13,Louisiana,Marshall,99,99,57,96,1,99,99,2022-10-12,2
+8,7:00 PM,Central Florida,70,Temple,13,Central Florida,Temple,99,99,19,184,0,99,99,2022-10-13,3
+8,7:00 PM,West Virginia,43,Baylor,40,West Virginia,Baylor,99,99,127,19,0,99,99,2022-10-13,3
+8,7:30 PM,Southern Methodist,40,Navy,34,Southern Methodist,Navy,99,99,101,120,0,99,99,2022-10-14,4
+8,8:00 PM,Texas-San Antonio,30,Florida International,10,Texas-San Antonio,Florida International,99,99,33,196,1,99,99,2022-10-14,4
+8,9:30 PM,Air Force,42,Nevada-Las Vegas,7,Air Force,Nevada-Las Vegas,99,99,74,1,1,99,99,2022-10-15,5
+8,3:30 PM,Alabama-Birmingham,34,Charlotte,20,Alabama-Birmingham,Charlotte,99,99,3,37,0,99,99,2022-10-15,5
+8,3:30 PM,Arkansas,52,Brigham Young,35,Arkansas,Brigham Young,99,99,16,12,1,99,99,2022-10-15,5
+8,12:00 PM,Army,42,Colgate,17,Army,Colgate,99,99,9,43,0,99,99,2022-10-15,5
+8,2:00 PM,Ball State,25,Connecticut,21,Ball State,Connecticut,99,99,11,46,0,99,99,2022-10-15,5
+8,12:00 PM,Bowling Green,17,Miami (OH),13,Bowling Green,Miami (OH),99,99,15,109,0,99,99,2022-10-15,5
+8,1:00 PM,Buffalo,34,Massachusetts,7,Buffalo,Massachusetts,99,99,59,27,1,99,99,2022-10-15,5
+8,12:00 PM,Central Michigan,28,Akron,21,Central Michigan,Akron,99,99,1,35,1,99,99,2022-10-15,5
+8,7:30 PM,(4) Clemson,34,Florida State,28,Clemson,Florida State,99,4,34,41,1,4,99,2022-10-15,5
+8,2:00 PM,Colorado,20,California,13,Colorado,California,99,99,25,29,0,99,99,2022-10-15,5
+8,7:30 PM,East Carolina,47,Memphis,45,East Carolina,Memphis,99,99,29,106,0,99,99,2022-10-15,5
+8,6:00 PM,Florida Atlantic,17,Rice,14,Florida Atlantic,Rice,99,99,32,155,0,99,99,2022-10-15,5
+8,10:45 PM,Fresno State,17,San Jose State,10,Fresno State,San Jose State,99,99,35,163,0,99,99,2022-10-15,5
+8,3:30 PM,(1) Georgia,55,Vanderbilt,0,Georgia,Vanderbilt,1,99,36,206,0,1,99,2022-10-15,5
+8,4:00 PM,Georgia Southern,45,(25) James Madison,38,Georgia Southern,James Madison,99,25,37,86,0,99,25,2022-10-15,5
+8,11:59 PM,Hawaii,31,Nevada,16,Hawaii,Nevada,99,99,40,122,0,99,99,2022-10-15,5
+8,12:00 PM,(24) Illinois,26,Minnesota,14,Illinois,Minnesota,24,99,42,113,0,24,99,2022-10-15,5
+8,7:30 PM,(22) Kentucky,27,(16) Mississippi State,17,Kentucky,Mississippi State,22,16,50,115,0,22,16,2022-10-15,5
+8,3:30 PM,Liberty,21,Gardner-Webb,20,Liberty,Gardner-Webb,99,99,51,65,0,99,99,2022-10-15,5
+8,7:00 PM,Louisiana State,45,Florida,35,Louisiana State,Florida,99,99,31,97,1,99,99,2022-10-15,5
+8,3:30 PM,Maryland,38,Indiana,33,Maryland,Indiana,99,99,43,103,1,99,99,2022-10-15,5
+8,12:30 PM,Miami (FL),20,Virginia Tech,14,Miami (FL),Virginia Tech,99,99,123,108,1,99,99,2022-10-15,5
+8,12:00 PM,(5) Michigan,41,(10) Penn State,17,Michigan,Penn State,5,10,63,150,0,5,10,2022-10-15,5
+8,4:00 PM,Michigan State,34,Wisconsin,28,Michigan State,Wisconsin,99,99,64,222,0,99,99,2022-10-15,5
+8,12:00 PM,(9) Mississippi,48,Auburn,34,Mississippi,Auburn,9,99,67,16,0,9,99,2022-10-15,5
+8,8:00 PM,New Mexico State,21,New Mexico,9,New Mexico State,New Mexico,99,99,76,125,0,99,99,2022-10-15,5
+8,8:00 PM,North Carolina,38,Duke,35,North Carolina,Duke,99,99,28,130,1,99,99,2022-10-15,5
+8,4:00 PM,North Texas,47,Louisiana Tech,27,North Texas,Louisiana Tech,99,99,79,98,0,99,99,2022-10-15,5
+8,3:30 PM,Northern Illinois,39,Eastern Michigan,10,Northern Illinois,Eastern Michigan,99,99,30,138,1,99,99,2022-10-15,5
+8,3:30 PM,Ohio,33,Western Michigan,14,Ohio,Western Michigan,99,99,129,143,1,99,99,2022-10-15,5
+8,12:00 PM,Oklahoma,52,(19) Kansas,42,Oklahoma,Kansas,99,19,85,87,0,99,19,2022-10-15,5
+8,12:00 PM,Old Dominion,49,Coastal Carolina,21,Old Dominion,Coastal Carolina,99,99,24,147,1,99,99,2022-10-15,5
+8,9:00 PM,Oregon State,24,Washington State,10,Oregon State,Washington State,99,99,89,214,0,99,99,2022-10-15,5
+8,7:30 PM,Purdue,43,Nebraska,37,Purdue,Nebraska,99,99,92,121,0,99,99,2022-10-15,5
+8,8:00 PM,South Alabama,41,Louisiana-Monroe,34,South Alabama,Louisiana-Monroe,99,99,97,99,0,99,99,2022-10-15,5
+8,7:00 PM,Southern Mississippi,20,Arkansas State,19,Southern Mississippi,Arkansas State,99,99,102,13,0,99,99,2022-10-15,5
+8,7:30 PM,Stanford,16,Notre Dame,14,Stanford,Notre Dame,99,99,82,179,1,99,99,2022-10-15,5
+8,3:30 PM,(18) Syracuse,24,(15) North Carolina State,9,Syracuse,North Carolina State,18,15,104,132,0,18,15,2022-10-15,5
+8,3:30 PM,(6) Tennessee,52,(3) Alabama,49,Tennessee,Alabama,6,3,106,3,0,6,3,2022-10-15,5
+8,12:00 PM,(22) Texas,24,Iowa State,21,Texas,Iowa State,22,99,107,84,0,22,99,2022-10-15,5
+8,3:30 PM,(13) Texas Christian,43,(8) Oklahoma State,40,Texas Christian,Oklahoma State,13,8,109,146,0,13,8,2022-10-15,5
+8,3:30 PM,Toledo,52,Kent State,31,Toledo,Kent State,99,99,114,90,0,99,99,2022-10-15,5
+8,3:30 PM,Troy,17,Texas State,14,Troy,Texas State,99,99,115,193,0,99,99,2022-10-15,5
+8,4:00 PM,Tulane,45,South Florida,31,Tulane,South Florida,99,99,99,200,1,99,99,2022-10-15,5
+8,8:00 PM,(20) Utah,43,(7) Southern California,42,Utah,Southern California,20,7,119,173,0,20,7,2022-10-15,5
+8,7:00 PM,Utah State,17,Colorado State,13,Utah State,Colorado State,99,99,26,204,1,99,99,2022-10-15,5
+8,5:30 PM,Washington,49,Arizona,39,Washington,Arizona,99,99,125,10,0,99,99,2022-10-15,5
+8,3:30 PM,Western Kentucky,35,Middle Tennessee State,17,Western Kentucky,Middle Tennessee State,99,99,65,219,1,99,99,2022-10-15,5
+9,7:30 PM,Appalachian State,42,Georgia State,17,Appalachian State,Georgia State,99,99,4,68,0,99,99,2022-10-19,2
+9,7:30 PM,Troy,10,South Alabama,6,Troy,South Alabama,99,99,97,199,1,99,99,2022-10-20,3
+9,7:30 PM,Virginia,16,Georgia Tech,9,Virginia,Georgia Tech,99,99,39,208,1,99,99,2022-10-20,3
+9,7:30 PM,Tulsa,27,Temple,16,Tulsa,Temple,99,99,105,201,1,99,99,2022-10-21,4
+9,8:00 PM,Western Kentucky,20,Alabama-Birmingham,17,Western Kentucky,Alabama-Birmingham,99,99,128,6,0,99,99,2022-10-21,4
+9,7:00 PM,(6) Alabama,30,(24) Mississippi State,6,Alabama,Mississippi State,6,24,2,115,0,6,24,2022-10-22,5
+9,12:00 PM,Army,48,Louisiana-Monroe,24,Army,Louisiana-Monroe,99,99,9,99,0,99,99,2022-10-22,5
+9,12:00 PM,Baylor,35,Kansas,23,Baylor,Kansas,99,99,12,87,0,99,99,2022-10-22,5
+9,7:00 PM,Boise State,19,Air Force,14,Boise State,Air Force,99,99,0,21,1,99,99,2022-10-22,5
+9,1:00 PM,Bowling Green,34,Central Michigan,18,Bowling Green,Central Michigan,99,99,20,23,1,99,99,2022-10-22,5
+9,1:00 PM,Buffalo,34,Toledo,27,Buffalo,Toledo,99,99,17,197,0,99,99,2022-10-22,5
+9,12:00 PM,(21) Cincinnati,29,Southern Methodist,27,Cincinnati,Southern Methodist,99,21,101,39,1,21,99,2022-10-22,5
+9,12:00 PM,(5) Clemson,27,(14) Syracuse,21,Clemson,Syracuse,5,14,23,182,0,5,14,2022-10-22,5
+9,4:00 PM,Colorado State,17,Hawaii,13,Colorado State,Hawaii,99,99,26,71,0,99,99,2022-10-22,5
+9,12:30 PM,Duke,45,Miami (FL),21,Duke,Miami (FL),99,99,61,48,1,99,99,2022-10-22,5
+9,7:30 PM,East Carolina,34,Central Florida,13,East Carolina,Central Florida,99,99,29,34,0,99,99,2022-10-22,5
+9,2:00 PM,Eastern Michigan,20,Ball State,16,Eastern Michigan,Ball State,99,99,11,54,1,99,99,2022-10-22,5
+9,3:30 PM,Florida International,34,Charlotte,15,Florida International,Charlotte,99,99,21,60,1,99,99,2022-10-22,5
+9,6:30 PM,Fresno State,41,New Mexico,9,Fresno State,New Mexico,99,99,75,63,1,99,99,2022-10-22,5
+9,3:30 PM,Georgia Southern,28,Old Dominion,23,Georgia Southern,Old Dominion,99,99,87,67,1,99,99,2022-10-22,5
+9,12:00 PM,Houston,38,Navy,20,Houston,Navy,99,99,70,73,1,99,99,2022-10-22,5
+9,12:00 PM,Kent State,33,Akron,27,Kent State,Akron,99,99,49,2,0,99,99,2022-10-22,5
+9,3:30 PM,Liberty,41,Brigham Young,14,Liberty,Brigham Young,99,99,51,24,0,99,99,2022-10-22,5
+9,5:00 PM,Louisiana,38,Arkansas State,18,Louisiana,Arkansas State,99,99,52,13,0,99,99,2022-10-22,5
+9,3:30 PM,Louisiana State,45,(7) Mississippi,20,Louisiana State,Mississippi,99,7,53,114,0,99,7,2022-10-22,5
+9,8:00 PM,Louisville,24,Pittsburgh,10,Louisville,Pittsburgh,99,99,56,151,0,99,99,2022-10-22,5
+9,3:30 PM,Marshall,26,James Madison,12,Marshall,James Madison,99,99,46,102,1,99,99,2022-10-22,5
+9,3:30 PM,Maryland,31,Northwestern,24,Maryland,Northwestern,99,99,58,140,0,99,99,2022-10-22,5
+9,4:00 PM,Missouri,17,Vanderbilt,14,Missouri,Vanderbilt,99,99,69,206,0,99,99,2022-10-22,5
+9,2:30 PM,Notre Dame,44,Nevada-Las Vegas,21,Notre Dame,Nevada-Las Vegas,99,99,82,123,0,99,99,2022-10-22,5
+9,2:00 PM,Ohio,24,Northern Illinois,17,Ohio,Northern Illinois,99,99,83,138,0,99,99,2022-10-22,5
+9,12:00 PM,(2) Ohio State,54,Iowa,10,Ohio State,Iowa,2,99,84,83,0,2,99,2022-10-22,5
+9,3:30 PM,(11) Oklahoma State,41,(20) Texas,34,Oklahoma State,Texas,11,20,86,189,0,11,20,2022-10-22,5
+9,3:30 PM,(10) Oregon,45,(9) UCLA,30,Oregon,UCLA,10,9,88,202,0,10,9,2022-10-22,5
+9,8:00 PM,Oregon State,42,Colorado,9,Oregon State,Colorado,99,99,89,44,0,99,99,2022-10-22,5
+9,7:30 PM,(16) Penn State,45,Minnesota,17,Penn State,Minnesota,16,99,90,113,0,16,99,2022-10-22,5
+9,3:00 PM,Rice,42,Louisiana Tech,41,Rice,Louisiana Tech,99,99,54,155,1,99,99,2022-10-22,5
+9,12:00 PM,Rutgers,24,Indiana,17,Rutgers,Indiana,99,99,94,81,0,99,99,2022-10-22,5
+9,10:30 PM,San Diego State,23,Nevada,7,San Diego State,Nevada,99,99,73,162,1,99,99,2022-10-22,5
+9,6:00 PM,San Jose State,0,New Mexico State,0,San Jose State,New Mexico State,99,99,76,163,1,99,99,2022-10-22,5
+9,7:30 PM,South Carolina,30,Texas A&M,24,South Carolina,Texas A&M,99,99,98,190,0,99,99,2022-10-22,5
+9,5:00 PM,Southern Mississippi,20,Texas State,14,Southern Mississippi,Texas State,99,99,110,176,1,99,99,2022-10-22,5
+9,4:00 PM,Stanford,15,Arizona State,14,Stanford,Arizona State,99,99,103,11,0,99,99,2022-10-22,5
+9,12:00 PM,(3) Tennessee,65,Tennessee-Martin,24,Tennessee,Tennessee-Martin,3,99,106,188,0,3,99,2022-10-22,5
+9,8:00 PM,(8) Texas Christian,38,(17) Kansas State,28,Texas Christian,Kansas State,8,17,109,88,0,8,17,2022-10-22,5
+9,3:00 PM,Texas Tech,48,West Virginia,10,Texas Tech,West Virginia,99,99,111,216,0,99,99,2022-10-22,5
+9,4:00 PM,Texas-El Paso,24,Florida Atlantic,21,Texas-El Paso,Florida Atlantic,99,99,112,59,0,99,99,2022-10-22,5
+9,3:30 PM,Texas-San Antonio,31,North Texas,27,Texas-San Antonio,North Texas,99,99,113,135,0,99,99,2022-10-22,5
+9,3:30 PM,(25) Tulane,38,Memphis,28,Tulane,Memphis,25,99,116,106,0,25,99,2022-10-22,5
+9,3:30 PM,(13) Wake Forest,43,Boston College,15,Wake Forest,Boston College,13,99,124,22,0,13,99,2022-10-22,5
+9,10:30 PM,Washington,28,California,21,Washington,California,99,99,18,213,1,99,99,2022-10-22,5
+9,3:30 PM,Western Michigan,16,Miami (OH),10,Western Michigan,Miami (OH),99,99,62,220,1,99,99,2022-10-22,5
+9,3:30 PM,Wisconsin,35,Purdue,24,Wisconsin,Purdue,99,99,130,153,0,99,99,2022-10-22,5
+9,9:45 PM,Wyoming,28,Utah State,14,Wyoming,Utah State,99,99,131,204,0,99,99,2022-10-22,5
+10,7:30 PM,(24) North Carolina State,22,Virginia Tech,21,North Carolina State,Virginia Tech,24,99,78,210,0,24,99,2022-10-27,3
+10,7:30 PM,Southern Mississippi,39,Louisiana,24,Southern Mississippi,Louisiana,99,99,102,96,0,99,99,2022-10-27,3
+10,10:00 PM,(14) Utah,21,Washington State,17,Utah,Washington State,99,14,126,203,1,14,99,2022-10-27,3
+10,8:00 PM,East Carolina,27,Brigham Young,24,East Carolina,Brigham Young,99,99,16,50,1,99,99,2022-10-28,4
+10,8:00 PM,Florida International,42,Louisiana Tech,34,Florida International,Louisiana Tech,99,99,33,98,0,99,99,2022-10-28,4
+10,3:30 PM,Appalachian State,42,Robert Morris,3,Appalachian State,Robert Morris,99,99,4,157,0,99,99,2022-10-29,5
+10,7:30 PM,Arizona State,42,Colorado,34,Arizona State,Colorado,99,99,25,11,1,99,99,2022-10-29,5
+10,12:00 PM,Arkansas,41,Auburn,27,Arkansas,Auburn,99,99,10,12,1,99,99,2022-10-29,5
+10,7:30 PM,Baylor,45,Texas Tech,17,Baylor,Texas Tech,99,99,111,19,1,99,99,2022-10-29,5
+10,7:00 PM,Boise State,49,Colorado State,10,Boise State,Colorado State,99,99,13,45,0,99,99,2022-10-29,5
+10,3:30 PM,Central Florida,25,(20) Cincinnati,21,Central Florida,Cincinnati,99,20,19,39,0,99,20,2022-10-29,5
+10,2:00 PM,Charlotte,56,Rice,23,Charlotte,Rice,99,99,93,37,1,99,99,2022-10-29,5
+10,7:00 PM,Coastal Carolina,24,Marshall,13,Coastal Carolina,Marshall,99,99,57,42,1,99,99,2022-10-29,5
+10,12:00 PM,Connecticut,13,Boston College,3,Connecticut,Boston College,99,99,27,22,0,99,99,2022-10-29,5
+10,7:00 PM,Florida Atlantic,24,Alabama-Birmingham,17,Florida Atlantic,Alabama-Birmingham,99,99,32,6,0,99,99,2022-10-29,5
+10,12:00 PM,Florida State,41,Georgia Tech,16,Florida State,Georgia Tech,99,99,34,69,0,99,99,2022-10-29,5
+10,10:30 PM,Fresno State,32,San Diego State,28,Fresno State,San Diego State,99,99,35,162,0,99,99,2022-10-29,5
+10,3:30 PM,(1) Georgia,42,Florida,20,Georgia,Florida,99,99,72,226,3,1,99,2022-10-29,5
+10,3:00 PM,Georgia State,31,Old Dominion,17,Georgia State,Old Dominion,99,99,38,147,0,99,99,2022-10-29,5
+10,12:00 PM,Houston,42,South Florida,27,Houston,South Florida,99,99,41,169,0,99,99,2022-10-29,5
+10,3:30 PM,(17) Illinois,26,Nebraska,9,Illinois,Nebraska,99,17,71,78,1,17,99,2022-10-29,5
+10,3:30 PM,Iowa,33,Northwestern,13,Iowa,Northwestern,99,99,44,140,0,99,99,2022-10-29,5
+10,3:30 PM,(22) Kansas State,48,(9) Oklahoma State,0,Kansas State,Oklahoma State,22,9,48,146,0,22,9,2022-10-29,5
+10,3:30 PM,Louisville,48,(10) Wake Forest,21,Louisville,Wake Forest,99,10,56,212,0,99,10,2022-10-29,5
+10,12:30 PM,Miami (FL),14,Virginia,12,Miami (FL),Virginia,99,99,122,108,1,99,99,2022-10-29,5
+10,12:00 PM,Miami (OH),27,Akron,9,Miami (OH),Akron,99,99,1,109,1,99,99,2022-10-29,5
+10,7:30 PM,(4) Michigan,29,Michigan State,7,Michigan,Michigan State,4,99,63,111,0,4,99,2022-10-29,5
+10,9:00 PM,Middle Tennessee State,24,Texas-El Paso,13,Middle Tennessee State,Texas-El Paso,99,99,112,112,1,99,99,2022-10-29,5
+10,2:30 PM,Minnesota,31,Rutgers,0,Minnesota,Rutgers,99,99,66,158,0,99,99,2022-10-29,5
+10,7:30 PM,(15) Mississippi,31,Texas A&M,28,Mississippi,Texas A&M,99,15,108,114,1,15,99,2022-10-29,5
+10,4:00 PM,Missouri,23,(25) South Carolina,10,Missouri,South Carolina,25,99,98,116,1,99,25,2022-10-29,5
+10,3:30 PM,Navy,27,Temple,20,Navy,Temple,99,99,70,184,0,99,99,2022-10-29,5
+10,3:30 PM,New Mexico State,23,Massachusetts,13,New Mexico State,Massachusetts,99,99,59,126,1,99,99,2022-10-29,5
+10,8:00 PM,(21) North Carolina,42,Pittsburgh,24,North Carolina,Pittsburgh,21,99,77,151,0,21,99,2022-10-29,5
+10,3:30 PM,North Texas,40,Western Kentucky,13,North Texas,Western Kentucky,99,99,128,135,1,99,99,2022-10-29,5
+10,12:00 PM,Notre Dame,41,(16) Syracuse,24,Notre Dame,Syracuse,16,99,104,142,1,99,16,2022-10-29,5
+10,12:00 PM,(2) Ohio State,44,(13) Penn State,31,Ohio State,Penn State,13,2,90,144,1,2,13,2022-10-29,5
+10,12:00 PM,Oklahoma,27,Iowa State,13,Oklahoma,Iowa State,99,99,45,145,1,99,99,2022-10-29,5
+10,3:30 PM,(8) Oregon,42,California,24,Oregon,California,99,8,18,148,1,8,99,2022-10-29,5
+10,10:30 PM,San Jose State,35,Nevada,28,San Jose State,Nevada,99,99,96,122,0,99,99,2022-10-29,5
+10,4:00 PM,South Alabama,31,Arkansas State,3,South Alabama,Arkansas State,99,99,8,164,1,99,99,2022-10-29,5
+10,6:00 PM,(10) Southern California,45,Arizona,37,Southern California,Arizona,99,10,5,173,1,10,99,2022-10-29,5
+10,3:30 PM,Southern Methodist,45,Tulsa,34,Southern Methodist,Tulsa,99,99,117,175,1,99,99,2022-10-29,5
+10,7:00 PM,(3) Tennessee,44,(19) Kentucky,6,Tennessee,Kentucky,3,19,106,91,0,3,19,2022-10-29,5
+10,12:00 PM,(7) Texas Christian,41,West Virginia,31,Texas Christian,West Virginia,99,7,127,191,1,7,99,2022-10-29,5
+10,12:00 PM,Toledo,27,Eastern Michigan,24,Toledo,Eastern Michigan,99,99,30,197,1,99,99,2022-10-29,5
+10,10:30 PM,(12) UCLA,38,Stanford,13,UCLA,Stanford,12,99,118,179,0,12,99,2022-10-29,5
+10,12:00 AM,Wyoming,27,Hawaii,20,Wyoming,Hawaii,99,99,40,224,1,99,99,2022-10-30,6
+11,7:00 PM,Ball State,27,Kent State,20,Ball State,Kent State,99,99,49,18,1,99,99,2022-11-01,1
+11,7:30 PM,Ohio,45,Buffalo,24,Ohio,Buffalo,99,99,83,27,0,99,99,2022-11-01,1
+11,7:00 PM,Bowling Green,13,Western Michigan,9,Bowling Green,Western Michigan,99,99,15,220,0,99,99,2022-11-02,2
+11,7:00 PM,Central Michigan,35,Northern Illinois,22,Central Michigan,Northern Illinois,99,99,80,35,1,99,99,2022-11-02,2
+11,7:30 PM,Coastal Carolina,35,Appalachian State,28,Coastal Carolina,Appalachian State,99,99,24,9,0,99,99,2022-11-03,3
+11,7:00 PM,Rice,37,Texas-El Paso,30,Rice,Texas-El Paso,99,99,93,195,0,99,99,2022-11-03,3
+11,7:00 PM,Connecticut,27,Massachusetts,10,Connecticut,Massachusetts,99,99,27,104,0,99,99,2022-11-04,4
+11,7:00 PM,Duke,38,Boston College,31,Duke,Boston College,99,99,14,48,1,99,99,2022-11-04,4
+11,10:30 PM,Washington,24,(24) Oregon State,21,Washington,Oregon State,99,24,125,149,0,99,24,2022-11-04,4
+11,11:30 AM,Air Force,13,Army,7,Air Force,Army,99,99,72,226,3,99,99,2022-11-05,5
+11,3:00 PM,Baylor,38,Oklahoma,35,Baylor,Oklahoma,99,99,85,19,1,99,99,2022-11-05,5
+11,7:00 PM,Brigham Young,31,Boise State,28,Brigham Young,Boise State,99,99,13,24,1,99,99,2022-11-05,5
+11,3:30 PM,(25) Central Florida,35,Memphis,28,Central Florida,Memphis,99,25,60,34,1,25,99,2022-11-05,5
+11,4:00 PM,Cincinnati,20,Navy,10,Cincinnati,Navy,99,99,22,120,0,99,99,2022-11-05,5
+11,12:00 PM,Florida,41,Texas A&M,24,Florida,Texas A&M,99,99,108,57,1,99,99,2022-11-05,5
+11,7:30 PM,Florida State,45,Miami (FL),3,Florida State,Miami (FL),99,99,61,61,1,99,99,2022-11-05,5
+11,10:30 PM,Fresno State,55,Hawaii,13,Fresno State,Hawaii,99,99,35,71,0,99,99,2022-11-05,5
+11,3:30 PM,(1) Georgia,27,(2) Tennessee,13,Georgia,Tennessee,1,2,36,185,0,1,2,2022-11-05,5
+11,3:00 PM,Georgia State,42,Southern Mississippi,14,Georgia State,Southern Mississippi,99,99,102,68,1,99,99,2022-11-05,5
+11,12:30 PM,Georgia Tech,28,Virginia Tech,27,Georgia Tech,Virginia Tech,99,99,123,69,1,99,99,2022-11-05,5
+11,12:00 PM,Iowa,24,Purdue,3,Iowa,Purdue,99,99,92,83,1,99,99,2022-11-05,5
+11,3:30 PM,Iowa State,31,West Virginia,14,Iowa State,West Virginia,99,99,45,216,0,99,99,2022-11-05,5
+11,3:30 PM,Kansas,37,(18) Oklahoma State,16,Kansas,Oklahoma State,99,18,47,146,0,99,18,2022-11-05,5
+11,12:00 PM,Kentucky,21,Missouri,17,Kentucky,Missouri,99,99,69,91,1,99,99,2022-11-05,5
+11,4:00 PM,(23) Liberty,21,Arkansas,19,Liberty,Arkansas,99,23,7,94,1,23,99,2022-11-05,5
+11,7:00 PM,(15) Louisiana State,32,(6) Alabama,31,Louisiana State,Alabama,15,6,53,3,0,15,6,2022-11-05,5
+11,3:00 PM,Louisiana Tech,40,Middle Tennessee State,24,Louisiana Tech,Middle Tennessee State,99,99,54,112,0,99,99,2022-11-05,5
+11,5:00 PM,Louisiana-Monroe,31,Texas State,30,Louisiana-Monroe,Texas State,99,99,55,193,0,99,99,2022-11-05,5
+11,7:30 PM,Louisville,34,James Madison,10,Louisville,James Madison,99,99,56,86,0,99,99,2022-11-05,5
+11,2:00 PM,Marshall,12,Old Dominion,0,Marshall,Old Dominion,99,99,87,102,1,99,99,2022-11-05,5
+11,7:30 PM,(4) Michigan,52,Rutgers,17,Michigan,Rutgers,99,4,94,110,1,4,99,2022-11-05,5
+11,3:30 PM,Michigan State,23,(14) Illinois,15,Michigan State,Illinois,14,99,42,111,1,99,14,2022-11-05,5
+11,12:00 PM,Minnesota,20,Nebraska,13,Minnesota,Nebraska,99,99,71,113,1,99,99,2022-11-05,5
+11,7:30 PM,Mississippi State,39,Auburn,33,Mississippi State,Auburn,99,99,68,16,0,99,99,2022-11-05,5
+11,12:00 PM,(17) North Carolina,31,Virginia,28,North Carolina,Virginia,99,17,122,130,1,17,99,2022-11-05,5
+11,8:00 PM,(21) North Carolina State,30,(20) Wake Forest,21,North Carolina State,Wake Forest,21,20,78,212,0,21,20,2022-11-05,5
+11,4:00 PM,North Texas,52,Florida International,14,North Texas,Florida International,99,99,79,60,0,99,99,2022-11-05,5
+11,7:30 PM,Notre Dame,35,(5) Clemson,14,Notre Dame,Clemson,99,5,82,41,0,99,5,2022-11-05,5
+11,12:00 PM,(2) Ohio State,21,Northwestern,7,Ohio State,Northwestern,99,2,81,144,1,2,99,2022-11-05,5
+11,3:30 PM,(8) Oregon,49,Colorado,10,Oregon,Colorado,99,8,25,148,1,8,99,2022-11-05,5
+11,3:30 PM,(16) Penn State,45,Indiana,14,Penn State,Indiana,99,16,43,150,1,16,99,2022-11-05,5
+11,3:30 PM,Pittsburgh,19,(22) Syracuse,9,Pittsburgh,Syracuse,99,22,91,182,0,99,22,2022-11-05,5
+11,7:00 PM,San Diego State,14,Nevada-Las Vegas,10,San Diego State,Nevada-Las Vegas,99,99,95,123,0,99,99,2022-11-05,5
+11,10:30 PM,San Jose State,28,Colorado State,16,San Jose State,Colorado State,99,99,96,45,0,99,99,2022-11-05,5
+11,4:00 PM,South Alabama,38,Georgia Southern,31,South Alabama,Georgia Southern,99,99,37,164,1,99,99,2022-11-05,5
+11,7:30 PM,South Carolina,38,Vanderbilt,27,South Carolina,Vanderbilt,99,99,121,165,1,99,99,2022-11-05,5
+11,10:30 PM,(9) Southern California,41,California,35,Southern California,California,9,99,100,29,0,9,99,2022-11-05,5
+11,7:00 PM,Southern Methodist,77,Houston,63,Southern Methodist,Houston,99,99,101,73,0,99,99,2022-11-05,5
+11,2:00 PM,Temple,54,South Florida,28,Temple,South Florida,99,99,105,169,0,99,99,2022-11-05,5
+11,7:00 PM,Texas,34,(13) Kansas State,27,Texas,Kansas State,13,99,48,189,1,99,13,2022-11-05,5
+11,12:00 PM,(7) Texas Christian,34,Texas Tech,24,Texas Christian,Texas Tech,7,99,109,194,0,7,99,2022-11-05,5
+11,3:30 PM,Texas-San Antonio,44,Alabama-Birmingham,38,Texas-San Antonio,Alabama-Birmingham,99,99,3,196,1,99,99,2022-11-05,5
+11,5:00 PM,Troy,23,Louisiana,17,Troy,Louisiana,99,99,52,199,1,99,99,2022-11-05,5
+11,12:00 PM,(19) Tulane,27,Tulsa,13,Tulane,Tulsa,99,19,117,200,1,19,99,2022-11-05,5
+11,9:30 PM,(10) UCLA,50,Arizona State,36,UCLA,Arizona State,99,10,6,202,1,10,99,2022-11-05,5
+11,7:30 PM,(12) Utah,45,Arizona,20,Utah,Arizona,12,99,119,10,0,12,99,2022-11-05,5
+11,3:30 PM,Utah State,27,New Mexico,10,Utah State,New Mexico,99,99,120,125,0,99,99,2022-11-05,5
+11,3:30 PM,Washington State,52,Stanford,14,Washington State,Stanford,99,99,103,214,1,99,99,2022-11-05,5
+11,12:00 PM,Western Kentucky,59,Charlotte,7,Western Kentucky,Charlotte,99,99,21,219,1,99,99,2022-11-05,5
+11,12:00 PM,Wisconsin,23,Maryland,10,Wisconsin,Maryland,99,99,130,103,0,99,99,2022-11-05,5
+12,7:00 PM,Eastern Michigan,34,Akron,28,Eastern Michigan,Akron,99,99,1,54,1,99,99,2022-11-08,1
+12,7:30 PM,Ohio,37,Miami (OH),21,Ohio,Miami (OH),99,99,62,143,1,99,99,2022-11-08,1
+12,8:00 PM,Toledo,28,Ball State,21,Toledo,Ball State,99,99,114,18,0,99,99,2022-11-08,1
+12,7:00 PM,Central Michigan,31,Buffalo,27,Central Michigan,Buffalo,99,99,20,27,0,99,99,2022-11-09,2
+12,7:00 PM,Kent State,40,Bowling Green,6,Kent State,Bowling Green,99,99,15,90,1,99,99,2022-11-09,2
+12,7:00 PM,Northern Illinois,24,Western Michigan,21,Northern Illinois,Western Michigan,99,99,129,138,1,99,99,2022-11-09,2
+12,7:30 PM,Louisiana,36,Georgia Southern,17,Louisiana,Georgia Southern,99,99,52,67,0,99,99,2022-11-10,3
+12,7:30 PM,Memphis,26,Tulsa,10,Memphis,Tulsa,99,99,60,201,0,99,99,2022-11-10,3
+12,8:00 PM,Cincinnati,27,East Carolina,25,Cincinnati,East Carolina,99,99,22,50,0,99,99,2022-11-11,4
+12,10:30 PM,Fresno State,37,Nevada-Las Vegas,30,Fresno State,Nevada-Las Vegas,99,99,74,63,1,99,99,2022-11-11,4
+12,9:30 PM,(8) Southern California,53,Colorado,19,Southern California,Colorado,8,99,100,44,0,8,99,2022-11-11,4
+12,3:30 PM,Air Force,35,New Mexico,3,Air Force,New Mexico,99,99,0,125,0,99,99,2022-11-12,5
+12,3:30 PM,(10) Alabama,30,(11) Mississippi,24,Alabama,Mississippi,11,10,67,3,1,10,11,2022-11-12,5
+12,3:30 PM,Alabama-Birmingham,41,North Texas,21,Alabama-Birmingham,North Texas,99,99,3,135,0,99,99,2022-11-12,5
+12,10:30 PM,Arizona,34,(9) UCLA,28,Arizona,UCLA,9,99,118,10,1,99,9,2022-11-12,5
+12,3:00 PM,Arkansas State,35,Massachusetts,33,Arkansas State,Massachusetts,99,99,8,104,0,99,99,2022-11-12,5
+12,7:30 PM,Auburn,13,Texas A&M,10,Auburn,Texas A&M,99,99,10,190,0,99,99,2022-11-12,5
+12,10:30 PM,Boise State,41,Nevada,3,Boise State,Nevada,99,99,73,21,1,99,99,2022-11-12,5
+12,3:30 PM,Boston College,21,(17) North Carolina State,20,Boston College,North Carolina State,17,99,78,22,1,99,17,2022-11-12,5
+12,3:30 PM,(22) Central Florida,38,(16) Tulane,31,Central Florida,Tulane,16,22,116,34,1,22,16,2022-11-12,5
+12,3:30 PM,(12) Clemson,31,Louisville,16,Clemson,Louisville,12,99,23,100,0,12,99,2022-11-12,5
+12,7:30 PM,Coastal Carolina,26,Southern Mississippi,23,Coastal Carolina,Southern Mississippi,99,99,24,176,0,99,99,2022-11-12,5
+12,12:00 PM,Connecticut,36,(19) Liberty,33,Connecticut,Liberty,99,19,27,94,0,99,19,2022-11-12,5
+12,12:00 PM,Duke,24,Virginia Tech,7,Duke,Virginia Tech,99,99,28,210,0,99,99,2022-11-12,5
+12,4:00 PM,Florida,38,South Carolina,6,Florida,South Carolina,99,99,31,165,0,99,99,2022-11-12,5
+12,7:00 PM,Florida Atlantic,52,Florida International,7,Florida Atlantic,Florida International,99,99,33,59,1,99,99,2022-11-12,5
+12,8:00 PM,(25) Florida State,38,Syracuse,3,Florida State,Syracuse,99,25,104,61,1,25,99,2022-11-12,5
+12,7:00 PM,(1) Georgia,45,Mississippi State,19,Georgia,Mississippi State,99,1,68,66,1,1,99,2022-11-12,5
+12,3:00 PM,Houston,43,Temple,36,Houston,Temple,99,99,41,184,0,99,99,2022-11-12,5
+12,3:35 PM,Iowa,24,Wisconsin,10,Iowa,Wisconsin,99,99,44,222,0,99,99,2022-11-12,5
+12,1:00 PM,James Madison,37,Old Dominion,3,James Madison,Old Dominion,99,99,87,86,1,99,99,2022-11-12,5
+12,7:00 PM,(23) Kansas State,31,Baylor,3,Kansas State,Baylor,99,23,12,88,1,23,99,2022-11-12,5
+12,12:00 PM,(7) Louisiana State,13,Arkansas,10,Louisiana State,Arkansas,99,7,7,97,1,7,99,2022-11-12,5
+12,1:00 PM,Louisiana-Monroe,31,Georgia State,28,Louisiana-Monroe,Georgia State,99,99,38,99,1,99,99,2022-11-12,5
+12,3:30 PM,Marshall,28,Appalachian State,21,Marshall,Appalachian State,99,99,57,9,0,99,99,2022-11-12,5
+12,3:30 PM,Miami (FL),35,Georgia Tech,14,Miami (FL),Georgia Tech,99,99,39,108,1,99,99,2022-11-12,5
+12,3:30 PM,(3) Michigan,34,Nebraska,3,Michigan,Nebraska,3,99,63,121,0,3,99,2022-11-12,5
+12,12:00 PM,Michigan State,27,Rutgers,21,Michigan State,Rutgers,99,99,64,158,0,99,99,2022-11-12,5
+12,3:30 PM,Middle Tennessee State,24,Charlotte,14,Middle Tennessee State,Charlotte,99,99,65,37,0,99,99,2022-11-12,5
+12,3:30 PM,Minnesota,31,Northwestern,3,Minnesota,Northwestern,99,99,66,140,0,99,99,2022-11-12,5
+12,2:00 PM,New Mexico State,51,Lamar,14,New Mexico State,Lamar,99,99,76,93,0,99,99,2022-11-12,5
+12,7:30 PM,(15) North Carolina,36,Wake Forest,34,North Carolina,Wake Forest,99,15,124,130,1,15,99,2022-11-12,5
+12,12:00 PM,(20) Notre Dame,35,Navy,32,Notre Dame,Navy,99,99,72,226,3,20,99,2022-11-12,5
+12,12:00 PM,(2) Ohio State,56,Indiana,14,Ohio State,Indiana,2,99,84,81,0,2,99,2022-11-12,5
+12,3:30 PM,Oklahoma State,20,Iowa State,14,Oklahoma State,Iowa State,99,99,86,84,0,99,99,2022-11-12,5
+12,9:00 PM,Oregon State,38,California,10,Oregon State,California,99,99,89,29,0,99,99,2022-11-12,5
+12,3:30 PM,(14) Penn State,30,Maryland,0,Penn State,Maryland,14,99,90,103,0,14,99,2022-11-12,5
+12,12:00 PM,Pittsburgh,31,Virginia,7,Pittsburgh,Virginia,99,99,122,151,1,99,99,2022-11-12,5
+12,12:00 PM,Purdue,31,(21) Illinois,24,Purdue,Illinois,21,99,42,153,1,99,21,2022-11-12,5
+12,10:30 PM,San Diego State,43,San Jose State,27,San Diego State,San Jose State,99,99,95,163,0,99,99,2022-11-12,5
+12,5:00 PM,South Alabama,38,Texas State,21,South Alabama,Texas State,99,99,97,193,0,99,99,2022-11-12,5
+12,12:00 PM,Southern Methodist,41,South Florida,23,Southern Methodist,South Florida,99,99,99,175,1,99,99,2022-11-12,5
+12,12:00 PM,(5) Tennessee,66,Missouri,24,Tennessee,Missouri,5,99,106,116,0,5,99,2022-11-12,5
+12,7:30 PM,(4) Texas Christian,17,(18) Texas,10,Texas Christian,Texas,18,4,107,191,1,4,18,2022-11-12,5
+12,7:00 PM,Texas Tech,43,Kansas,28,Texas Tech,Kansas,99,99,111,87,0,99,99,2022-11-12,5
+12,3:30 PM,Texas-San Antonio,51,Louisiana Tech,7,Texas-San Antonio,Louisiana Tech,99,99,113,98,0,99,99,2022-11-12,5
+12,3:30 PM,Troy,10,Army,9,Troy,Army,99,99,115,15,0,99,99,2022-11-12,5
+12,10:00 PM,(13) Utah,42,Stanford,7,Utah,Stanford,13,99,119,179,0,13,99,2022-11-12,5
+12,11:00 PM,Utah State,41,Hawaii,34,Utah State,Hawaii,99,99,40,204,1,99,99,2022-11-12,5
+12,12:00 PM,Vanderbilt,24,Kentucky,21,Vanderbilt,Kentucky,99,99,50,206,1,99,99,2022-11-12,5
+12,7:00 PM,(24) Washington,37,(6) Oregon,34,Washington,Oregon,6,24,88,213,1,24,6,2022-11-12,5
+12,3:30 PM,Washington State,28,Arizona State,18,Washington State,Arizona State,99,99,126,11,0,99,99,2022-11-12,5
+12,12:00 PM,West Virginia,23,Oklahoma,20,West Virginia,Oklahoma,99,99,127,145,0,99,99,2022-11-12,5
+12,2:00 PM,Western Kentucky,45,Rice,10,Western Kentucky,Rice,99,99,128,155,0,99,99,2022-11-12,5
+12,7:00 PM,Wyoming,14,Colorado State,13,Wyoming,Colorado State,99,99,26,224,1,99,99,2022-11-12,5
+13,7:00 PM,Bowling Green,42,Toledo,35,Bowling Green,Toledo,99,99,114,23,1,99,99,2022-11-15,1
+13,7:00 PM,Ohio,32,Ball State,18,Ohio,Ball State,99,99,11,143,1,99,99,2022-11-15,1
+13,6:00 PM,Eastern Michigan,31,Kent State,24,Eastern Michigan,Kent State,99,99,49,54,1,99,99,2022-11-16,2
+13,7:00 PM,Miami (OH),29,Northern Illinois,23,Miami (OH),Northern Illinois,99,99,80,109,1,99,99,2022-11-16,2
+13,8:00 PM,Western Michigan,12,Central Michigan,10,Western Michigan,Central Michigan,99,99,20,220,1,99,99,2022-11-16,2
+13,7:30 PM,(21) Tulane,59,Southern Methodist,24,Tulane,Southern Methodist,21,99,116,175,0,21,99,2022-11-17,3
+13,9:45 PM,San Diego State,34,New Mexico,10,San Diego State,New Mexico,99,99,75,162,1,99,99,2022-11-18,4
+13,9:00 PM,Tulsa,48,South Florida,42,Tulsa,South Florida,99,99,117,169,0,99,99,2022-11-18,4
+13,9:00 PM,Air Force,24,Colorado State,12,Air Force,Colorado State,99,99,0,45,0,99,99,2022-11-19,5
+13,3:30 PM,Akron,0,Buffalo,0,Akron,Buffalo,99,99,17,2,1,99,99,2022-11-19,5
+13,12:00 PM,(8) Alabama,34,Austin Peay,0,Alabama,Austin Peay,8,99,2,17,0,8,99,2022-11-19,5
+13,2:30 PM,Appalachian State,27,Old Dominion,14,Appalachian State,Old Dominion,99,99,4,147,0,99,99,2022-11-19,5
+13,7:30 PM,Arkansas,42,(14) Mississippi,27,Arkansas,Mississippi,99,14,7,114,0,99,14,2022-11-19,5
+13,12:00 PM,Army,34,Connecticut,17,Army,Connecticut,99,99,9,46,0,99,99,2022-11-19,5
+13,5:00 PM,Auburn,41,Western Kentucky,17,Auburn,Western Kentucky,99,99,10,219,0,99,99,2022-11-19,5
+13,7:00 PM,Boise State,20,Wyoming,17,Boise State,Wyoming,99,99,131,21,1,99,99,2022-11-19,5
+13,3:30 PM,Brigham Young,52,Utah Tech,26,Brigham Young,Utah Tech,99,99,16,205,0,99,99,2022-11-19,5
+13,5:30 PM,California,27,Stanford,20,California,Stanford,99,99,18,179,0,99,99,2022-11-19,5
+13,3:30 PM,Charlotte,26,Louisiana Tech,21,Charlotte,Louisiana Tech,99,99,21,98,0,99,99,2022-11-19,5
+13,4:00 PM,(22) Cincinnati,23,Temple,3,Cincinnati,Temple,99,22,105,39,1,22,99,2022-11-19,5
+13,3:30 PM,(9) Clemson,40,Miami (FL),10,Clemson,Miami (FL),9,99,23,108,0,9,99,2022-11-19,5
+13,3:30 PM,(23) Coastal Carolina,0,Virginia,0,Coastal Carolina,Virginia,99,23,122,42,1,23,99,2022-11-19,5
+13,12:00 PM,(20) Florida State,49,Louisiana,17,Florida State,Louisiana,20,99,34,96,0,20,99,2022-11-19,5
+13,10:30 PM,Fresno State,41,Nevada,14,Fresno State,Nevada,99,99,73,63,1,99,99,2022-11-19,5
+13,3:30 PM,(1) Georgia,16,Kentucky,6,Georgia,Kentucky,99,1,50,66,1,1,99,2022-11-19,5
+13,5:30 PM,Georgia Tech,21,(13) North Carolina,17,Georgia Tech,North Carolina,13,99,77,69,1,99,13,2022-11-19,5
+13,11:00 PM,Hawaii,31,Nevada-Las Vegas,25,Hawaii,Nevada-Las Vegas,99,99,40,123,0,99,99,2022-11-19,5
+13,2:00 PM,Houston,42,East Carolina,3,Houston,East Carolina,99,99,29,73,1,99,99,2022-11-19,5
+13,12:00 PM,Indiana,39,Michigan State,31,Indiana,Michigan State,99,99,64,81,1,99,99,2022-11-19,5
+13,4:00 PM,Iowa,13,Minnesota,10,Iowa,Minnesota,99,99,66,83,1,99,99,2022-11-19,5
+13,2:00 PM,James Madison,42,Georgia State,40,James Madison,Georgia State,99,99,46,68,0,99,99,2022-11-19,5
+13,2:00 PM,(19) Kansas State,48,West Virginia,31,Kansas State,West Virginia,99,19,127,88,1,19,99,2022-11-19,5
+13,9:00 PM,(6) Louisiana State,41,Alabama-Birmingham,10,Louisiana State,Alabama-Birmingham,6,99,53,6,0,6,99,2022-11-19,5
+13,3:30 PM,Louisville,25,North Carolina State,10,Louisville,North Carolina State,99,99,56,132,0,99,99,2022-11-19,5
+13,6:00 PM,Marshall,23,Georgia Southern,10,Marshall,Georgia Southern,99,99,37,102,1,99,99,2022-11-19,5
+13,2:00 PM,Memphis,59,North Alabama,0,Memphis,North Alabama,99,99,60,129,0,99,99,2022-11-19,5
+13,12:00 PM,(3) Michigan,19,Illinois,17,Michigan,Illinois,3,99,63,78,0,3,99,2022-11-19,5
+13,3:30 PM,Middle Tennessee State,49,Florida Atlantic,21,Middle Tennessee State,Florida Atlantic,99,99,65,59,0,99,99,2022-11-19,5
+13,12:00 PM,Mississippi State,56,East Tennessee State,7,Mississippi State,East Tennessee State,99,99,68,51,0,99,99,2022-11-19,5
+13,7:30 PM,Missouri,45,New Mexico State,14,Missouri,New Mexico State,99,99,69,126,0,99,99,2022-11-19,5
+13,11:00 AM,Navy,17,(17) Central Florida,14,Navy,Central Florida,17,99,19,120,1,99,17,2022-11-19,5
+13,2:30 PM,(18) Notre Dame,44,Boston College,0,Notre Dame,Boston College,18,99,82,22,0,18,99,2022-11-19,5
+13,3:30 PM,(2) Ohio State,43,Maryland,30,Ohio State,Maryland,99,2,58,144,1,2,99,2022-11-19,5
+13,7:30 PM,Oklahoma,28,(24) Oklahoma State,13,Oklahoma,Oklahoma State,99,24,85,146,0,99,24,2022-11-19,5
+13,10:30 PM,(12) Oregon,20,(10) Utah,17,Oregon,Utah,12,10,88,203,0,12,10,2022-11-19,5
+13,2:15 PM,(25) Oregon State,31,Arizona State,7,Oregon State,Arizona State,99,25,6,149,1,25,99,2022-11-19,5
+13,3:30 PM,(11) Penn State,55,Rutgers,10,Penn State,Rutgers,99,11,94,150,1,11,99,2022-11-19,5
+13,12:00 PM,Pittsburgh,28,Duke,26,Pittsburgh,Duke,99,99,91,48,0,99,99,2022-11-19,5
+13,12:00 PM,Purdue,17,Northwestern,9,Purdue,Northwestern,99,99,92,140,0,99,99,2022-11-19,5
+13,3:30 PM,South Alabama,27,Southern Mississippi,20,South Alabama,Southern Mississippi,99,99,102,164,1,99,99,2022-11-19,5
+13,7:00 PM,South Carolina,63,(5) Tennessee,38,South Carolina,Tennessee,99,5,98,185,0,99,5,2022-11-19,5
+13,8:00 PM,(7) Southern California,48,(16) UCLA,45,Southern California,UCLA,16,7,118,173,1,7,16,2022-11-19,5
+13,3:30 PM,Texas,55,Kansas,14,Texas,Kansas,99,99,47,189,1,99,99,2022-11-19,5
+13,1:00 PM,Texas A&M,20,Massachusetts,3,Texas A&M,Massachusetts,99,99,108,104,0,99,99,2022-11-19,5
+13,12:00 PM,(4) Texas Christian,29,Baylor,28,Texas Christian,Baylor,99,4,12,191,1,4,99,2022-11-19,5
+13,5:00 PM,Texas State,16,Arkansas State,13,Texas State,Arkansas State,99,99,110,13,0,99,99,2022-11-19,5
+13,7:00 PM,Texas Tech,14,Iowa State,10,Texas Tech,Iowa State,99,99,45,194,1,99,99,2022-11-19,5
+13,4:00 PM,Texas-El Paso,40,Florida International,6,Texas-El Paso,Florida International,99,99,112,60,0,99,99,2022-11-19,5
+13,1:00 PM,Texas-San Antonio,41,Rice,7,Texas-San Antonio,Rice,99,99,93,196,1,99,99,2022-11-19,5
+13,3:30 PM,Troy,34,Louisiana-Monroe,16,Troy,Louisiana-Monroe,99,99,115,99,0,99,99,2022-11-19,5
+13,9:45 PM,Utah State,35,San Jose State,31,Utah State,San Jose State,99,99,120,163,0,99,99,2022-11-19,5
+13,12:00 PM,Vanderbilt,31,Florida,24,Vanderbilt,Florida,99,99,121,57,0,99,99,2022-11-19,5
+13,12:00 PM,Virginia Tech,23,Liberty,22,Virginia Tech,Liberty,99,99,51,210,1,99,99,2022-11-19,5
+13,8:00 PM,Wake Forest,45,Syracuse,35,Wake Forest,Syracuse,99,99,124,182,0,99,99,2022-11-19,5
+13,9:00 PM,(15) Washington,54,Colorado,7,Washington,Colorado,15,99,125,44,0,15,99,2022-11-19,5
+13,2:00 PM,Washington State,31,Arizona,20,Washington State,Arizona,99,99,5,214,1,99,99,2022-11-19,5
+13,12:00 PM,Wisconsin,15,Nebraska,14,Wisconsin,Nebraska,99,99,71,222,1,99,99,2022-11-19,5
